@@ -95,6 +95,7 @@ AI tools/Site
 - [iAsk.ai](https://iask.ai/) - AI-powered answer engine that provides accurate, factual answers to questions.
 - [OSINT LLM](https://huggingface.co/spaces/tomvaillant/osint-llm) - AI-powered OSINT assistant on Hugging Face.
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
+- [Threat Intelligence AI](https://threatlandscape.ai/) - Threat Landscape Copilot - Conversational access to continuously updated, structured threat intelligence.
 <br>
 
 [⇧ Top](#index)
@@ -200,6 +201,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Shadowlibraries.github.io](https://shadowlibraries.github.io/) - A Pirate Library Archive
 - [Editor.typely.com](https://editor.typely.com/) - Free online proofreading and essay editor
 - [annas-archive](https://annas-archive.li) - largest collection of variety books and blogs
+- [https://stix-viewer.threatlandscape.io/](https://stix-viewer.threatlandscape.io/) - An online free STIX viewer / visualizer.
 <br>
 
 [⇧ Top](#index)
@@ -517,6 +519,7 @@ START FOR FREE
 - [Cyber Threat Map](https://www.fireeye.com/cyber-map/threat-map.html) -
 - [Bitdefender Threat Map](https://threatmap.bitdefender.com/) - cyberthreat realtime map
 - [Cyber Threat Intelligence](https://pulsedive.com/) - Frictionless threat intelligence solutions for growing teams
+- [Threat Landscape](https://threatlandscape.io/) - Extracts, structures, and connects global OSINT and darknet signals into intelligence
 - [Cisco Talos Intelligence Group](https://talosintelligence.com/) - Gather Intelligence for IPs, Domain, network of file
 - [Fortinet Threat Map](https://threatmap.fortiguard.com/) -
 - [FortiGuard](http://www.fortiguard.com/) - AI-Powered Threat Intelligence for an Evolving Digital World.
