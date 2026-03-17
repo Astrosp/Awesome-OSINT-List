@@ -1151,7 +1151,7 @@ the number of views or likes.
 - [EXIF Data Viewer](http://exifdata.com/) - EXIF is short for Exchangeable Image File, a format that is a standard for storing interchange information in digital photography image files using JPEG compression. Almost all new digital cameras use the EXIF annotation, storing information on the image such as shutter speed, exposure compensation, F number, what metering system was used, if a flash was used, ISO number, date and time the image was taken, whitebalance, auxiliary lenses that were used and resolution. Some images may even store GPS information so you can easily see where the images were taken!
 - [Background Removal Tool](https://photoscissors.com/) - Remove a background and replace it with a transparent, solid color or background image with just a few clicks!
 - [Museo](https://museo.app/) - Museo is a visual search engine that connects you with the Art Institute of Chicago, the Rijksmuseum, the Harvard Art Museums, the Minneapolis Institute of Art, the The Cleveland Museum of Art, and the New York Public Library Digital Collection
-- [Diff Checker](https://www.diffchecker.com/image-diff/) - Find the difference between pictures or other images!
+- [Diff Checker](https://diffchecker.dev/image/) - Find the difference between pictures or other images!
 Enter two images and the difference will show up below
 - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) - Forensically is a set of free tools for digital image forensics. It includes clone detection, error level analysis, meta data extraction and more.
 - [Pictriev](http://pictriev.com/) - Find look-alike celebrities on the web using the face recognition.
