@@ -332,6 +332,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Fake Youtube Channel Generator](https://fakeinfo.net/fake-youtube-channel-generator) - d you ever wish to become a YouTuber with a large number of subscribers? Well, dreams do come true. By using the Fake Youtube Channel Generator tool, you may create a fake youtube channel with an attractive channel name and several subscribers.
 - [Resume Builder](https://vinaysomawat.github.io/Resume-Builder/) - simple resume builder
 - [Fake Generator Tools](https://fauxid.com/tools) - Here are a list of tools that can help you create fake identities, fake emails, fake credit cards, fake driver's license, and a fake company.
+- [RandTap](https://randtap.com) - Free random data generator tools. Generate phone numbers, addresses, passwords, colors and more.
 <br>
 
 [⇧ Top](#index)
