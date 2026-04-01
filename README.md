@@ -1211,6 +1211,7 @@ Enter two images and the difference will show up below
 - [Flightradar24](https://www.flightradar24.com/) - Live Flight Tracker - Real-Time Flight Tracker Map
 - [Live Air Traffic Control](https://www.liveatc.net/) - Live Air traffic form thir headsets
 - [Planespotters.net](https://www.planespotters.net/) - Aviation Photos, Airline Fleets and more
+- [Phantom Tide](https://github.com/tg12/phantomtide) - Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections for maritime and airspace analysis.
 - [Skyscanner](https://www.skyscanner.com/) - Millions of cheap flights, hotels & cars. One simple search.
 - [RadarBox](https://www.radarbox.com/) - RadarBox is a flight tracking company that displays aircraft & flight information in real-time on a map. RadarBox offers flight data such as latitude and longitude positions, origins and destinations, flight numbers, aircraft types, altitudes, headings and speeds
 - [FlightAirMap](https://www.flightairmap.com/) - Real or virtual flights are displayed in real-time on a 2D or 3D map. Airports are also available on map. Statistics for pilots and/or owners are generated.
