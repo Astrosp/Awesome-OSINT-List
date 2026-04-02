@@ -101,7 +101,7 @@ AI tools/Site
 [⇧ Top](#index)
 
 ## Recon
-- [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets. `pip install iploop-sdk`
+
 Tools for Image/Audio/Video/Doc reconnaissance
 
 - [FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
@@ -1369,6 +1369,7 @@ Enter two images and the difference will show up below
 - [IP THC](https://ip.thc.org/) - Quick IP address lookup and information tool.
 - [CertGrep](https://certgrep.sh/) - SSL/TLS certificate search and monitoring.
 - [TriNetLayer](https://trinetlayer.com/) - Network layer analysis and IP intelligence.
+- [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets.
 <br>
 
 [⇧ Top](#index)
