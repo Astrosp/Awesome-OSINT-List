@@ -282,7 +282,8 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 ## THROWAWAY CONTACT/Temporary contact
 
 - [10minutemail.com](https://10minutemail.com/) - Disposable mail for 10 min.
-- [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding Create Unlimited Email Aliases For Free and best part Its OpenSource
+- [anon.li Alias](https://anon.li/alias) - Free email aliasing service, that allows you to hide your email from bad actors. Offers a **free** plan, with PGP encryption and reply support, 11 free aliases.
+- [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding Create Unlimited Email Aliases For Free and best part it's open source
 - [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously
 - [MailDrop](https://maildrop.cc/) - Save your inbox from spam. Use Maildrop when you don't want to give out your real address No signup required - Maildrop is free for anyone to use when you need a quick, disposable email address.
 - [Send text free](https://globfone.com/send-text/) - Send text online without worrying about phone bills. Free SMS to hundreds of GSM operators worldwide
