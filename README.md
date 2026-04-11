@@ -15,7 +15,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
 ## Index
- [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools) ⁕ [Academic & Research Databases](#academic--research-databases) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research) ⁕ [LLM Security / AI Security](#llm-security--ai-security)
+ [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Messaging Apps & Communication](#messaging-apps--communication) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [Video OSINT & Verification](#video-osint--verification) ⁕ [Metadata & File Analysis](#metadata--file-analysis) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools) ⁕ [Academic & Research Databases](#academic--research-databases) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research) ⁕ [LLM Security / AI Security](#llm-security--ai-security)
 
 
 #### <i>Some of other OSINT tools List</i>
@@ -1014,6 +1014,42 @@ the number of views or likes.
 <br>
 
 [⇧ Top](#index)
+## MESSAGING APPS & COMMUNICATION
+
+### WhatsApp
+- [WACheck](https://wacheck.online/) - Check if a phone number is on WhatsApp.
+- [WATools](https://watools.io/) - Collection of WhatsApp tools and utilities.
+- [WhatsApp Reverse Phone Lookup](https://www.reversephonecheck.com/) - Find WhatsApp users by phone number.
+- [WhatsApp Link Generator](https://create.wa.link/) - Create WhatsApp chat links without saving contacts.
+
+### Signal
+- [Signal](https://signal.org/) - Encrypted messaging app with strong privacy focus.
+- [Signal Safety Numbers](https://support.signal.org/hc/en-us/articles/360007060632-What-is-a-safety-number-and-why-do-I-see-that-it-changed-) - Verify Signal contacts.
+
+### WeChat
+- [WeChat](https://www.wechat.com/) - Chinese multi-purpose messaging and social media app.
+- [WeChat Search](https://weixin.sogou.com/) - Sogou WeChat search for public accounts and articles.
+
+### Viber
+- [Viber](https://www.viber.com/) - Messaging and VoIP app.
+- [Viber Public Chats](https://www.viber.com/en/public-chats/) - Discover Viber public channels.
+
+### LINE
+- [LINE](https://line.me/) - Japanese messaging app with extensive features.
+- [LINE Official Account Search](https://line.me/en/search) - Search LINE official accounts.
+
+### KakaoTalk
+- [KakaoTalk](https://www.kakaocorp.com/page/service/service/KakaoTalk) - South Korean messaging platform.
+- [KakaoTalk Plus Friends](https://pf.kakao.com/) - Discover KakaoTalk official accounts.
+
+### Other Messaging Platforms
+- [Discord Server Search](https://discord.me/) - Discover Discord servers.
+- [Disboard](https://disboard.org/) - Public Discord server directory.
+- [Slack Workspaces](https://slackarchive.io/) - Archive and search Slack workspaces.
+- [Element (Matrix)](https://element.io/) - Decentralized secure messaging.
+<br>
+
+[⇧ Top](#index)
 
 ## BOT
 
@@ -1212,6 +1248,44 @@ Enter two images and the difference will show up below
 - [Listen Notes](https://www.listennotes.com/) - Search the whole Internet's podcasts. Curate your own podcast playlists. Listen on your favorite podcast player apps.
 - [Discover Podcasts Here!](https://podsearch.com/) - PodSearch is the easiest way to discover podcasts on your favorite topics. Listen to short show samples, learn more about the show and hosts
 - [SongFromLink](https://songfromlink.com/) - Identify background music from TikTok, YouTube Shorts, Instagram Reels, X, and Facebook Reels video links.
+<br>
+
+[⇧ Top](#index)
+## VIDEO OSINT & VERIFICATION
+
+- [InVID/WeVerify](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - Video verification plugin for journalists and fact-checkers.
+- [YouTube DataViewer](https://citizenevidence.amnestyusa.org/) - Amnesty International's YouTube metadata extraction tool.
+- [TubeArchivist](https://www.tubearchivist.com/) - Self-hosted YouTube media server and archiver.
+- [YouTube Comment Finder](https://ytcomment.kmcat.uk/) - Search YouTube comments by keyword.
+- [YouTube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html) - Find geotagged YouTube videos.
+- [Montage](https://mever.iti.gr/montage/) - Video verification and analysis tool.
+- [Frame by Frame Video Analysis](https://www.watchframebyframe.com/) - Watch videos frame by frame for verification.
+- [YouTube Thumbnail Grabber](https://www.youtube-thumbnail.com/) - Extract YouTube video thumbnails.
+- [Vimeo](https://vimeo.com/) - Video hosting and discovery platform.
+- [Dailymotion](https://www.dailymotion.com/) - Video sharing platform.
+- [Bilibili](https://www.bilibili.com/) - Chinese video sharing platform.
+- [Deepfake Detection](https://deepware.ai/) - AI-powered deepfake video detection.
+- [Microsoft Video Authenticator](https://www.microsoft.com/en-us/ai/video-authenticator) - Deepfake detection tool by Microsoft.
+- [Sensity](https://sensity.ai/) - Visual threat intelligence and deepfake detection platform.
+- [Video Verification Tools](https://toolbox.google.com/factcheck/explorer) - Google Fact Check Explorer for video claims.
+<br>
+
+[⇧ Top](#index)
+## METADATA & FILE ANALYSIS
+
+- [ExifTool](https://exiftool.org/) - Platform-independent library and command-line application for reading, writing and editing meta information.
+- [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) - Detailed EXIF data viewer for photos.
+- [Metadata2Go](https://www.metadata2go.com/) - Online metadata viewer and editor for various file types.
+- [Get-Metadata](https://www.get-metadata.com/) - Extract metadata from documents, images, videos.
+- [FOCA](https://github.com/ElevenPaths/FOCA) - Metadata analysis tool for documents and files.
+- [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester from public documents.
+- [Mat2](https://0xacab.org/jvoisin/mat2) - Metadata removal tool for privacy.
+- [PDF Parser](https://blog.didierstevens.com/programs/pdf-tools/) - Analyze and parse PDF files for metadata and structure.
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware analysis tool for embedded file extraction.
+- [TrID](https://mark0.net/soft-trid-e.html) - File identifier based on binary signatures.
+- [File Signature Database](https://www.filesignatures.net/) - Database of file type signatures and headers.
+- [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files and URLs for malware (also in Malware section).
+- [Filesec.io](https://filesec.io/) - Latest file extension security threats and information.
 <br>
 
 [⇧ Top](#index)
@@ -1456,6 +1530,9 @@ Enter two images and the difference will show up below
 - [Lubbock Live Traffic Cameras](https://www.arcgis.com/apps/webappviewer/index.html?id=affe50ac55824c7a8c757d3980787e31)
 - [Hong Kong Traffic Data & Cams](https://www.arcgis.com/apps/dashboards/47be6372a0434beaba99ae9c9f1d598d)
 - [Baton Rouge Traffic Cams](https://www.arcgis.com/apps/webappviewer/index.html?id=0ec05ffb0d2d4735a969e8f31f820a7b)
+- [Wigle.net](https://wigle.net/) - Wireless network mapping and WiFi hotspot database worldwide.
+- [Thingful](https://www.thingful.net/) - IoT search engine for connected devices and sensors.
+- [Shodan Webcam Search](https://www.shodan.io/search?query=has_screenshot%3Atrue+webcam) - Search for webcams using Shodan.
 <br>
 
 [⇧ Top](#index)
@@ -1557,6 +1634,10 @@ Enter two images and the difference will show up below
 - [felt](https://felt.com) - create map-based visualizations
 - [TradeMap](https://www.trademap.org/Index.aspx) - Trade map of world by counties (import/export)
 - [OpenGridWorks](https://opengridworks.com/) - Infrastructure and electrical grid mapping and analysis platform.
+- [Apple Maps](https://www.apple.com/maps/) - Apple's mapping service with Look Around feature.
+- [HERE WeGo](https://wego.here.com/) - Maps and navigation with offline capabilities.
+- [OldMapsOnline](https://www.oldmapsonline.org/) - Historical maps from libraries around the world.
+- [Soar Earth](https://soar.earth/) - Geospatial data marketplace and mapping platform.
 <br>
 
 [⇧ Top](#index)
@@ -1636,6 +1717,10 @@ Enter two images and the difference will show up below
 - Access Onion site through visible web: 1. [tor2web](https://tor2web.activetk.jp/)
 										 1. [browserling](https://www.browserling.com/)
 										 2. [4everproxy](https://www.4everproxy.com/tor-proxy)
+- [Dark.fail](https://dark.fail/) - Verified onion link list for darknet markets and services.
+- [OnionScan](https://github.com/s-rah/onionscan) - Tool for investigating hidden services on Tor network.
+- [Tor Metrics](https://metrics.torproject.org/) - Statistics and data about the Tor network.
+- [Darknet Market Archives](https://www.gwern.net/DNM-archives) - Historical archives of darknet markets.
 <br>
 
 [⇧ Top](#index)
