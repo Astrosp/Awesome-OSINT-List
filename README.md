@@ -791,6 +791,7 @@ You are searching 121 billion records.
 - [Botometer](https://botometer.osome.iu.edu/) - Check Twitter account for bot-like behavior.
 - [AccountAnalysis](https://accountanalysis.app/) - Analyze Twitter accounts for authenticity.
 - [TweetDeck](https://tweetdeck.twitter.com/) - Official Twitter dashboard for monitoring.
+- [Xquik](https://xquik.com/) - X (Twitter) data extraction platform for tweet search, user lookup, follower/following lists, engagement metrics, account monitoring, and trending topics. REST API with 40+ endpoints.
 <br>
 
 [⇧ Top](#index)
