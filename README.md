@@ -15,7 +15,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
 ## Index
- [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research) ⁕ [LLM Security / AI Security](#llm-security--ai-security)
+ [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Messaging Apps & Communication](#messaging-apps--communication) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [Video OSINT & Verification](#video-osint--verification) ⁕ [Metadata & File Analysis](#metadata--file-analysis) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools) ⁕ [Academic & Research Databases](#academic--research-databases) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research) ⁕ [LLM Security / AI Security](#llm-security--ai-security)
 
 
 #### <i>Some of other OSINT tools List</i>
@@ -700,6 +700,11 @@ You are searching 121 billion records.
 - [Verify-Email](https://verify-email.org/) - Check if an email address exists.
 - [Google Alerts for Emails](https://www.google.com/alerts) - Monitor when an email appears online.
 - [mosint](https://github.com/alpkeskin/mosint) - Automated e-mail OSINT tool for gathering information about email addresses.
+- [Apollo.io](https://www.apollo.io/) - B2B database for finding professional email addresses and company info.
+- [Clearbit Connect](https://clearbit.com/resources/tools/connect) - Chrome extension for finding email addresses.
+- [Email Permutator+](https://www.polished.app/email-permutator/) - Generate possible email address permutations for a person.
+- [RocketReach](https://rocketreach.co/) - Find email addresses and phone numbers for professionals.
+- [ContactOut](https://contactout.com/) - Email finder for recruiting and sales.
 <br>
 
 [⇧ Top](#index)
@@ -734,6 +739,12 @@ You are searching 121 billion records.
 - [Emobiletracker](https://www.emobiletracker.com/) - Track mobile phone location and owner info.
 - [Phone Number Geo](https://www.phonenumber-geo.com/) - Get geographic location of phone numbers.
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number.
+- [GetContact](https://www.getcontact.com/) - Caller ID and spam blocker app with global database.
+- [411.com](https://www.411.com/) - Phone number and address directory for US.
+- [Infobel](https://www.infobel.com/) - International phone directory with reverse lookup.
+- [NumberGuru](https://www.numberguru.com/) - Free reverse phone lookup service.
+- [Reverse Australia](https://www.reverseaustralia.com/) - Australian phone number lookup.
+- [Canada411](https://www.canada411.ca/) - Canadian phone and address directory.
 <br>
 
 [⇧ Top](#index)
@@ -763,6 +774,10 @@ You are searching 121 billion records.
 - [Have I Been Zucked?](https://haveibeenzuckered.com/) - Check if your telephone number is present within the Facebook data breach.
 - ~~[Facebook Profile Directory](https://www.facebook.com/directory/)~~ - 404
 - [Find My Facebook ID](https://commentpicker.com/find-facebook-id.php) - Find your Facebook ID for your Facebook profile, group or page.
+- [Facebook ID Finder](https://lookup-id.com/) - Find numeric Facebook ID from profile URL.
+- [Intelligence X Facebook Search](https://intelx.io/tools?tab=facebook) - Search Facebook data through Intelligence X.
+- [Facebook Live Map](https://www.facebook.com/livemap) - See public live videos from around the world.
+- [Facebook Directory](https://www.facebook.com/directory/people/) - Browse Facebook profiles alphabetically.
 <br>
 
 [⇧ Top](#index)
@@ -795,6 +810,11 @@ You are searching 121 billion records.
 - [AccountAnalysis](https://accountanalysis.app/) - Analyze Twitter accounts for authenticity.
 - [TweetDeck](https://tweetdeck.twitter.com/) - Official Twitter dashboard for monitoring.
 - [Xquik](https://xquik.com/) - X (Twitter) data extraction platform for tweet search, user lookup, follower/following lists, engagement metrics, account monitoring, and trending topics. REST API with 40+ endpoints.
+- [Nitter Instances](https://github.com/zedeus/nitter/wiki/Instances) - List of alternative Twitter front-end instances for privacy.
+- [FollowerWonk](https://followerwonk.com/) - Twitter analytics tool to search bios and analyze followers.
+- [BotSentinel](https://botsentinel.com/) - Platform to identify inauthentic Twitter accounts and bot behavior.
+- [Tweetbeaver](https://tweetbeaver.com/) - Twitter analytics and account comparison tools.
+- [Social Bearing](https://socialbearing.com/) - Twitter analytics and search with sentiment analysis.
 <br>
 
 [⇧ Top](#index)
@@ -991,6 +1011,42 @@ the number of views or likes.
 - [Clubhouse Database](https://clubhousedb.com/) - Clubhouse Database - User Search & Analytics
 - [Rooms of Clubhouse](https://roomsofclubhouse.com/) - Search open and scheduled Rooms in the Clubhouse App
 - ~~[ClubSearch – search Clubhouse rooms](https://clubsearch.io/)~~ - 404
+<br>
+
+[⇧ Top](#index)
+## MESSAGING APPS & COMMUNICATION
+
+### WhatsApp
+- [WACheck](https://wacheck.online/) - Check if a phone number is on WhatsApp.
+- [WATools](https://watools.io/) - Collection of WhatsApp tools and utilities.
+- [WhatsApp Reverse Phone Lookup](https://www.reversephonecheck.com/) - Find WhatsApp users by phone number.
+- [WhatsApp Link Generator](https://create.wa.link/) - Create WhatsApp chat links without saving contacts.
+
+### Signal
+- [Signal](https://signal.org/) - Encrypted messaging app with strong privacy focus.
+- [Signal Safety Numbers](https://support.signal.org/hc/en-us/articles/360007060632-What-is-a-safety-number-and-why-do-I-see-that-it-changed-) - Verify Signal contacts.
+
+### WeChat
+- [WeChat](https://www.wechat.com/) - Chinese multi-purpose messaging and social media app.
+- [WeChat Search](https://weixin.sogou.com/) - Sogou WeChat search for public accounts and articles.
+
+### Viber
+- [Viber](https://www.viber.com/) - Messaging and VoIP app.
+- [Viber Public Chats](https://www.viber.com/en/public-chats/) - Discover Viber public channels.
+
+### LINE
+- [LINE](https://line.me/) - Japanese messaging app with extensive features.
+- [LINE Official Account Search](https://line.me/en/search) - Search LINE official accounts.
+
+### KakaoTalk
+- [KakaoTalk](https://www.kakaocorp.com/page/service/service/KakaoTalk) - South Korean messaging platform.
+- [KakaoTalk Plus Friends](https://pf.kakao.com/) - Discover KakaoTalk official accounts.
+
+### Other Messaging Platforms
+- [Discord Server Search](https://discord.me/) - Discover Discord servers.
+- [Disboard](https://disboard.org/) - Public Discord server directory.
+- [Slack Workspaces](https://slackarchive.io/) - Archive and search Slack workspaces.
+- [Element (Matrix)](https://element.io/) - Decentralized secure messaging.
 <br>
 
 [⇧ Top](#index)
@@ -1195,6 +1251,44 @@ Enter two images and the difference will show up below
 <br>
 
 [⇧ Top](#index)
+## VIDEO OSINT & VERIFICATION
+
+- [InVID/WeVerify](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - Video verification plugin for journalists and fact-checkers.
+- [YouTube DataViewer](https://citizenevidence.amnestyusa.org/) - Amnesty International's YouTube metadata extraction tool.
+- [TubeArchivist](https://www.tubearchivist.com/) - Self-hosted YouTube media server and archiver.
+- [YouTube Comment Finder](https://ytcomment.kmcat.uk/) - Search YouTube comments by keyword.
+- [YouTube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html) - Find geotagged YouTube videos.
+- [Montage](https://mever.iti.gr/montage/) - Video verification and analysis tool.
+- [Frame by Frame Video Analysis](https://www.watchframebyframe.com/) - Watch videos frame by frame for verification.
+- [YouTube Thumbnail Grabber](https://www.youtube-thumbnail.com/) - Extract YouTube video thumbnails.
+- [Vimeo](https://vimeo.com/) - Video hosting and discovery platform.
+- [Dailymotion](https://www.dailymotion.com/) - Video sharing platform.
+- [Bilibili](https://www.bilibili.com/) - Chinese video sharing platform.
+- [Deepfake Detection](https://deepware.ai/) - AI-powered deepfake video detection.
+- [Microsoft Video Authenticator](https://www.microsoft.com/en-us/ai/video-authenticator) - Deepfake detection tool by Microsoft.
+- [Sensity](https://sensity.ai/) - Visual threat intelligence and deepfake detection platform.
+- [Video Verification Tools](https://toolbox.google.com/factcheck/explorer) - Google Fact Check Explorer for video claims.
+<br>
+
+[⇧ Top](#index)
+## METADATA & FILE ANALYSIS
+
+- [ExifTool](https://exiftool.org/) - Platform-independent library and command-line application for reading, writing and editing meta information.
+- [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) - Detailed EXIF data viewer for photos.
+- [Metadata2Go](https://www.metadata2go.com/) - Online metadata viewer and editor for various file types.
+- [Get-Metadata](https://www.get-metadata.com/) - Extract metadata from documents, images, videos.
+- [FOCA](https://github.com/ElevenPaths/FOCA) - Metadata analysis tool for documents and files.
+- [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester from public documents.
+- [Mat2](https://0xacab.org/jvoisin/mat2) - Metadata removal tool for privacy.
+- [PDF Parser](https://blog.didierstevens.com/programs/pdf-tools/) - Analyze and parse PDF files for metadata and structure.
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware analysis tool for embedded file extraction.
+- [TrID](https://mark0.net/soft-trid-e.html) - File identifier based on binary signatures.
+- [File Signature Database](https://www.filesignatures.net/) - Database of file type signatures and headers.
+- [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files and URLs for malware (also in Malware section).
+- [Filesec.io](https://filesec.io/) - Latest file extension security threats and information.
+<br>
+
+[⇧ Top](#index)
 ## LICENSE PLATE/VIN/VEHICLE
 
 - [Plate Recognizer](https://platerecognizer.com/) - Automatic License Plate Recognition software that works in all environments, optimized for your location
@@ -1348,6 +1442,9 @@ Enter two images and the difference will show up below
 - [LeakIX](https://leakix.net/) - This project goes around the Internet and finds services to index them.
 - [URL and website scanner](https://urlscan.io/) - urlscan.io is a free service to scan and analyse websites. When a URL is submitted to urlscan.io, an automated process will browse to the URL like a regular user and record the activity that this page navigation creates.
 - [dnsdumpster](https://dnsdumpster.com/) - DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
+- [AbuseIPDB](https://www.abuseipdb.com/) - Making the Internet safer by providing a central blacklist for IP addresses engaged in malicious behavior.
+- [BinaryEdge](https://www.binaryedge.io/) - Cybersecurity and data intelligence platform for threat detection.
+- [IPVoid](https://www.ipvoid.com/) - IP address reputation and blacklist check.
 - [Domain Codex](https://www.domaincodex.com/search.php) - private investigation search, legal and case research, IP & Digital piracy..
 - [SimilarWeb](https://www.similarweb.com/) - SimilarWeb is a tool that estimates the total amount of traffic different websites get. It allows you to see competitors' top traffic sources, broken down into six major categories, including referring sites, social traffic, and top search keywords
 - [IP search - Network Entity Reputation Database](https://nerd.cesnet.cz/nerd/ips/) - The NERD system gathers data about sources of cyber threats from a number of sources and builds a constantly-updated database of the known malicious network entities (currently only IP addresses).
@@ -1398,6 +1495,14 @@ Enter two images and the difference will show up below
 - [Vx-underground.org](https://vx-underground.org/) - vx-underground also known as VXUG, is an educational website about malware and cybersecurity. It claims to have the largest online repository of malware.
 - [aptnotes/data](https://github.com/aptnotes/data) - APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
 - [exploit-database-papers](https://github.com/offensive-security/exploitdb-papers) - The legacy Exploit Database paper repository
+- [Joe Sandbox](https://www.joesandbox.com/) - Deep malware analysis with behavior detection.
+- [Malware Bazaar](https://bazaar.abuse.ch/) - Malware sample sharing platform by abuse.ch.
+- [URLhaus](https://urlhaus.abuse.ch/) - Malware URL sharing and distribution tracking.
+- [ThreatMiner](https://www.threatminer.org/) - Data mining portal for threat intelligence.
+- [MalwareBazaar](https://bazaar.abuse.ch/) - Share malware samples with the infosec community.
+- [Polyswarm](https://polyswarm.network/) - Decentralized threat intelligence marketplace.
+- [Cuckoo Sandbox](https://cuckoosandbox.org/) - Open source automated malware analysis system.
+- [Hatching Triage](https://tria.ge/) - Automated malware analysis sandbox.
 <br>
 
 [⇧ Top](#index)
@@ -1425,6 +1530,9 @@ Enter two images and the difference will show up below
 - [Lubbock Live Traffic Cameras](https://www.arcgis.com/apps/webappviewer/index.html?id=affe50ac55824c7a8c757d3980787e31)
 - [Hong Kong Traffic Data & Cams](https://www.arcgis.com/apps/dashboards/47be6372a0434beaba99ae9c9f1d598d)
 - [Baton Rouge Traffic Cams](https://www.arcgis.com/apps/webappviewer/index.html?id=0ec05ffb0d2d4735a969e8f31f820a7b)
+- [Wigle.net](https://wigle.net/) - Wireless network mapping and WiFi hotspot database worldwide.
+- [Thingful](https://www.thingful.net/) - IoT search engine for connected devices and sensors.
+- [Shodan Webcam Search](https://www.shodan.io/search?query=has_screenshot%3Atrue+webcam) - Search for webcams using Shodan.
 <br>
 
 [⇧ Top](#index)
@@ -1526,6 +1634,10 @@ Enter two images and the difference will show up below
 - [felt](https://felt.com) - create map-based visualizations
 - [TradeMap](https://www.trademap.org/Index.aspx) - Trade map of world by counties (import/export)
 - [OpenGridWorks](https://opengridworks.com/) - Infrastructure and electrical grid mapping and analysis platform.
+- [Apple Maps](https://www.apple.com/maps/) - Apple's mapping service with Look Around feature.
+- [HERE WeGo](https://wego.here.com/) - Maps and navigation with offline capabilities.
+- [OldMapsOnline](https://www.oldmapsonline.org/) - Historical maps from libraries around the world.
+- [Soar Earth](https://soar.earth/) - Geospatial data marketplace and mapping platform.
 <br>
 
 [⇧ Top](#index)
@@ -1549,6 +1661,14 @@ Enter two images and the difference will show up below
 - [geoint-py](https://github.com/gisfromscratch/geoint-py) - A bunch of geospatial intelligence workflows implemented using Python
 - [Georeferencer.ai](https://georeferencer.ai/) - AI-powered georeferencing and map alignment tool.
 - [Pano Date](https://pano-date.emily.bz/) - Determine the date when Google Street View panoramas were captured.
+- [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite imagery service with access to Sentinel satellites.
+- [EO Browser](https://apps.sentinel-hub.com/eo-browser/) - Browse and compare satellite imagery from multiple sources.
+- [Copernicus Open Access Hub](https://scihub.copernicus.eu/) - Free access to Sentinel satellite data.
+- [USGS EarthExplorer](https://earthexplorer.usgs.gov/) - Search and download satellite images and aerial photos.
+- [NASA Worldview](https://worldview.earthdata.nasa.gov/) - Interactive interface for browsing full-resolution NASA satellite imagery.
+- [Zoom.earth](https://zoom.earth/) - Live satellite and weather imagery.
+- [SunCalc](https://www.suncalc.org/) - Shows sun position and sunlight phases for geolocation verification.
+- [ShadowCalculator](https://app.shadowmap.org/) - Shadow analysis for time and location verification.
 <br>
 
 [⇧ Top](#index)
@@ -1597,6 +1717,10 @@ Enter two images and the difference will show up below
 - Access Onion site through visible web: 1. [tor2web](https://tor2web.activetk.jp/)
 										 1. [browserling](https://www.browserling.com/)
 										 2. [4everproxy](https://www.4everproxy.com/tor-proxy)
+- [Dark.fail](https://dark.fail/) - Verified onion link list for darknet markets and services.
+- [OnionScan](https://github.com/s-rah/onionscan) - Tool for investigating hidden services on Tor network.
+- [Tor Metrics](https://metrics.torproject.org/) - Statistics and data about the Tor network.
+- [Darknet Market Archives](https://www.gwern.net/DNM-archives) - Historical archives of darknet markets.
 <br>
 
 [⇧ Top](#index)
@@ -1612,6 +1736,12 @@ Enter two images and the difference will show up below
 - [Ashley Madison hacked email checker](https://ashley.cynic.al/) - Was your profile compromised in the Ashley Madison hack
 - [Search Ashley Madison Leaked Data](http://checkashleymadison.com/) - Search Ashley Madison Leaked Data
 - [Sony Archives](https://wikileaks.org/sony/emails/) - You will find this data in there .onion site
+- [Ghostbin](https://ghostbin.com/) - Paste and share text anonymously.
+- [Slexy](https://slexy.org/) - Paste site with syntax highlighting.
+- [JustPaste.it](https://justpaste.it/) - Simple paste sharing service.
+- [Paste.ee](https://paste.ee/) - Advanced paste sharing with encryption.
+- [PasteLert](https://andrewmohawk.com/pasteLert/) - PasteBin alerting service to monitor for keywords.
+- [Pastebin.com](https://pastebin.com/) - The original paste sharing site.
 <br>
 
 [⇧ Top](#index)
@@ -1696,7 +1826,14 @@ Enter two images and the difference will show up below
 - [Global Brownbook](https://www.brownbook.net/) - global business listing database
 - [list-org](https://www.list-org.com/) - Basic information about any Russian legal entity or entrepreneur
 - [OpenCorporates](https://opencorporates.com/) - Fresh, standardized, auditable information direct from official primary sources across 140+ jurisdictions — all underpinned by our Legal-Entity Data Principles and world-leading expertise in legal-entity data.
-- [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Find out who’s behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.
+- [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Find out who's behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.
+- [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them.
+- [PitchBook](https://pitchbook.com/) - Private capital market data and research.
+- [ZoomInfo](https://www.zoominfo.com/) - B2B contact and company information database.
+- [D&B Hoovers](https://www.dnb.com/products/marketing-sales/dnb-hoovers.html) - Business information and sales intelligence.
+- [Manta](https://www.manta.com/) - Small business directory and data.
+- [craft.co](https://craft.co/) - Company information and competitive intelligence.
+- [Owler](https://www.owler.com/) - Competitive insights and company information.
 - [XRefer](https://www.xrefer.com/) - Find top rated verified local companies
 - [Startup Tracker](https://startuptracker.io/home) - Discover and track startups from MVP to IPO
 - [Shopsearchengine.com](http://shopsearchengine.com/) - shopsearchengine.com the internets premiere shopping site, find it fast.
@@ -1770,6 +1907,10 @@ about police misconduct in Chicago
 
 - [JudyRecords](https://www.judyrecords.com/) - 740 million US court cases
 - [CourtListener](https://www.courtlistener.com/) - Search millions of legal decisions by case name, topic, or citation.
+- [Justia](https://www.justia.com/) - Free case law, codes, regulations and legal information.
+- [Case.law](https://case.law/) - Harvard Law School's caselaw access project with millions of US court decisions.
+- [UniCourt](https://unicourt.com/) - Legal analytics and court data platform.
+- [RECAP Archive](https://www.courtlistener.com/recap/) - Free public access to PACER documents.
 - [Public Access to Court Electronic Records](https://pacer.uscourts.gov/) - public access to court electronic records
 - [Parallelsearch case law](https://parallelsearch.casetext.com/) - Find a case by phrase
 - [Canadian Legal Information Institute](https://www.canlii.org/en/)
@@ -1831,6 +1972,13 @@ about police misconduct in Chicago
 - [GI Files](https://search.wikileaks.org/gifiles/)
 - [AKP email database/](https://wikileaks.org//akp-emails/)
 - [LittleSis](https://littlesis.org/)
+- [FederalRegister.gov](https://www.federalregister.gov/) - Official journal of the US federal government.
+- [USAspending.gov](https://www.usaspending.gov/) - Official source for spending data for the US Government.
+- [GovInfo.gov](https://www.govinfo.gov/) - Official publications from all three branches of the Federal Government.
+- [SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html) - Search company filings with the US Securities and Exchange Commission.
+- [OpenSecrets](https://www.opensecrets.org/) - Money in politics and lobbying data.
+- [FollowTheMoney](https://www.followthemoney.org/) - Track campaign contributions and lobbying.
+- [Regulations.gov](https://www.regulations.gov/) - Search federal regulatory documents.
 - [Lexington KY Employee Salaries 2021](https://c0ect130.caspio.com/dp/c852100055664d756c6e441aa963)
 - [Greater Sacramento Area Public Salaries](https://b2.caspio.com/dp/c48210000605c38aa22f4080a1be)
 - [Illinois Public Salaries](https://c0ctb111.caspio.com/dp/1a7210001e4dbabdb7204962bc03)
@@ -1897,6 +2045,56 @@ about police misconduct in Chicago
 - [Solscan](https://solscan.io/) - Solana blockchain explorer.
 - [Polygonscan](https://polygonscan.com/) - Polygon blockchain explorer.
 - [BSCScan](https://bscscan.com/) - Binance Smart Chain explorer.
+<br>
+
+[⇧ Top](#index)
+## OSINT FRAMEWORKS & BROWSER TOOLS
+
+### OSINT Frameworks
+- [OSINT Framework](https://osintframework.com/) - Comprehensive directory of OSINT tools organized by category.
+- [IntelTechniques Tools](https://inteltechniques.com/tools/) - Collection of custom OSINT search tools by Michael Bazzell.
+- [OSINT.link](https://osint.link/) - Curated collection of OSINT resources and tools.
+- [Aware-Online](https://www.aware-online.com/en/osint-tools/) - Dutch OSINT tools and resources.
+- [Bellingcat's Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/) - Comprehensive spreadsheet of OSINT tools.
+- [OSINT Combine](https://www.osintcombine.com/tools) - Collection of free OSINT tools and transforms.
+- [Start.me OSINT](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - Curated OSINT bookmarks and resources.
+
+### Browser Extensions
+- [Mitaka](https://github.com/ninoseki/mitaka) - Browser extension for OSINT searches on selected text.
+- [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Chrome extension for performing OSINT searches.
+- [Hunchly](https://www.hunch.ly/) - Web capture tool for online investigations (paid).
+- [User-Agent Switcher](https://add0n.com/useragent-switcher.html) - Change browser user agent for testing.
+- [Gotanda](https://github.com/NINOSUKI/Gotanda) - Browser extension for OSINT and security investigations.
+- [Shodan Extension](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap) - Official Shodan browser extension.
+- [Hunter Email Finder](https://hunter.io/chrome) - Find email addresses while browsing.
+- [Clearbit Connect](https://clearbit.com/resources/tools/connect) - Chrome extension for email lookup.
+
+### Privacy Browsers
+- [Tor Browser](https://www.torproject.org/download/) - Anonymous browsing through the Tor network.
+- [Brave Browser](https://brave.com/) - Privacy-focused browser with built-in ad blocking.
+- [Mullvad Browser](https://mullvad.net/en/browser) - Privacy-focused browser developed with Tor Project.
+- [Firefox Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) - Privacy-focused mobile browser.
+<br>
+
+[⇧ Top](#index)
+## ACADEMIC & RESEARCH DATABASES
+
+- [Google Scholar](https://scholar.google.com/) - Freely accessible search engine for scholarly literature.
+- [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered research tool for scientific literature.
+- [ResearchGate](https://www.researchgate.net/) - Social networking site for scientists and researchers.
+- [Academia.edu](https://www.academia.edu/) - Platform for academics to share research papers.
+- [JSTOR](https://www.jstor.org/) - Digital library of academic journals, books, and primary sources.
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Free database of biomedical and life sciences literature.
+- [SSRN](https://www.ssrn.com/) - Social Science Research Network repository.
+- [CiteSeerX](https://citeseerx.ist.psu.edu/) - Scientific literature digital library and search engine.
+- [CORE](https://core.ac.uk/) - World's largest collection of open access research papers.
+- [BASE](https://www.base-search.net/) - Bielefeld Academic Search Engine for scholarly resources.
+- [WorldCat](https://www.worldcat.org/) - Global catalog of library collections.
+- [ORCID](https://orcid.org/) - Unique identifier for researchers and scholars.
+- [Crossref](https://www.crossref.org/) - DOI registration agency linking scholarly metadata.
+- [Dimensions](https://www.dimensions.ai/) - Research information system linking publications, grants, patents.
+- [IEEE Xplore](https://ieeexplore.ieee.org/) - Digital library for research in engineering and technology.
+- [arXiv.org](https://arxiv.org/) - Open-access archive for scholarly articles (listed in Productivity section as well).
 <br>
 
 [⇧ Top](#index)
