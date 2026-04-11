@@ -15,7 +15,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
 ## Index
- [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research) ⁕ [LLM Security / AI Security](#llm-security--ai-security)
+ [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools) ⁕ [Academic & Research Databases](#academic--research-databases) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research) ⁕ [LLM Security / AI Security](#llm-security--ai-security)
 
 
 #### <i>Some of other OSINT tools List</i>
@@ -1580,6 +1580,14 @@ Enter two images and the difference will show up below
 - [geoint-py](https://github.com/gisfromscratch/geoint-py) - A bunch of geospatial intelligence workflows implemented using Python
 - [Georeferencer.ai](https://georeferencer.ai/) - AI-powered georeferencing and map alignment tool.
 - [Pano Date](https://pano-date.emily.bz/) - Determine the date when Google Street View panoramas were captured.
+- [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite imagery service with access to Sentinel satellites.
+- [EO Browser](https://apps.sentinel-hub.com/eo-browser/) - Browse and compare satellite imagery from multiple sources.
+- [Copernicus Open Access Hub](https://scihub.copernicus.eu/) - Free access to Sentinel satellite data.
+- [USGS EarthExplorer](https://earthexplorer.usgs.gov/) - Search and download satellite images and aerial photos.
+- [NASA Worldview](https://worldview.earthdata.nasa.gov/) - Interactive interface for browsing full-resolution NASA satellite imagery.
+- [Zoom.earth](https://zoom.earth/) - Live satellite and weather imagery.
+- [SunCalc](https://www.suncalc.org/) - Shows sun position and sunlight phases for geolocation verification.
+- [ShadowCalculator](https://app.shadowmap.org/) - Shadow analysis for time and location verification.
 <br>
 
 [⇧ Top](#index)
@@ -1643,6 +1651,12 @@ Enter two images and the difference will show up below
 - [Ashley Madison hacked email checker](https://ashley.cynic.al/) - Was your profile compromised in the Ashley Madison hack
 - [Search Ashley Madison Leaked Data](http://checkashleymadison.com/) - Search Ashley Madison Leaked Data
 - [Sony Archives](https://wikileaks.org/sony/emails/) - You will find this data in there .onion site
+- [Ghostbin](https://ghostbin.com/) - Paste and share text anonymously.
+- [Slexy](https://slexy.org/) - Paste site with syntax highlighting.
+- [JustPaste.it](https://justpaste.it/) - Simple paste sharing service.
+- [Paste.ee](https://paste.ee/) - Advanced paste sharing with encryption.
+- [PasteLert](https://andrewmohawk.com/pasteLert/) - PasteBin alerting service to monitor for keywords.
+- [Pastebin.com](https://pastebin.com/) - The original paste sharing site.
 <br>
 
 [⇧ Top](#index)
@@ -1727,7 +1741,14 @@ Enter two images and the difference will show up below
 - [Global Brownbook](https://www.brownbook.net/) - global business listing database
 - [list-org](https://www.list-org.com/) - Basic information about any Russian legal entity or entrepreneur
 - [OpenCorporates](https://opencorporates.com/) - Fresh, standardized, auditable information direct from official primary sources across 140+ jurisdictions — all underpinned by our Legal-Entity Data Principles and world-leading expertise in legal-entity data.
-- [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Find out who’s behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.
+- [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Find out who's behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.
+- [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them.
+- [PitchBook](https://pitchbook.com/) - Private capital market data and research.
+- [ZoomInfo](https://www.zoominfo.com/) - B2B contact and company information database.
+- [D&B Hoovers](https://www.dnb.com/products/marketing-sales/dnb-hoovers.html) - Business information and sales intelligence.
+- [Manta](https://www.manta.com/) - Small business directory and data.
+- [craft.co](https://craft.co/) - Company information and competitive intelligence.
+- [Owler](https://www.owler.com/) - Competitive insights and company information.
 - [XRefer](https://www.xrefer.com/) - Find top rated verified local companies
 - [Startup Tracker](https://startuptracker.io/home) - Discover and track startups from MVP to IPO
 - [Shopsearchengine.com](http://shopsearchengine.com/) - shopsearchengine.com the internets premiere shopping site, find it fast.
@@ -1939,6 +1960,35 @@ about police misconduct in Chicago
 - [Solscan](https://solscan.io/) - Solana blockchain explorer.
 - [Polygonscan](https://polygonscan.com/) - Polygon blockchain explorer.
 - [BSCScan](https://bscscan.com/) - Binance Smart Chain explorer.
+<br>
+
+[⇧ Top](#index)
+## OSINT FRAMEWORKS & BROWSER TOOLS
+
+### OSINT Frameworks
+- [OSINT Framework](https://osintframework.com/) - Comprehensive directory of OSINT tools organized by category.
+- [IntelTechniques Tools](https://inteltechniques.com/tools/) - Collection of custom OSINT search tools by Michael Bazzell.
+- [OSINT.link](https://osint.link/) - Curated collection of OSINT resources and tools.
+- [Aware-Online](https://www.aware-online.com/en/osint-tools/) - Dutch OSINT tools and resources.
+- [Bellingcat's Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/) - Comprehensive spreadsheet of OSINT tools.
+- [OSINT Combine](https://www.osintcombine.com/tools) - Collection of free OSINT tools and transforms.
+- [Start.me OSINT](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - Curated OSINT bookmarks and resources.
+
+### Browser Extensions
+- [Mitaka](https://github.com/ninoseki/mitaka) - Browser extension for OSINT searches on selected text.
+- [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Chrome extension for performing OSINT searches.
+- [Hunchly](https://www.hunch.ly/) - Web capture tool for online investigations (paid).
+- [User-Agent Switcher](https://add0n.com/useragent-switcher.html) - Change browser user agent for testing.
+- [Gotanda](https://github.com/NINOSUKI/Gotanda) - Browser extension for OSINT and security investigations.
+- [Shodan Extension](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap) - Official Shodan browser extension.
+- [Hunter Email Finder](https://hunter.io/chrome) - Find email addresses while browsing.
+- [Clearbit Connect](https://clearbit.com/resources/tools/connect) - Chrome extension for email lookup.
+
+### Privacy Browsers
+- [Tor Browser](https://www.torproject.org/download/) - Anonymous browsing through the Tor network.
+- [Brave Browser](https://brave.com/) - Privacy-focused browser with built-in ad blocking.
+- [Mullvad Browser](https://mullvad.net/en/browser) - Privacy-focused browser developed with Tor Project.
+- [Firefox Focus](https://www.mozilla.org/en-US/firefox/browsers/mobile/focus/) - Privacy-focused mobile browser.
 <br>
 
 [⇧ Top](#index)
