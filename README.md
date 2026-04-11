@@ -774,6 +774,10 @@ You are searching 121 billion records.
 - [Have I Been Zucked?](https://haveibeenzuckered.com/) - Check if your telephone number is present within the Facebook data breach.
 - ~~[Facebook Profile Directory](https://www.facebook.com/directory/)~~ - 404
 - [Find My Facebook ID](https://commentpicker.com/find-facebook-id.php) - Find your Facebook ID for your Facebook profile, group or page.
+- [Facebook ID Finder](https://lookup-id.com/) - Find numeric Facebook ID from profile URL.
+- [Intelligence X Facebook Search](https://intelx.io/tools?tab=facebook) - Search Facebook data through Intelligence X.
+- [Facebook Live Map](https://www.facebook.com/livemap) - See public live videos from around the world.
+- [Facebook Directory](https://www.facebook.com/directory/people/) - Browse Facebook profiles alphabetically.
 <br>
 
 [⇧ Top](#index)
@@ -806,6 +810,11 @@ You are searching 121 billion records.
 - [AccountAnalysis](https://accountanalysis.app/) - Analyze Twitter accounts for authenticity.
 - [TweetDeck](https://tweetdeck.twitter.com/) - Official Twitter dashboard for monitoring.
 - [Xquik](https://xquik.com/) - X (Twitter) data extraction platform for tweet search, user lookup, follower/following lists, engagement metrics, account monitoring, and trending topics. REST API with 40+ endpoints.
+- [Nitter Instances](https://github.com/zedeus/nitter/wiki/Instances) - List of alternative Twitter front-end instances for privacy.
+- [FollowerWonk](https://followerwonk.com/) - Twitter analytics tool to search bios and analyze followers.
+- [BotSentinel](https://botsentinel.com/) - Platform to identify inauthentic Twitter accounts and bot behavior.
+- [Tweetbeaver](https://tweetbeaver.com/) - Twitter analytics and account comparison tools.
+- [Social Bearing](https://socialbearing.com/) - Twitter analytics and search with sentiment analysis.
 <br>
 
 [⇧ Top](#index)
@@ -1359,6 +1368,9 @@ Enter two images and the difference will show up below
 - [LeakIX](https://leakix.net/) - This project goes around the Internet and finds services to index them.
 - [URL and website scanner](https://urlscan.io/) - urlscan.io is a free service to scan and analyse websites. When a URL is submitted to urlscan.io, an automated process will browse to the URL like a regular user and record the activity that this page navigation creates.
 - [dnsdumpster](https://dnsdumpster.com/) - DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
+- [AbuseIPDB](https://www.abuseipdb.com/) - Making the Internet safer by providing a central blacklist for IP addresses engaged in malicious behavior.
+- [BinaryEdge](https://www.binaryedge.io/) - Cybersecurity and data intelligence platform for threat detection.
+- [IPVoid](https://www.ipvoid.com/) - IP address reputation and blacklist check.
 - [Domain Codex](https://www.domaincodex.com/search.php) - private investigation search, legal and case research, IP & Digital piracy..
 - [SimilarWeb](https://www.similarweb.com/) - SimilarWeb is a tool that estimates the total amount of traffic different websites get. It allows you to see competitors' top traffic sources, broken down into six major categories, including referring sites, social traffic, and top search keywords
 - [IP search - Network Entity Reputation Database](https://nerd.cesnet.cz/nerd/ips/) - The NERD system gathers data about sources of cyber threats from a number of sources and builds a constantly-updated database of the known malicious network entities (currently only IP addresses).
@@ -1409,6 +1421,14 @@ Enter two images and the difference will show up below
 - [Vx-underground.org](https://vx-underground.org/) - vx-underground also known as VXUG, is an educational website about malware and cybersecurity. It claims to have the largest online repository of malware.
 - [aptnotes/data](https://github.com/aptnotes/data) - APTnotes is a repository of publicly-available papers and blogs (sorted by year) related to malicious campaigns/activity/software that have been associated with vendor-defined APT (Advanced Persistent Threat) groups and/or tool-sets.
 - [exploit-database-papers](https://github.com/offensive-security/exploitdb-papers) - The legacy Exploit Database paper repository
+- [Joe Sandbox](https://www.joesandbox.com/) - Deep malware analysis with behavior detection.
+- [Malware Bazaar](https://bazaar.abuse.ch/) - Malware sample sharing platform by abuse.ch.
+- [URLhaus](https://urlhaus.abuse.ch/) - Malware URL sharing and distribution tracking.
+- [ThreatMiner](https://www.threatminer.org/) - Data mining portal for threat intelligence.
+- [MalwareBazaar](https://bazaar.abuse.ch/) - Share malware samples with the infosec community.
+- [Polyswarm](https://polyswarm.network/) - Decentralized threat intelligence marketplace.
+- [Cuckoo Sandbox](https://cuckoosandbox.org/) - Open source automated malware analysis system.
+- [Hatching Triage](https://tria.ge/) - Automated malware analysis sandbox.
 <br>
 
 [⇧ Top](#index)
@@ -1781,6 +1801,10 @@ about police misconduct in Chicago
 
 - [JudyRecords](https://www.judyrecords.com/) - 740 million US court cases
 - [CourtListener](https://www.courtlistener.com/) - Search millions of legal decisions by case name, topic, or citation.
+- [Justia](https://www.justia.com/) - Free case law, codes, regulations and legal information.
+- [Case.law](https://case.law/) - Harvard Law School's caselaw access project with millions of US court decisions.
+- [UniCourt](https://unicourt.com/) - Legal analytics and court data platform.
+- [RECAP Archive](https://www.courtlistener.com/recap/) - Free public access to PACER documents.
 - [Public Access to Court Electronic Records](https://pacer.uscourts.gov/) - public access to court electronic records
 - [Parallelsearch case law](https://parallelsearch.casetext.com/) - Find a case by phrase
 - [Canadian Legal Information Institute](https://www.canlii.org/en/)
@@ -1842,6 +1866,13 @@ about police misconduct in Chicago
 - [GI Files](https://search.wikileaks.org/gifiles/)
 - [AKP email database/](https://wikileaks.org//akp-emails/)
 - [LittleSis](https://littlesis.org/)
+- [FederalRegister.gov](https://www.federalregister.gov/) - Official journal of the US federal government.
+- [USAspending.gov](https://www.usaspending.gov/) - Official source for spending data for the US Government.
+- [GovInfo.gov](https://www.govinfo.gov/) - Official publications from all three branches of the Federal Government.
+- [SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html) - Search company filings with the US Securities and Exchange Commission.
+- [OpenSecrets](https://www.opensecrets.org/) - Money in politics and lobbying data.
+- [FollowTheMoney](https://www.followthemoney.org/) - Track campaign contributions and lobbying.
+- [Regulations.gov](https://www.regulations.gov/) - Search federal regulatory documents.
 - [Lexington KY Employee Salaries 2021](https://c0ect130.caspio.com/dp/c852100055664d756c6e441aa963)
 - [Greater Sacramento Area Public Salaries](https://b2.caspio.com/dp/c48210000605c38aa22f4080a1be)
 - [Illinois Public Salaries](https://c0ctb111.caspio.com/dp/1a7210001e4dbabdb7204962bc03)
@@ -1908,6 +1939,27 @@ about police misconduct in Chicago
 - [Solscan](https://solscan.io/) - Solana blockchain explorer.
 - [Polygonscan](https://polygonscan.com/) - Polygon blockchain explorer.
 - [BSCScan](https://bscscan.com/) - Binance Smart Chain explorer.
+<br>
+
+[⇧ Top](#index)
+## ACADEMIC & RESEARCH DATABASES
+
+- [Google Scholar](https://scholar.google.com/) - Freely accessible search engine for scholarly literature.
+- [Semantic Scholar](https://www.semanticscholar.org/) - AI-powered research tool for scientific literature.
+- [ResearchGate](https://www.researchgate.net/) - Social networking site for scientists and researchers.
+- [Academia.edu](https://www.academia.edu/) - Platform for academics to share research papers.
+- [JSTOR](https://www.jstor.org/) - Digital library of academic journals, books, and primary sources.
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - Free database of biomedical and life sciences literature.
+- [SSRN](https://www.ssrn.com/) - Social Science Research Network repository.
+- [CiteSeerX](https://citeseerx.ist.psu.edu/) - Scientific literature digital library and search engine.
+- [CORE](https://core.ac.uk/) - World's largest collection of open access research papers.
+- [BASE](https://www.base-search.net/) - Bielefeld Academic Search Engine for scholarly resources.
+- [WorldCat](https://www.worldcat.org/) - Global catalog of library collections.
+- [ORCID](https://orcid.org/) - Unique identifier for researchers and scholars.
+- [Crossref](https://www.crossref.org/) - DOI registration agency linking scholarly metadata.
+- [Dimensions](https://www.dimensions.ai/) - Research information system linking publications, grants, patents.
+- [IEEE Xplore](https://ieeexplore.ieee.org/) - Digital library for research in engineering and technology.
+- [arXiv.org](https://arxiv.org/) - Open-access archive for scholarly articles (listed in Productivity section as well).
 <br>
 
 [⇧ Top](#index)
