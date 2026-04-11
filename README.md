@@ -96,6 +96,7 @@ AI tools/Site
 - [OSINT LLM](https://huggingface.co/spaces/tomvaillant/osint-llm) - AI-powered OSINT assistant on Hugging Face.
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
 - [Threat Intelligence AI](https://threatlandscape.ai/) - Threat Landscape Copilot - Conversational access to continuously updated, structured threat intelligence.
+- [CanIRun.ai](https://www.canirun.ai/) - AI tool to check system requirements and compatibility.
 <br>
 
 [⇧ Top](#index)
@@ -275,6 +276,8 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Wifispc.com](https://wifispc.com/) - Free map of Wi-Fi passwords anywhere you go!
 - [Wiman](https://www.wiman.me/) - Seamless connections to millions mobile Free WiFi hotspots.
 - [BOSINT](https://app.bosint.gg/) - All-in-one OSINT investigation platform.
+- [SkyOSINT](https://skyosint.io) - OSINT platform for intelligence gathering and analysis.
+- [DeadDrop](https://deaddrop.theosintconsultants.com/dashboard) - OSINT dashboard and investigation tool from The OSINT Consultants.
 <br>
 
 [⇧ Top](#index)
@@ -844,6 +847,7 @@ the number of views or likes.
 - [LinkedIn Search Engine](https://cse.google.com/cse?cx=daaf18e804f81bed0) - custom google search for linkedin
 - [LinkedIn Email Reverse Lookup](https://osint.support/chrome-extensions/2019/09/03/linkedin-email-reverse-lookup.html) - chrome extention for linkedin Simply provide an email address which is of interest to you and click Search. If a match is found the name, profile id, username will be returned as well as the profile image if one exists.
 - [Proxycurl](https://nubela.co/proxycurl/) - Pull rich data about people and companies
+- [OutX LinkedIn Profile Viewer](https://www.outx.ai/all-tools/linkedin-profile-viewer) - AI-powered LinkedIn profile viewer and analysis tool.
 
 ## GOOGLE
 
@@ -879,6 +883,7 @@ the number of views or likes.
 - [Discord Bots](https://discordbotlist.com/) - Find the best Discord Bots, Apps and Servers with our Discord Bot List, including the top music and economy apps.
 - [Discord Bots](https://top.gg/) - Explore millions of Discord Bots
 - [Discord Bots](https://discord.bots.gg/) - This site is a list of publicly available Discord bots, intended to accompany the Discord Bots, Discord server. The bots presented here are created and maintained by community members and serve all kinds of purposes
+- [DiscordGate Tools](https://discordgate.com/tools) - Collection of tools for Discord OSINT and investigation.
 <br>
 
 [⇧ Top](#index)
@@ -1520,6 +1525,7 @@ Enter two images and the difference will show up below
 - [atlas.co](https://app.atlas.co) - a tool for visualising geodata
 - [felt](https://felt.com) - create map-based visualizations
 - [TradeMap](https://www.trademap.org/Index.aspx) - Trade map of world by counties (import/export)
+- [OpenGridWorks](https://opengridworks.com/) - Infrastructure and electrical grid mapping and analysis platform.
 <br>
 
 [⇧ Top](#index)
@@ -1857,14 +1863,6 @@ about police misconduct in Chicago
 - [Dutchess and Ulster bridge safety ratings 2015](https://b2.caspio.com/dp.asp?AppKey=996f1000109b0cd3b24b408daf60)
 - [Lou Barletta 2017 Donors](https://b2.caspio.com/dp/0a9210001cdd2eaac90941488478)
 - [Worcester MA Employee Gross Pay](https://c0acu481.caspio.com/dp/e0536000108787410ed749fdb240)
-<br>
-
-[⇧ Top](#index)
-## ONLYFANS
-
-- [Onlysearch.co](https://onlysearch.co/)
-- [OnlyFinder](https://onlyfinder.com/)
-- [Search OnlyFans profiles](https://hubite.com/onlyfans-search/)
 <br>
 
 [⇧ Top](#index)
