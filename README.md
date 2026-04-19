@@ -31,7 +31,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [spycloud](https://portal.spycloud.com/endpoint/enriched-stats/[YOUR-MAIL]) - put your mail in YOUR-MAIL.
 - [weleakinfo](https://weleakinfo.io/) - We Leak Info - Leaked Dehashed Databases, search for leaks.
 - [breachdirectory](https://breachdirectory.org/) - CHECK IF YOUR EMAIL OR USERNAME WAS COMPROMISED
-- [leakcheck](https://leakcheck.io/) - Find out if your credentiafls have been compromised
+- [leakcheck](https://leakcheck.io/) - Find out if your credentials have been compromised
 - [Leaker](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
 - [Findemail.io](https://findemail.io/) - Find email addresses for given company.
 - [LibraryOfLeaks](https://search.libraryofleaks.org) - Search for leak documents, companies, people, database and more
