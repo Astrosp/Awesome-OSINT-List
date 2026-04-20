@@ -1101,6 +1101,7 @@ the number of views or likes.
 - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content create an email alert about any topic in mind
 - [Hoaxy: How claims spread online](https://hoaxy.osome.iu.edu/) - Visualize the spread of information on Twitter
 - [Snopes](https://www.snopes.com/?s=) - The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) - Free MCP server giving AI assistants (Claude, Cursor) structured 31-dimensional bias scores per article (sensationalism, scapegoating, opinion-vs-fact, AI-authorship probability) across 3.2M+ articles from 5,000+ sources, plus multi-source balanced synthesis.
 - [ReviewMeta](https://reviewmeta.com/) - ReviewMeta analyzes Amazon product reviews and filters out reviews that our algorithm detects may be unnatural.
 - [Verification Handbook](https://datajournalism.com/read/handbook/verification-1) - Need to learn new data skills, increase your data journalism knowledge or advance your career?
 - [Truth or Fiction](https://www.truthorfiction.com/) - Truth or Fiction? – Seeking truth, exposing fiction
