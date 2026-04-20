@@ -97,7 +97,6 @@ AI tools/Site
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
 - [Threat Intelligence AI](https://threatlandscape.ai/) - Threat Landscape Copilot - Conversational access to continuously updated, structured threat intelligence.
 - [CanIRun.ai](https://www.canirun.ai/) - AI tool to check system requirements and compatibility.
-- [sherlockeye](https://www.sherlockeye.io) -Agentic AI that cross-references, enriches and surfaces data, delivering actionable insights
 <br>
 
 [⇧ Top](#index)
