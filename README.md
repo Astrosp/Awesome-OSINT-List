@@ -634,6 +634,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - [Username Search](https://www.idcrawl.com/username) - Uncover social media profiles and real people behind a username
 - [maigret](https://pypi.org/project/maigret/) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages
 - [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [sherlockeye](https://www.sherlockeye.io) - Search for any username across 3,000+ sources in seconds
 - [socialscan](https://pypi.org/project/socialscan/) - socialscan offers accurate and fast checks for email address and username usage on online platforms.
 - [socid-extractor](https://pypi.org/project/socid-extractor/) - Extract information about a user from profile webpages / API responses and save it in machine-readable format.
 - [social-analyzer](https://pypi.org/project/social-analyzer/) - Social-Analyzer - API, CLI & Web App for analyzing & finding a person’s profile across social media websites. It includes different string analysis and detection modules, you can choose which combination of modules to use during the investigation process.
@@ -706,6 +707,7 @@ You are searching 121 billion records.
 - [Email Permutator+](https://www.polished.app/email-permutator/) - Generate possible email address permutations for a person.
 - [RocketReach](https://rocketreach.co/) - Find email addresses and phone numbers for professionals.
 - [ContactOut](https://contactout.com/) - Email finder for recruiting and sales.
+- [sherlockeye](https://www.sherlockeye.io) - Search for any email across 400+ sources in seconds
 <br>
 
 [⇧ Top](#index)
@@ -746,6 +748,7 @@ You are searching 121 billion records.
 - [NumberGuru](https://www.numberguru.com/) - Free reverse phone lookup service.
 - [Reverse Australia](https://www.reverseaustralia.com/) - Australian phone number lookup.
 - [Canada411](https://www.canada411.ca/) - Canadian phone and address directory.
+- [sherlockeye](https://www.sherlockeye.io) - Search for any phone across 100+ sources in seconds
 <br>
 
 [⇧ Top](#index)
@@ -1167,6 +1170,7 @@ the number of views or likes.
 - [Public Buckets](https://osint.sh/buckets/) - Find public buckets on AWS S3 & Azure Blob by a keyword
 - [Search Atlas](https://searchatlas.org/) - Visualizing Divergent Search Results Across Geopolitical Borders
 - [Hackxy](https://hackxy.io/) - cybersecurity search engine for ctf write and bugbounty reports
+- [sherlockeye](https://www.sherlockeye.io) - Search for any person, company or digital asset in seconds
 <br>
 
 [⇧ Top](#index)
