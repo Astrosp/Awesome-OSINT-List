@@ -668,6 +668,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - [EmailFinder](https://snov.io/email-finder) - Find any company mail
 - [holehe](https://pypi.org/project/holehe/) - holehe allows you to check if the mail is used on different sites like twitter, instagram , snapchat and will retrieve information on sites with the forgotten password function.
 - [user-scanner](https://github.com/kaifcodec/user-scanner.git) - Takes an email, scan on various popular sites, games and retrieve info if the email is registered there or not.
+- [MailAccess](https://github.com/KatrielMoses/MailAccess) - All-in-one email OSINT tool. Checks 800+ platforms via Holehe, WhatsMyName, and user-scanner, with breach detection, Hudson Rock infostealer intel, and identity clustering.
 - ~~[Infoga](http://github.com/m4ll0k/Infoga)~~ - 404
 - ~~[Trumail](https://trumail.io/)~~ - Purchase by emailable.
 - [Email Verifier](https://hunter.io/email-verifier) - Verify any email address with the most complete email checker.
