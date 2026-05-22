@@ -228,12 +228,11 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [Upload files to IPFS from Browser](https://anarkrypto.github.io/upload-files-to-ipfs-from-browser-panel/public/) - decentralize file shearing
 - [BlackHole](https://blackhole.run/) - BlackHole is a file transfer application built on top of blockchain for the new internet. You can share any super security file with ease and be sure the data is yours forever. You can use BlackHole for free, with no storage or bandwidth limit, but for files bigger than 512 MB
 <br>
-
 [⇧ Top](#index)
-## TOOLSET
-- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused Linux distribution with 135+ pre-configured OSINT and security tools for penetration testing and reconnaissance.
 
-- [shell.how](https://www.shell.how/) - This website provides a comprehensive overview of a command's functionality, including detailed explanations of its constituent fragments. 
+## TOOLSET
+
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused Linux distribution with 135+ pre-configured OSINT and security tools for penetration testing and reconnaissance.
 - [bgp.tools](https://bgp.tools/) - BGP.tools is a website that provides a collection of tools and utilities related to the Border Gateway Protocol (BGP), which is the protocol used for routing Internet traffic between autonomous systems (ASes).
 - [Seekr](https://github.com/seekr-osint/seekr) - All-In-One OSINT tool with neat web interface
 - [CyberChef](https://gchq.github.io/CyberChef/) - Ecode/Decode strings
