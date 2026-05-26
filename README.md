@@ -15,7 +15,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
 ## Index
- [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Messaging Apps & Communication](#messaging-apps--communication) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [Video OSINT & Verification](#video-osint--verification) ⁕ [Metadata & File Analysis](#metadata--file-analysis) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools) ⁕ [Academic & Research Databases](#academic--research-databases) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research) ⁕ [LLM Security / AI Security](#llm-security--ai-security)
+ [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Messaging Apps & Communication](#messaging-apps--communication) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [Video OSINT & Verification](#video-osint--verification) ⁕ [Metadata & File Analysis](#metadata--file-analysis) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools) ⁕ [Academic & Research Databases](#academic--research-databases) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research)
 
 
 #### <i>Some of other OSINT tools List</i>
@@ -63,41 +63,122 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
  <br>
 
 ## AI
-AI tools/Site
-- [anonchatgpt](https://anonchatgpt.com) - AnonChatGPT is a ChatGPT client that provides a convenient way to interact with ChatGPT without needing an account or disclosing any personal information. Unlike other chatbot platforms, AnonChatGPT doesn't require users to create an account, making it completely anonymous and free to use for anyone.
-- [ai-toolkit](https://huggingface.co/spaces/JournalistsonHF/ai-toolkit) - The Essential AI Toolkit for Journalists and Content Creators, All the tools listed here are free to use and open-source!
-- [Decktopus](https://www.decktopus.com/) - Create beautiful & professional presentations in just minutes.
-- [Monica](https://monica.im/) - Monica is a ChatGPT copilot in Chrome, who can help you: Summarize articles, Translate text, Define words
-- [Poised](https://www.poised.com/) - It's a personal communication coach that gives real-time feedback to help you speak with more energy, clarity, & confidence.
-- [StockimgAI](https://stockimg.ai/) - This AI tool helps you create beautiful images for your brand, such as: Logos, Wallpaper, Book covers.
-- [ChatPDF](https://www.chatpdf.com/) - Upload a PDF and ask it questions. It's simple, straightforward, and great to learn information from
-- [SheetplusAI](https://sheetplus.ai/) - Excel & Google spreadsheets are incredibly tedious work. Luckily, this AI tool will write the formulas for you. Sheets+ can save you 80% of your time by translating text into formulas.
-- [10web](https://10web.io/) - Fill out a short questionnaire about your business, and 10Web will build an entire Wordpress website for you.
-- [AgentGPT](https://agentgpt.reworkd.ai/) - AutoGPT's are all the rage right now, and this is among the best ones out there. ive your agent a goal and it'll autonomously give itself tasks, browse the web, and execute it for you.
-- [LonardoAI](https://leonardo.ai/) - Leonardo.ai is a website for a company that offers AI-powered image and video editing tools. The website is designed with a sleek and modern look, featuring a black and white color scheme with pops of orange.
-- [Adobe FireFly](https://firefly.adobe.com/) - A tool from adobe to generate Images from text prompt with added customization.
-- [Groq](https://groq.com/) - Fastest LLM Model
-- [YouLearn](https://www.youlearn.ai/) - Learn from an AI tutor that understands your pdfs, videos, and slides.
-- [Anything](https://anything.com) -  just describe what you want, and anything builds it. Everything you need built in.
-- [Exa.ai](https://exa.ai) - ai search engine
-- [Perplexity AI](https://www.perplexity.ai/) - AI-powered search engine that provides concise, sourced answers to queries.
+
+### AI Assistants & Chat Platforms
 - [Claude](https://claude.ai/) - Anthropic's AI assistant for research, analysis, and content generation.
 - [Gemini](https://gemini.google.com/) - Google's AI assistant with advanced reasoning and multimodal capabilities.
-- [NotebookLM](https://notebooklm.google/) - Google's AI research assistant that works with your uploaded documents.
-- [Poe](https://poe.com/) - Access multiple AI models including GPT-4, Claude, and Gemini in one platform.
-- [Hugging Face](https://huggingface.co/) - Open-source AI model repository with chat interfaces and tools.
 - [Copilot](https://copilot.microsoft.com/) - Microsoft's AI assistant integrated with Bing search.
+- [Poe](https://poe.com/) - Access multiple AI models including GPT-4, Claude, and Gemini in one platform.
+- [anonchatgpt](https://anonchatgpt.com) - AnonChatGPT is a ChatGPT client that provides a convenient way to interact with ChatGPT without needing an account or disclosing any personal information. Unlike other chatbot platforms, AnonChatGPT doesn't require users to create an account, making it completely anonymous and free to use for anyone.
+- [Monica](https://monica.im/) - Monica is a ChatGPT copilot in Chrome, who can help you: Summarize articles, Translate text, Define words
+- [Groq](https://groq.com/) - Fastest LLM Model
+- [AgentGPT](https://agentgpt.reworkd.ai/) - AutoGPT's are all the rage right now, and this is among the best ones out there. ive your agent a goal and it'll autonomously give itself tasks, browse the web, and execute it for you.
+
+### AI Search Engines
+- [Perplexity AI](https://www.perplexity.ai/) - AI-powered search engine that provides concise, sourced answers to queries.
 - [You.com](https://you.com/) - AI search engine with multiple modes for different research needs.
 - [Phind](https://www.phind.com/) - AI search engine optimized for developers and technical queries.
+- [Exa.ai](https://exa.ai) - ai search engine
+
+### AI Research & Academic Tools
+- [NotebookLM](https://notebooklm.google/) - Google's AI research assistant that works with your uploaded documents.
 - [Consensus](https://consensus.app/) - AI-powered academic research search engine.
 - [Elicit](https://elicit.com/) - AI research assistant for analyzing academic papers.
 - [Scite.ai](https://scite.ai/) - AI tool to see how publications cite each other.
-- [iAsk.ai](https://iask.ai/) - AI-powered answer engine that provides accurate, factual answers to questions.
+- [ChatPDF](https://www.chatpdf.com/) - Upload a PDF and ask it questions. It's simple, straightforward, and great to learn information from
+- [YouLearn](https://www.youlearn.ai/) - Learn from an AI tutor that understands your pdfs, videos, and slides.
+
+### AI for OSINT & Threat Intelligence
 - [OSINT LLM](https://huggingface.co/spaces/tomvaillant/osint-llm) - AI-powered OSINT assistant on Hugging Face.
-- [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
 - [Threat Intelligence AI](https://threatlandscape.ai/) - Threat Landscape Copilot - Conversational access to continuously updated, structured threat intelligence.
+- [ai-toolkit](https://huggingface.co/spaces/JournalistsonHF/ai-toolkit) - The Essential AI Toolkit for Journalists and Content Creators, All the tools listed here are free to use and open-source!
+
+### AI Image & Video Generation
+- [StockimgAI](https://stockimg.ai/) - This AI tool helps you create beautiful images for your brand, such as: Logos, Wallpaper, Book covers.
+- [LonardoAI](https://leonardo.ai/) - Leonardo.ai is a website for a company that offers AI-powered image and video editing tools. The website is designed with a sleek and modern look, featuring a black and white color scheme with pops of orange.
+- [Adobe FireFly](https://firefly.adobe.com/) - A tool from adobe to generate Images from text prompt with added customization.
+
+### AI Productivity Tools
+- [SheetplusAI](https://sheetplus.ai/) - Excel & Google spreadsheets are incredibly tedious work. Luckily, this AI tool will write the formulas for you. Sheets+ can save you 80% of your time by translating text into formulas.
+- [Decktopus](https://www.decktopus.com/) - Create beautiful & professional presentations in just minutes.
+- [Poised](https://www.poised.com/) - It's a personal communication coach that gives real-time feedback to help you speak with more energy, clarity, & confidence.
+- [10web](https://10web.io/) - Fill out a short questionnaire about your business, and 10Web will build an entire Wordpress website for you.
+- [Anything](https://anything.com) -  just describe what you want, and anything builds it. Everything you need built in.
+
+### AI Detection & Verification
+- [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
+
+### AI Model Repository & Tools
+- [Hugging Face](https://huggingface.co/) - Open-source AI model repository with chat interfaces and tools.
+
+### AI Utilities
+- [iAsk.ai](https://iask.ai/) - AI-powered answer engine that provides accurate, factual answers to questions.
 - [CanIRun.ai](https://www.canirun.ai/) - AI tool to check system requirements and compatibility.
 - [InstaPV.ai](https://www.instapv.ai/) - AI-powered Instagram profile viewer and analytics tool.
+
+### LLM Security & AI Security
+
+#### LLM Vulnerability Testing
+- [Garak](https://github.com/leondz/garak) - LLM vulnerability scanner for probing language models.
+- [PromptFoo](https://promptfoo.dev/) - Test and evaluate LLM outputs for security and quality.
+- [PyRIT](https://github.com/Azure/PyRIT) - Python Risk Identification Toolkit for generative AI by Microsoft.
+- [LLM Fuzzer](https://github.com/mnns/LLMFuzzer) - Fuzzing framework for finding vulnerabilities in LLMs.
+- [AI Exploits](https://github.com/protectai/ai-exploits) - Collection of real-world AI/ML exploits and vulnerabilities.
+- [Rebuff](https://github.com/protectai/rebuff) - Prompt injection detector for LLM applications.
+- [LLM Guard](https://llm-guard.com/) - Security toolkit for LLM interactions with input/output filtering.
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - Toolkit for adding programmable guardrails to LLM applications.
+- [LangChain Security](https://python.langchain.com/docs/security) - Security best practices for LangChain applications.
+
+#### AI Red Teaming & Adversarial Testing
+- [Gandalf by Lakera](https://gandalf.lakera.ai/) - Game for testing prompt injection techniques.
+- [Prompt Injection Playground](https://greshake.github.io/) - Interactive playground for testing prompt injections.
+- [AI Incident Database](https://incidentdatabase.ai/) - Database of AI system failures and harms.
+- [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for adversarial machine learning.
+- [CleverHans](https://github.com/cleverhans-lab/cleverhans) - Library for benchmarking ML systems' vulnerability to adversarial examples.
+- [Foolbox](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples.
+- [TextAttack](https://github.com/QData/TextAttack) - Framework for adversarial attacks in NLP.
+
+#### AI Model Security & Privacy
+- [Counterfit](https://github.com/Azure/counterfit) - Generic automation layer for assessing security of ML models.
+- [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - Privacy testing library for deep learning systems.
+- [ML Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) - Tool to audit data privacy in statistical and ML algorithms.
+- [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Library for training ML models with differential privacy.
+- [Opacus](https://opacus.ai/) - Library for training PyTorch models with differential privacy.
+
+#### AI/ML Model Analysis
+- [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and ML models.
+- [TensorBoard](https://www.tensorflow.org/tensorboard) - TensorFlow's visualization toolkit.
+- [Manifold](https://github.com/uber/manifold) - Model-agnostic visual debugging tool for ML.
+- [What-If Tool](https://pair-code.github.io/what-if-tool/) - Interactive visual interface for ML model analysis.
+
+#### AI Security Platforms & Tools
+- [Protect AI](https://protectai.com/) - AI/ML security platform for scanning and protecting models.
+- [Robust Intelligence](https://www.robustintelligence.com/) - AI security and validation platform.
+- [HiddenLayer](https://hiddenlayer.com/) - Security platform for AI models and applications.
+- [Lakera Guard](https://www.lakera.ai/lakera-guard) - Enterprise LLM security solution for prompt injections.
+- [Arthur AI](https://www.arthur.ai/) - ML model monitoring and anomaly detection platform.
+- [Fiddler AI](https://www.fiddler.ai/) - ML model performance monitoring and explainability platform.
+
+#### Jailbreak & Prompt Injection Resources
+- [Jailbreak Chat](https://www.jailbreakchat.com/) - Collection of ChatGPT jailbreaks and prompts.
+- [Awesome GPT Prompt Injection](https://github.com/FonduAI/awesome-gpt-prompt-injection) - Curated list of prompt injection resources.
+- [LLM Security](https://llmsecurity.net/) - Resources and research on LLM security vulnerabilities.
+- [OWASP Top 10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Top 10 security risks for LLM applications.
+
+#### AI/ML Dataset Security
+- [Model Signing](https://github.com/sigstore/model-transparency) - Supply chain security for ML models.
+- [Hugging Face Security](https://huggingface.co/docs/hub/security) - Security features and scanning on Hugging Face Hub.
+- [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) - Streamlines model documentation for transparency.
+- [AI BOM](https://aibom.org/) - AI Bill of Materials for tracking AI system components.
+
+#### Research & Education
+- [AI Safety Papers](https://www.alignmentforum.org/) - Forum for AI alignment and safety research.
+- [AI Security Conference Papers](https://www.papersdigest.org/tag/ai-security/) - Academic papers on AI security.
+- [ML Security Reading List](https://github.com/0xRadi/AI-ML-Security-Reading-List) - Curated reading list for AI/ML security.
+- [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - ML tools and resources for cybersecurity.
+- [MITRE ATLAS](https://atlas.mitre.org/) - Knowledge base of adversarial tactics against ML systems.
+- [Trail of Bits AI Security](https://github.com/trailofbits/ai-security-bestpractices) - Best practices for AI/ML security.
+
 <br>
 
 [⇧ Top](#index)
@@ -2231,71 +2312,6 @@ about police misconduct in Chicago
 - [Bug Bounty Forum](https://bugbountyforum.com/) - Community forum for bug bounty hunters.
 - [PortSwigger Research](https://portswigger.net/research) - Web security research and techniques.
 - [Hacker101](https://www.hacker101.com/) - Free class for web security by HackerOne.
-<br>
-
-[⇧ Top](#index)
-## LLM SECURITY / AI SECURITY
-
-### LLM Vulnerability Testing
-- [Garak](https://github.com/leondz/garak) - LLM vulnerability scanner for probing language models.
-- [PromptFoo](https://promptfoo.dev/) - Test and evaluate LLM outputs for security and quality.
-- [PyRIT](https://github.com/Azure/PyRIT) - Python Risk Identification Toolkit for generative AI by Microsoft.
-- [LLM Fuzzer](https://github.com/mnns/LLMFuzzer) - Fuzzing framework for finding vulnerabilities in LLMs.
-- [AI Exploits](https://github.com/protectai/ai-exploits) - Collection of real-world AI/ML exploits and vulnerabilities.
-- [Rebuff](https://github.com/protectai/rebuff) - Prompt injection detector for LLM applications.
-- [LLM Guard](https://llm-guard.com/) - Security toolkit for LLM interactions with input/output filtering.
-- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - Toolkit for adding programmable guardrails to LLM applications.
-- [LangChain Security](https://python.langchain.com/docs/security) - Security best practices for LangChain applications.
-
-### AI Red Teaming & Adversarial Testing
-- [Gandalf by Lakera](https://gandalf.lakera.ai/) - Game for testing prompt injection techniques.
-- [Prompt Injection Playground](https://greshake.github.io/) - Interactive playground for testing prompt injections.
-- [AI Incident Database](https://incidentdatabase.ai/) - Database of AI system failures and harms.
-- [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for adversarial machine learning.
-- [CleverHans](https://github.com/cleverhans-lab/cleverhans) - Library for benchmarking ML systems' vulnerability to adversarial examples.
-- [Foolbox](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples.
-- [TextAttack](https://github.com/QData/TextAttack) - Framework for adversarial attacks in NLP.
-
-### AI Model Security & Privacy
-- [Counterfit](https://github.com/Azure/counterfit) - Generic automation layer for assessing security of ML models.
-- [PrivacyRaven](https://github.com/trailofbits/PrivacyRaven) - Privacy testing library for deep learning systems.
-- [ML Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) - Tool to audit data privacy in statistical and ML algorithms.
-- [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Library for training ML models with differential privacy.
-- [Opacus](https://opacus.ai/) - Library for training PyTorch models with differential privacy.
-
-### AI/ML Model Analysis
-- [Netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and ML models.
-- [TensorBoard](https://www.tensorflow.org/tensorboard) - TensorFlow's visualization toolkit.
-- [Manifold](https://github.com/uber/manifold) - Model-agnostic visual debugging tool for ML.
-- [What-If Tool](https://pair-code.github.io/what-if-tool/) - Interactive visual interface for ML model analysis.
-
-### AI Security Platforms & Tools
-- [Protect AI](https://protectai.com/) - AI/ML security platform for scanning and protecting models.
-- [Robust Intelligence](https://www.robustintelligence.com/) - AI security and validation platform.
-- [HiddenLayer](https://hiddenlayer.com/) - Security platform for AI models and applications.
-- [Lakera Guard](https://www.lakera.ai/lakera-guard) - Enterprise LLM security solution for prompt injections.
-- [Arthur AI](https://www.arthur.ai/) - ML model monitoring and anomaly detection platform.
-- [Fiddler AI](https://www.fiddler.ai/) - ML model performance monitoring and explainability platform.
-
-### Jailbreak & Prompt Injection Resources
-- [Jailbreak Chat](https://www.jailbreakchat.com/) - Collection of ChatGPT jailbreaks and prompts.
-- [Awesome GPT Prompt Injection](https://github.com/FonduAI/awesome-gpt-prompt-injection) - Curated list of prompt injection resources.
-- [LLM Security](https://llmsecurity.net/) - Resources and research on LLM security vulnerabilities.
-- [OWASP Top 10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Top 10 security risks for LLM applications.
-
-### AI/ML Dataset Security
-- [Model Signing](https://github.com/sigstore/model-transparency) - Supply chain security for ML models.
-- [Hugging Face Security](https://huggingface.co/docs/hub/security) - Security features and scanning on Hugging Face Hub.
-- [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) - Streamlines model documentation for transparency.
-- [AI BOM](https://aibom.org/) - AI Bill of Materials for tracking AI system components.
-
-### Research & Education
-- [AI Safety Papers](https://www.alignmentforum.org/) - Forum for AI alignment and safety research.
-- [AI Security Conference Papers](https://www.papersdigest.org/tag/ai-security/) - Academic papers on AI security.
-- [ML Security Reading List](https://github.com/0xRadi/AI-ML-Security-Reading-List) - Curated reading list for AI/ML security.
-- [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) - ML tools and resources for cybersecurity.
-- [MITRE ATLAS](https://atlas.mitre.org/) - Knowledge base of adversarial tactics against ML systems.
-- [Trail of Bits AI Security](https://github.com/trailofbits/ai-security-bestpractices) - Best practices for AI/ML security.
 <br>
 
 [⇧ Top](#index)
