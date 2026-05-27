@@ -2267,6 +2267,7 @@ about police misconduct in Chicago
 - [Retire.js](https://retirejs.github.io/retire.js/) - Scanner detecting use of JavaScript libraries with known vulnerabilities.
 - [Snyk](https://snyk.io/) - Developer security platform for finding and fixing vulnerabilities.
 - [CVE Integrate](https://cve.integrate.com.mo/) - CVE vulnerability database and integration platform.
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier.
 <br>
 
 ### Content Discovery & Fuzzing
