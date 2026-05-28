@@ -1761,6 +1761,7 @@ Enter two images and the difference will show up below
 - [Zoom.earth](https://zoom.earth/) - Live satellite and weather imagery.
 - [SunCalc](https://www.suncalc.org/) - Shows sun position and sunlight phases for geolocation verification.
 - [ShadowCalculator](https://app.shadowmap.org/) - Shadow analysis for time and location verification.
+- [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads
 <br>
 
 [⇧ Top](#index)
