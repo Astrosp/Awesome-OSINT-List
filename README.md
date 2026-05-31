@@ -870,6 +870,7 @@ You are searching 121 billion records.
 [⇧ Top](#index)
  ## TWITTER
 
+- [GetXAPI](https://www.getxapi.com/) - Twitter / X data API for OSINT collection. Read endpoints (search, profiles, follower graph, mentions, lists, communities, trends) and write endpoints. Bearer-token auth. Public OpenAPI 3.1 spec.
 - [BirdHunt](https://birdhunt.co/) - BirdHunt will show you all tweets within the chosen geographic location
 - [Nitter](https://github.com/zedeus/nitter/) - Alternative Twitter front-end
 - [Twitter Search Engine](https://cse.google.com/cse?cx=5857bab69c8b8e37e) - custom search engine for twitter
