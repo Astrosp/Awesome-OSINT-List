@@ -81,6 +81,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [Exa.ai](https://exa.ai) - ai search engine
 
 ### AI Research & Academic Tools
+- [Otio](https://otio.ai/?ref=osint-tools) - AI research workspace for working across uploaded sources (PDFs, web pages, YouTube, podcasts). Chat with any AI model (Claude, GPT, Gemini), every citation linked back to the exact page in the source. iOS + desktop.
 - [NotebookLM](https://notebooklm.google/) - Google's AI research assistant that works with your uploaded documents.
 - [Consensus](https://consensus.app/) - AI-powered academic research search engine.
 - [Elicit](https://elicit.com/) - AI research assistant for analyzing academic papers.
