@@ -2022,6 +2022,7 @@ about police misconduct in Chicago
 - [SortedByName.com](https://sortedbyname.com/)
 - [Sortedbybirthdate.com](https://sortedbybirthdate.com/)
 - [Cemetery.directory](https://cemetery.directory/)
+- [FinalNotes Obituary Research Guide](https://www.finalnotes.page/obituary-research-guide/) - Guide for finding obituary records, preserving source trails, and using obituary clues in sourced family-history research.
 - [Social Security Death Index](https://stevemorse.org/ssdi/ssdi.html)
 - [FamilySearch’s United States Record Collections](https://stevemorse.org/fhl/websitesunitedstates.html)
 - [Chicago Cook County Genealogy](https://stevemorse.org/vital/cook.html)
