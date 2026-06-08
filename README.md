@@ -184,6 +184,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 
 [⇧ Top](#index)
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Perform OSINT-style investigation of agent wallet identity, transaction history, and autonomy score before authorizing x402 micropayments. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Recon
 
 Tools for Image/Audio/Video/Doc reconnaissance
