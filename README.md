@@ -708,6 +708,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - [Gofindwho.com](https://gofindwho.com/) - 404
 - [xlek](https://xlek.com/) - USA Data Search Search Public Data Instantly
 - [Ufind.name](https://ufind.name/) - free people search
+- [LERS Portal Directory (Ministry of Cyber Affairs)](https://ministryofcyberaffairs.com/lers) - Directory of platform law-enforcement data-request (LERS) portals (WhatsApp, Google, Apple, Telegram, TikTok, Binance) with eligibility and submission steps for authorised investigators.
 <br>
 
 [⇧ Top](#index)
