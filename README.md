@@ -1547,6 +1547,7 @@ Enter two images and the difference will show up below
 - [IANA — Root Zone Database](https://www.iana.org/domains/root/db) - The Root Zone Database represents the delegation details of top-level domains, including gTLDs such as .com, and country-code TLDs such as .uk. As the manager of the DNS root zone, we are responsible for coordinating these delegations in accordance with our policies and procedures.
 - [Punkspider](https://punkspider.org/) - Searching for vulnerable websites is coming back soon! Are you new to web security and have no idea what the heck we're talking about
 - [metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
+- [DomainIntel](https://domainintel.onrender.com) - Real-time domain intelligence API (RDAP, DNS-over-HTTPS, Certificate Transparency, bulk lookups). Free tier.
 - [urldna](https://urldna.io) - Gather info about URL: ssl cert, ip, header, metadat ...
 - [Check-The-Sum](https://check-the-sum.fr/) - Database of IP addresses, domains and malicious files collected from a network of honeypots
 - [SubDomainRadar.io](https://subdomainradar.io/) - All-in-one recon platform: 50+ data sources for subdomain discovery, port & vulnerability scans, screenshots, and API access
