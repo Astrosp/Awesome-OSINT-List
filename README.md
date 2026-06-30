@@ -1025,6 +1025,7 @@ the number of views or likes.
 - [Instagram User ID](https://commentpicker.com/instagram-user-id.php) - Find any Instagram User ID by Instagram username.
 - [instalooter](https://pypi.org/project/instalooter/) - InstaLooter is a program that can download any picture or video associated from an Instagram profile, without any API access
 - [instaloader](https://pypi.org/project/instaloader/) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- [insta-dl](https://github.com/subzeroid/insta-dl) - Async Instagram downloader CLI for profiles, posts, reels, stories, highlights, hashtags, and comments with JSON metadata, original timestamps, and pluggable HikerAPI/aiograpi backends.
 - [insto](https://github.com/subzeroid/insto) - Interactive Instagram OSINT CLI (REPL + one-shot) with watch/diff snapshots and Maltego-ready CSV/JSON export; pluggable HikerAPI/aiograpi backends.
 - [osi.ig](https://github.com/th3unkn0n/osi.ig) - Information Gathering Instagram.
 - [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
