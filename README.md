@@ -34,6 +34,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [leakcheck](https://leakcheck.io/) - Find out if your credentials have been compromised
 - [Leaker](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
 - [Findemail.io](https://findemail.io/) - Find email addresses for given company.
+- - [No2Bounce](https://no2bounce.com) - Email verification platform that validates email addresses, detects disposable emails, catch-all domains, spam traps, and helps improve email deliverability.
 - [LibraryOfLeaks](https://search.libraryofleaks.org) - Search for leak documents, companies, people, database and more
 - [LeakRadar](https://leakradar.io/) - Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API
 - [InfoStealers](https://infostealers.info/en/info) - Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals.
