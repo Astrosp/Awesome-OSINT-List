@@ -916,6 +916,7 @@ You are searching 121 billion records.
 - [Location Search](https://mattw.io/youtube-geofind/location) - Search YouTube by location for geotagged videos. Find videos near you or anywhere in the world.
 - [YouTube Metadata Bulk](https://mattw.io/youtube-metadata/bulk) - Metadata bulk grabs details about multiple YouTube videos, a playlist's videos, or a channel's public videos.
 - [Hadzy.com](https://hadzy.com/) - Search, sort and analyze youtube comments
+- [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Download the latest public YouTube video or Shorts comments as CSV for audience research and OSINT workflows.
 - [Youtube channel ID](https://commentpicker.com/youtube-channel-id.php) - Find YouTube Channel ID, and related channel information and statistics.
 - [Extract Meta Data YouTube](https://citizenevidence.amnestyusa.org/) - Youtube DataViewer
 - [Youtube Geo Search Tool](https://youtube.github.io/geo-search-tool/search.html) - a simple model of how News organizations could use Google APIs to help find citizen journalism on YouTube. It uses YouTube and Google APIs to generate location based search results which are stack ranked by upload time.
