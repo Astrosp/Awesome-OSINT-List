@@ -2250,6 +2250,7 @@ about police misconduct in Chicago
 - [Criminal IP](https://www.criminalip.io/) - Cyber threat intelligence search engine.
 - [FullHunt](https://fullhunt.io/) - Attack surface discovery and security assessment platform.
 - [Netlas](https://netlas.io/) - Search engine and data analysis platform for internet-connected assets.
+- [Cerast Intelligence](https://search.cerast-intelligence.com/) - Searchable archive of exposed panels and misconfigurations found across domains by continuous internet-wide scanning.
 
 ### Reconnaissance & Enumeration
 - [Amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery.
