@@ -90,6 +90,9 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [YouLearn](https://www.youlearn.ai/) - Learn from an AI tutor that understands your pdfs, videos, and slides.
 
 ### AI for OSINT & Threat Intelligence
+
+- [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
 - [OSINT LLM](https://huggingface.co/spaces/tomvaillant/osint-llm) - AI-powered OSINT assistant on Hugging Face.
 - [Threat Intelligence AI](https://threatlandscape.ai/) - Threat Landscape Copilot - Conversational access to continuously updated, structured threat intelligence.
 - [ai-toolkit](https://huggingface.co/spaces/JournalistsonHF/ai-toolkit) - The Essential AI Toolkit for Journalists and Content Creators, All the tools listed here are free to use and open-source!
