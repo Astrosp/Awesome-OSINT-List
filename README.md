@@ -315,6 +315,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 ## TOOLSET
 
 - [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused Linux distribution with 135+ pre-configured OSINT and security tools for penetration testing and reconnaissance.
+- [Clearfront OSINT](https://github.com/scottmartinanderson/clearfront) - Free, open-source self-OSINT tool that scans your own digital footprint (username, email, breaches, data brokers) in one local sweep, with an evidence graph and an AI analyst that writes up findings with confidence ratings.
 - [bgp.tools](https://bgp.tools/) - BGP.tools is a website that provides a collection of tools and utilities related to the Border Gateway Protocol (BGP), which is the protocol used for routing Internet traffic between autonomous systems (ASes).
 - [Seekr](https://github.com/seekr-osint/seekr) - All-In-One OSINT tool with neat web interface
 - [CyberChef](https://gchq.github.io/CyberChef/) - Ecode/Decode strings
