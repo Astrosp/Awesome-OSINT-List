@@ -318,6 +318,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [bgp.tools](https://bgp.tools/) - BGP.tools is a website that provides a collection of tools and utilities related to the Border Gateway Protocol (BGP), which is the protocol used for routing Internet traffic between autonomous systems (ASes).
 - [Seekr](https://github.com/seekr-osint/seekr) - All-In-One OSINT tool with neat web interface
 - [CyberChef](https://gchq.github.io/CyberChef/) - Ecode/Decode strings
+- [Argos OSINT](https://argos-osint.com) - Free Spanish-language OSINT platform (31 tools + 7 guides + 10 OSINT prompts for Claude): WHOIS/RDAP + DoH DNS + subdomains via crt.sh (unified /dominio dashboard), IP geolocation, IP reputation via Shodan InternetDB, pwned password check via HIBP k-anonymity, email header analyzer (SPF/DKIM/DMARC), SPF/DMARC auditor, EXIF and PDF metadata analyzers, reverse image search aggregator, Wayback Machine lookup, username finder across 50+ platforms, WhatsApp chat analyzer, JWT decoder, regex/color/UA parser/QR/base64/hash/timestamp/URL cleaner. All in-browser, no signup, PWA installable.
 - [Dencode.com](https://dencode.com/) - DenCode is a web application for encoding and decoding values.
 - [mitaka](https://github.com/ninoseki/mitaka) - A browser extension for OSINT search
 - [pywhat](https://pypi.org/project/pywhat/) - The easiest way to identify anything
