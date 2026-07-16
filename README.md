@@ -2133,6 +2133,7 @@ about police misconduct in Chicago
 - [Chainalysis](https://www.chainalysis.com/) - Blockchain data platform for investigators.
 - [Elliptic](https://www.elliptic.co/) - Crypto compliance and investigation tools.
 - [Crystal Blockchain](https://crystalblockchain.com/) - Blockchain analytics platform.
+- [CryptoAML](https://cryptoaml.ai) - Free multi-chain AML wallet screening via Telegram bot ([@cryptoamlscan_bot](https://t.me/cryptoamlscan_bot)) and web. Screens against OFAC/UN/EU sanctions, darknet markets, and mixers across 30+ chains, no registration required.
 - [OXT.me](https://oxt.me/) - Bitcoin blockchain explorer with analysis tools.
 - [WalletExplorer](https://www.walletexplorer.com/) - Bitcoin wallet tracking and analysis.
 - [BTC Parser](https://btcparser.com/) - Bitcoin transaction analysis tool.
