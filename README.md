@@ -219,6 +219,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) - High performance offensive security tool for reconnaissance and vulnerability scanning.
 - [ivre](https://github.com/ivre/ivre) - Network recon framework to build alternatives to Shodan/ZoomEye/Censys.
 - [Findomain](https://github.com/Findomain/Findomain) - Fast domain recognition tool with screenshotting, port scan, and subdomain monitoring.
+- [IntelCue Subdomain Finder](https://www.intelcue.ai/tools/subdomain-finder) - Free subdomain finder powered by Certificate Transparency logs, no signup required.
 <br>
 
 [⇧ Top](#index)
