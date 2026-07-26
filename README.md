@@ -315,7 +315,6 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 ## TOOLSET
 
 - [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused Linux distribution with 135+ pre-configured OSINT and security tools for penetration testing and reconnaissance.
-- [Clearfront OSINT](https://github.com/scottmartinanderson/clearfront) - Free, open-source self-OSINT tool that scans your own digital footprint (username, email, breaches, data brokers) in one local sweep, with an evidence graph and an AI analyst that writes up findings with confidence ratings.
 - [bgp.tools](https://bgp.tools/) - BGP.tools is a website that provides a collection of tools and utilities related to the Border Gateway Protocol (BGP), which is the protocol used for routing Internet traffic between autonomous systems (ASes).
 - [Seekr](https://github.com/seekr-osint/seekr) - All-In-One OSINT tool with neat web interface
 - [CyberChef](https://gchq.github.io/CyberChef/) - Ecode/Decode strings
@@ -678,6 +677,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - [IOA](https://www.io-archive.org/) - The Information Operation Archive hosts publicly available and rigorously attributed datapoints from known Information Operations on social media platforms.
 - [ApifyForge](https://apifyforge.com) - 93 MCP intelligence servers and 300+ data tools for automated OSINT. AML screening, sanctions checks (OFAC, OpenSanctions, Interpol), beneficial ownership, corporate due diligence, SEC filings, cybersecurity attack surface analysis. Each server queries 7-18 sources in parallel.
 - [Crime Brasil](https://crimebrasil.com.br/) - Brazilian crime data platform with ~3M geocoded incidents (national + state/municipality/neighborhood drilldowns). Free REST API, CSV/Parquet exports, CC BY 4.0 licensed. Useful for investigators, journalists, and researchers working Brazilian leads.
+- [Clearfront OSINT](https://github.com/scottmartinanderson/clearfront) - Free, open-source self-OSINT tool that scans your own digital footprint (username, email, breaches, data brokers) in one local sweep, with an evidence graph and an AI analyst that writes up findings with confidence ratings.
 <br>
 
 [⇧ Top](#index)
