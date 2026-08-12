@@ -1378,6 +1378,7 @@ Enter two images and the difference will show up below
 - [ExifTool](https://exiftool.org/) - Platform-independent library and command-line application for reading, writing and editing meta information.
 - [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) - Detailed EXIF data viewer for photos.
 - [Metadata2Go](https://www.metadata2go.com/) - Online metadata viewer and editor for various file types.
+- [Metadata Remover](https://metadataremover.ai/metadata-viewer) - Browser-local image metadata viewer for EXIF, GPS, XMP, IPTC, and supported AI metadata; no file upload or account required.
 - [Get-Metadata](https://www.get-metadata.com/) - Extract metadata from documents, images, videos.
 - [FOCA](https://github.com/ElevenPaths/FOCA) - Metadata analysis tool for documents and files.
 - [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester from public documents.
