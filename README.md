@@ -996,6 +996,7 @@ the number of views or likes.
 - [DiscordServers](https://discordservers.com/) - Public Discord servers you may like
 - [DISBOARD](https://disboard.org/) - Disboard is the place where you can list/find Discord servers.
 - [Discord ID Lookup](https://discord.id/) - Unofficial discord lookup
+- [DiscordLookup](https://discordlookup.org/) - Discord ID lookup and Snowflake decoder for checking account age, creation date, public avatar, banner, badges, and raw ID details without login or token access.
 - [Discord Bots](https://discordbotlist.com/) - Find the best Discord Bots, Apps and Servers with our Discord Bot List, including the top music and economy apps.
 - [Discord Bots](https://top.gg/) - Explore millions of Discord Bots
 - [Discord Bots](https://discord.bots.gg/) - This site is a list of publicly available Discord bots, intended to accompany the Discord Bots, Discord server. The bots presented here are created and maintained by community members and serve all kinds of purposes
