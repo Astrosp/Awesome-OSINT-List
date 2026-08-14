@@ -1299,6 +1299,7 @@ the number of views or likes.
 ### Image
   
 - [Image verification assisant](https://mever.gr/forensics/) - Imge verification assisant helps you to analyse the varacity of online media
+- [ChronoVerify](https://chronoverify.com/) - Free image capture time and provenance checker: validates C2PA Content Credentials, checks EXIF/XMP consistency, and runs pixel forensics, returning one verdict with a confidence score.
 - [Google Images](https://images.google.com/) - Google image search
 - [Yandex Images](https://yandex.com/images/) - Yandex Image search
 - [Bing Images](https://www.bing.com/images) - Bing Image search
