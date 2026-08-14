@@ -1516,6 +1516,7 @@ Enter two images and the difference will show up below
 - [Focsec](https://focsec.com) - IP Threat Intelligence, provides general IP information, Proxy, TOR and VPN Detection
 - [favihash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using the same. Works on both open web and dark web.
 - [domain digger](https://digger.tools/) - Find all dns recoreds, whois data, ssl/tls certificate history, subdomain and more
+- [DomainIntel](https://domainintel.onrender.com) - Real-time domain intelligence API (RDAP, DNS, cert transparency, bulk lookups). Free tier.
 - [dnslytics](https://dnslytics.com/) - search for domain IPv4, IPv6 or Provider
 - [dnstwist](https://dnstwist.it) - scan phishing domain
 - [SecurityTrails](https://securitytrails.com/) - search for domain, IPs, keyword or Hostname
