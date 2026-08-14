@@ -1183,6 +1183,7 @@ the number of views or likes.
 [⇧ Top](#index)
 ## NEWS
 
+- [Albis](https://www.albis.news/?utm_source=github&utm_medium=public_catalog&utm_campaign=awesome_osint_astrosp) - News discovery feed for comparing global stories, coverage gaps, and framing differences across sources.
 - [News Search Engine](https://cse.google.com/cse?cx=013991603413798772546:fvmtax6anhd) - custom google search for news only results
 - [Mailing List Archives Search Engine](https://cse.google.com/cse/publicurl?cx=013991603413798772546:sipriovnbxq) - custom google search for mailing list archives of news
 - [Google News](https://news.google.com/) - google news feed around the world
