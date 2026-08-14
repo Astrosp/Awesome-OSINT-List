@@ -2145,6 +2145,7 @@ about police misconduct in Chicago
 - [WalletExplorer](https://www.walletexplorer.com/) - Bitcoin wallet tracking and analysis.
 - [BTC Parser](https://btcparser.com/) - Bitcoin transaction analysis tool.
 - [Breadcrumbs](https://www.breadcrumbs.app/) - Blockchain investigation platform.
+- [OnChainRisk](https://onchainrisk.io/) - Multi-chain wallet, token, and smart-contract risk scoring, fund-flow tracing, and blockchain forensics, with a REST API.
 - [Nansen](https://www.nansen.ai/) - Blockchain analytics with wallet labels.
 - [Arkham Intelligence](https://www.arkhamintelligence.com/) - Crypto intelligence and entity tracking.
 - [Chainabuse](https://www.chainabuse.com/) - Report and search crypto scam addresses.
