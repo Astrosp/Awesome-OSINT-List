@@ -109,6 +109,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [Anything](https://anything.com) -  just describe what you want, and anything builds it. Everything you need built in.
 
 ### AI Detection & Verification
+- [Jura Trace](https://juralabs.org/) - Open-source (AGPL), local-first desktop app for image authenticity verification: C2PA provenance signing, EXIF forensics, and a trained AI/deepfake image classifier, all on-device with no upload.
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
 - [VerifiedHer](https://verifiedher.com/) - Registry answering "is she real?" for online creators — sourced verdicts (real / AI persona / unverified), verified account lists, and impersonation warnings for 400+ documented creators.
 
