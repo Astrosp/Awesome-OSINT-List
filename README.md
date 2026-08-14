@@ -1513,6 +1513,7 @@ Enter two images and the difference will show up below
 ## DOMAIN / IP / DNS
 ### URL's
 
+- [OSINT Projects](https://osintprojects.com) - Free web toolkit for WHOIS/RDAP, DNS, IP geolocation, SSL certificate inspection and Certificate Transparency subdomain discovery. No signup.
 - [Focsec](https://focsec.com) - IP Threat Intelligence, provides general IP information, Proxy, TOR and VPN Detection
 - [favihash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using the same. Works on both open web and dark web.
 - [domain digger](https://digger.tools/) - Find all dns recoreds, whois data, ssl/tls certificate history, subdomain and more
