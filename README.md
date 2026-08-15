@@ -1382,6 +1382,7 @@ Enter two images and the difference will show up below
 - [FOCA](https://github.com/ElevenPaths/FOCA) - Metadata analysis tool for documents and files.
 - [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester from public documents.
 - [Mat2](https://0xacab.org/jvoisin/mat2) - Metadata removal tool for privacy.
+- [MetaClean](https://github.com/Moresyl/metaclean) - Open-source desktop tool for inspecting and removing metadata locally from images, PDFs, Office documents, and text files.
 - [PDF Parser](https://blog.didierstevens.com/programs/pdf-tools/) - Analyze and parse PDF files for metadata and structure.
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware analysis tool for embedded file extraction.
 - [TrID](https://mark0.net/soft-trid-e.html) - File identifier based on binary signatures.
