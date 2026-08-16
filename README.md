@@ -1073,6 +1073,7 @@ the number of views or likes.
 - [TIKTOK Search Engine](https://cse.google.com/cse?cx=011444696387487602669:aqf7d9w73om) - custom search for tiktok
 - [TikTok User Search](https://vidnice.com/search/) - Make a TikTok search to find some users or hashtags.
 - [TikTok downloader](https://tiktokd.com/) - 522
+- [AI TikTok Analyzer Pro](https://tiktok.poviai.com/) - Browser extension and web workbench for TikTok research: sort a creator's public videos by views, likes or comments, export comments to Excel/CSV, AI transcripts, and 9-language translation.
 - [Hashtags for Likes](https://hashtagsforlikes.co/) - Tool for finding the best hashtags for TikTok posts.
 - [HypeAuditor](https://hypeauditor.com/) - Tool for analyzing the authenticity of TikTok influencers.
 - [Influence Grid](https://www.influencegrid.com/) - Tool for finding TikTok influencers.
