@@ -1534,6 +1534,7 @@ Enter two images and the difference will show up below
 - [photon](https://pypi.org/project/photon/) - Incredibly fast crawler designed for OSINT.
 - [Technology Lookup](https://osint.sh/stack/) - Technology stack checker tool. Check out the technologies used on any website.
 - [BuiltWith Technology Lookup](https://builtwith.com/) - Find out what websites are Built With
+- [StackScan](https://www.stackscan.com/) - Look up a site's technology stack, or start from a technology to get the sites using it, broken down by country and industry. Free tier on signup.
 - [OSINT.SH](https://osint.sh/) - All in one Information Gathering Tools
 - [Nmap Checker Tool](https://shadowcrypt.net/tools/nmap) - Online Free Hacking Tools - ShadowCrypt
 - [Free online network tools](https://centralops.net/co/) - Free online network tools - traceroute, nslookup, dig, whois lookup, ping - IPv6
