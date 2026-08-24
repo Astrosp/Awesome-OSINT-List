@@ -2340,3 +2340,6 @@ about police misconduct in Chicago
 
 [Top](#index)
 
+
+
+* [DECEPTRIX](https://github.com/narain-karti/DECEPTRIX) - Multi-modal AI forensic intelligence platform for video deepfake detection, SHA-256 chain of custody, and cryptographic PDF reports.
