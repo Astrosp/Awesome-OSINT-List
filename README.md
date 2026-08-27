@@ -2023,7 +2023,7 @@ about police misconduct in Chicago
 - [Canadian Legal Information Institute](https://www.canlii.org/en/)
 - [Supreme Court of Canada - Cases](https://www.scc-csc.ca/case-dossier/index-eng.aspx)
 - [Offender Tracking Information System (OTIS)](https://mdocweb.state.mi.us/OTIS2/otis2.aspx)
-- [Offendersearch](https://offendersearch.app/) - Search all 58 US state, territory & tribal sex offender registries in one place; scored results with official record links, free API + open data (US).
+- [Offendersearch](https://offendersearch.app/) - Search 58 US sex offender registries — the 50 states, DC and US territories — in one query; scored results with links to the official record. Free trial, paid API beyond it.
 - [New York State Prison Records](https://stevemorse.org/prison/prison.html)
 - [Texas Public Records Search](https://publicrecords.searchsystems.net/United_States_Free_Public_Records_by_State/Texas_Public_Records/)
 - [Arrest Bookings Search and Report](https://b2.caspio.com/dp/a1a3100009b7083c53a9405f8c6b)
