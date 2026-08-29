@@ -2153,6 +2153,7 @@ about police misconduct in Chicago
 - [Ethplorer](https://ethplorer.io/) - Ethereum token and wallet explorer.
 - [Solscan](https://solscan.io/) - Solana blockchain explorer.
 - [Polygonscan](https://polygonscan.com/) - Polygon blockchain explorer.
+- [PolymarketScan](https://polymarketscan.org/whale-tracker) - Independent Polymarket explorer for wallet records and whale prints (no signup)
 - [BSCScan](https://bscscan.com/) - Binance Smart Chain explorer.
 <br>
 
