@@ -1933,6 +1933,7 @@ Enter two images and the difference will show up below
 - [list-org](https://www.list-org.com/) - Basic information about any Russian legal entity or entrepreneur
 - [OpenCorporates](https://opencorporates.com/) - Fresh, standardized, auditable information direct from official primary sources across 140+ jurisdictions — all underpinned by our Legal-Entity Data Principles and world-leading expertise in legal-entity data.
 - [Fylings](https://www.fylings.com/) - Free company-intelligence platform for Africa: search 1.5M+ companies across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official registry source and a last-verified date on every record. Beneficial ownership, government-contract awards and sanctions screening included. Free API + MCP server.
+- [Company Records](https://records.knowyourcustomer.com/) - Free anonymous company search across 149 jurisdictions, each with its own coverage page. On purchase, the company report and the underlying official filings are retrieved live from the official register (paid, from US$19).
 - [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Find out who's behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.
 - [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them.
 - [PitchBook](https://pitchbook.com/) - Private capital market data and research.
