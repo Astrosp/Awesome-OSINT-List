@@ -2136,6 +2136,7 @@ about police misconduct in Chicago
 [⇧ Top](#index)
 ## BLOCKCHAIN / CRYPTO INVESTIGATION
 
+- [AI DECISIONS Wallet Checker](https://aidecisions.ai/check) - Free multi-chain wallet screening (Ethereum, Bitcoin, Tron, Base, Arbitrum, Gnosis): sanctions hit, mixer exposure and risk tier from a live screening line; 5 checks/day, no account. Label tooling is open source (openlabels).
 - [On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) - Comprehensive list of tools for investigating crypto hacks and security incidents.
 - [Chainalysis](https://www.chainalysis.com/) - Blockchain data platform for investigators.
 - [Elliptic](https://www.elliptic.co/) - Crypto compliance and investigation tools.
