@@ -483,6 +483,7 @@ Cut down on data collection and protect your sensitive personal information, hea
 - [Matweb.info](https://matweb.info/) - Remove Metadata The file you see is just the tip of the iceberg. Remove the hidden metadata with MAT2
 - [Metacleaner.com](https://metacleaner.com/) - MetaCleaner helps you stay anonymous Clean your files MetaData online
 - [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - This is a tool for anonymizing photographs taken at protests. It will remove identifying metadata (Exif data) from photographs, and also allow you to selectively blur parts of the image to cover faces and other identifiable information
+- [shotscrub](https://shotscrub.pages.dev/) - Reads a screenshot in the browser and covers the API keys, tokens, connection strings and passwords it finds in it, so a terminal or dashboard capture can be shared without the secrets in it. The image is never uploaded and the saved copy carries no metadata
 - [View Exif data online, remove Exif online](http://www.verexif.com/en/) - View and remove Exif online
 - [Bitcoinprivacy.guide](https://bitcoinprivacy.guide/) - Bitcoin privacy guide a beginners guide to Bitcoin privacy
 - [Speech Jammer](https://mynoise.net/NoiseMachines/audioJammerNoiseGenerator.php) - Audio jammers are popular tools used during confidential meetings. They produce a unique sound for masking and protecting conversations from external listening devices, such as a smartphone running an audio recording app, hidden in one of your guests' pocket
