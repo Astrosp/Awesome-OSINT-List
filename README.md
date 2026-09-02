@@ -1937,6 +1937,7 @@ Enter two images and the difference will show up below
 - [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them.
 - [PitchBook](https://pitchbook.com/) - Private capital market data and research.
 - [ZoomInfo](https://www.zoominfo.com/) - B2B contact and company information database.
+- [Crustdata](https://crustdata.com/) - People and company intelligence API: 1B+ profiles and 200M+ companies with employment history, headcount, funding, technologies and contact data.
 - [D&B Hoovers](https://www.dnb.com/products/marketing-sales/dnb-hoovers.html) - Business information and sales intelligence.
 - [Manta](https://www.manta.com/) - Small business directory and data.
 - [craft.co](https://craft.co/) - Company information and competitive intelligence.
