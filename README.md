@@ -1480,6 +1480,7 @@ Enter two images and the difference will show up below
 - [Pastes Search Engine 2](https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e) - custom google search
 - [GitHub Search Engine](https://cse.google.com/cse?cx=1b053c8ec746d6611) - custom google search
 - [Source Code Search Engine](https://publicwww.com/) - Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.
+- [SearchWebCode](https://www.searchwebcode.com/) - Source-code search engine over the HTML/JS/CSS of ~127M website homepages; exact-string or regex, shows the full matched page source, with CSV export.
 - [Google to search profiles on GitHub](https://recruitin.net/github.php) - Easily use Google to search profiles on GitHub
 - [Grep.app](https://grep.app/) - grep.app searches code from over a half million public repositories on GitHub.
 - [NerdyData](https://www.nerdydata.com/) - NerdyData will help you find which websites use certain SaaS technologies.
