@@ -1918,6 +1918,7 @@ Enter two images and the difference will show up below
 - [CoVi Analytics](https://www.covianalytics.com/) - At CoVi Analytics, we create easy-to-use tools (Apps) specifically for the operations team to help streamline operations, enhance efficiency, and empower growth through tech-driven solutions that simplify business activities, automate operations and deliver greater insights
 - [Search Our PPP Loan Database](https://ppp.directory/search) - ppp load database search
 - [Search for Investment Fund Documents](https://www.sedar.com/search/search_form_mf_en.htm) - File, disclose and search for issuer information in Canada’s capital markets
+- [S&P 500 Earnings Announcement Times](https://github.com/quant500trading/sp500-earnings-announcement-times) - 63,969 earnings announcements from SEC Form 8-K item 2.02 filings, each with the time of day and a link to the filing on sec.gov. 808 companies, 2003-2026. Free, CC0, no account.
 <br>
 
 [⇧ Top](#index)
