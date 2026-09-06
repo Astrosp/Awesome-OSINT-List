@@ -267,6 +267,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [OCR Text Extractor](https://osint.sh/ocr/) - OCR text extractor from png, jpeg, webp and pdf
 - [Wetranscriber](https://www.wetranscriber.com/) - A free, simple and efficient transcription platform for individuals or teams
 - [Tophonetics.com](https://tophonetics.com/) - This online converter of English text to IPA phonetic transcription will translate your English text into its phonetic transcription using the International Phonetic Alphabet.
+- [IPA Translator](https://ipatranslator.com/) - English to IPA translator with connected-speech analysis, showing weak forms, linking, and stress patterns — useful for verifying pronunciation in OSINT audio/video investigations. Supports US and UK English.
 - [Google Translate](https://translate.google.com/) - Google Translator
 - [Multi Translate](https://translate.mix.pink/)
 - [Yandex.Translate](https://translate.yandex.com/) - translator from yandex
