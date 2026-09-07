@@ -1471,6 +1471,7 @@ Enter two images and the difference will show up below
 - [Search Datasets](https://datahub.io/search) - Build elegant data-driven sites with markdown & deploy in seconds.
 - [Opensanctions.org](https://opensanctions.org/) - OpenSanctions helps investigators find leads, allows companies to manage risk and enables technologists to build data-driven products
 - [Kaggle](https://www.kaggle.com/search?q=) - Join over 17M+ machine learners to share, stress test, and stay up-to-date on all the latest ML techniques and technologies. Discover a huge repository of community-published models, data & code for your next project
+- [OpenFilings samples](https://github.com/molchalih/openfilings-samples) - Free CSV extracts of US federal award data (prime contracts and orders whose period of performance ends within 12 months, cut by NAICS code) and IRS 990-PF private foundation grants by state, with a link to the official source on every row. No registration.
 <br>
 
 [⇧ Top](#index)
