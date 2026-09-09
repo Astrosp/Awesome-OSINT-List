@@ -1940,6 +1940,7 @@ Enter two images and the difference will show up below
 - [D&B Hoovers](https://www.dnb.com/products/marketing-sales/dnb-hoovers.html) - Business information and sales intelligence.
 - [Manta](https://www.manta.com/) - Small business directory and data.
 - [craft.co](https://craft.co/) - Company information and competitive intelligence.
+- [Drevon](https://drevon.dev/) - Runs AI agents that do evidence-backed prospecting, account research, signal tracking, and inbound qualification by gathering public information (LinkedIn, Sales Nav, X/Twitter, company sites) through a native browser using your own logins. Connects to the rest of your GTM stack over MCP; works for individuals, teams, or self-hosted enterprise deployments.
 - [Owler](https://www.owler.com/) - Competitive insights and company information.
 - [XRefer](https://www.xrefer.com/) - Find top rated verified local companies
 - [Startup Tracker](https://startuptracker.io/home) - Discover and track startups from MVP to IPO
