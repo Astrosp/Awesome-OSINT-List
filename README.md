@@ -200,6 +200,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - Automated OSINT collection tool with 200+ modules for reconnaissance.
 - [Maltego CE](https://www.maltego.com/maltego-community/) - Visual link analysis tool for connecting data points in investigations.
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) - Full-featured web reconnaissance framework written in Python.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 - [Amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery tool.
 - [Subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [httpx](https://github.com/projectdiscovery/httpx) - Fast and multi-purpose HTTP toolkit for probing web servers.
