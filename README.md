@@ -1594,6 +1594,7 @@ Enter two images and the difference will show up below
 - [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research.
 - [Interactive Online Malware Analysis Sandbox](https://app.any.run/) - check malware for free. With our online malware analysis tools you can research malicious files and URLs and get result with incredible
 - [Free Automated Malware Analysis Service](https://hybrid-analysis.com/) - This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
+- [Malwagon](https://malwagon.com) - Online sandbox that detonates files and URLs on instrumented Windows and Linux virtual machines and publishes the behaviour, indicators and ATT&CK mappings; reports are public and a free tier needs no payment details.
 - [VirusTotal](https://www.virustotal.com/gui/) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.
 - [Maltiverse](https://maltiverse.com/search) - We are here to help companies to adopt quality Threat Intelligence in a simple, quick and effective way
 - [Malware News Search](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc) - custom google search for malware news
