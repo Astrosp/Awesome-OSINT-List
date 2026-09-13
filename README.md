@@ -990,6 +990,7 @@ the number of views or likes.
 - [Google Dork Cheatsheet](https://github.com/robyfirnandoyusuf/Google-Dork-Cheatsheet) - google dorks cheatsheet
 - [Dorki](https://dorki.io) - A partially free online tool that allows to collect search results from different search engines (Alexandria, Yahoo, Wikispecies, Yep, Wiby etc) and export them to JSON/TXT.
 - [GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
+- [Serply](https://serply.io/) - Search API that returns Google results as JSON, so dorks built from operators like site:, inurl:, filetype: and intitle: can be run and exported in bulk. Also exposes Bing, News, Scholar, Images, Maps and Reddit endpoints. Free tier with an API key, paid above it.
 <br>
 
 [⇧ Top](#index)
