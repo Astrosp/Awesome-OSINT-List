@@ -1346,6 +1346,7 @@ Enter two images and the difference will show up below
 - [FaceSeek](https://faceseek.online) - Online face search and recognition tool.
 - [FaceOnLive](https://faceonlive.com) - Real-time face detection and recognition.
 - [Lenso.ai](https://lenso.ai) - AI image search engine for finding similar images.
+- [Face2social](https://face2social.com) - Face search across public social media profile pictures on Instagram, Facebook, TikTok and X. Indexes profile photos only, not the open web. Free preview, US only.
 - [Pixnoy](https://www.pixnoy.com/) - Image search and verification platform.
 - [MotionElements](https://www.motionelements.com/) - Stock video, music, and media search engine.
 - [Pixabay](https://pixabay.com/images/search/) - Free Image gallery
