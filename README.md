@@ -1594,6 +1594,7 @@ Enter two images and the difference will show up below
 - [CertGrep](https://certgrep.sh/) - SSL/TLS certificate search and monitoring.
 - [TriNetLayer](https://trinetlayer.com/) - Network layer analysis and IP intelligence.
 - [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets.
+- [DMCA Detector](https://www.dmcadetector.com/) - Check any domain against Google's public copyright-removal (DMCA) record: which requests name it, who filed them, which URLs were listed, whether Google acted, and the Lumen notice
 <br>
 
 [⇧ Top](#index)
