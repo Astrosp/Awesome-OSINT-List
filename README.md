@@ -1556,6 +1556,7 @@ Enter two images and the difference will show up below
 - [CertObserver CT Search](https://certobserver.com/ct-search) - Find public SSL/TLS certificates recorded in Certificate Transparency logs, which can help discover subdomains.
 - [LeakIX](https://leakix.net/) - This project goes around the Internet and finds services to index them.
 - [URL and website scanner](https://urlscan.io/) - urlscan.io is a free service to scan and analyse websites. When a URL is submitted to urlscan.io, an automated process will browse to the URL like a regular user and record the activity that this page navigation creates.
+- [ScanMalware](https://scanmalware.com/) - Free sandboxed URL scanner with a public archive of past scans, searchable by domain, IP, ASN, JARM, favicon mmh3, TLSH/ssdeep or screenshot hash. Reports phishing and malware verdicts, network requests, technologies, TLS/RDAP records and certificate transparency pivots. No account or API key required.
 - [dnsdumpster](https://dnsdumpster.com/) - DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
 - [AbuseIPDB](https://www.abuseipdb.com/) - Making the Internet safer by providing a central blacklist for IP addresses engaged in malicious behavior.
 - [BinaryEdge](https://www.binaryedge.io/) - Cybersecurity and data intelligence platform for threat detection.
