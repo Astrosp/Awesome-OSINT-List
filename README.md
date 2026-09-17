@@ -374,6 +374,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 ## THROWAWAY CONTACT/Temporary contact
 
 - [10minutemail.com](https://10minutemail.com/) - Disposable mail for 10 min.
+- [Mailfo](https://mailfo.pages.dev) - Instant disposable burner email and OTP verification service for anonymous research and testing.
 - [anon.li Alias](https://anon.li/alias) - Free email aliasing service, that allows you to hide your email from bad actors. Offers a **free** plan, with PGP encryption and reply support, 11 free aliases.
 - [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding Create Unlimited Email Aliases For Free and best part it's open source
 - [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously
