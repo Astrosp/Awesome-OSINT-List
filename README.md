@@ -1331,6 +1331,7 @@ the number of views or likes.
 - [Background Removal Tool](https://photoscissors.com/) - Remove a background and replace it with a transparent, solid color or background image with just a few clicks!
 - [Museo](https://museo.app/) - Museo is a visual search engine that connects you with the Art Institute of Chicago, the Rijksmuseum, the Harvard Art Museums, the Minneapolis Institute of Art, the The Cleveland Museum of Art, and the New York Public Library Digital Collection
 - [Diff Checker](https://diffchecker.dev/image/) - Find the difference between pictures or other images!
+- [PrivacyLeak](https://privacyleak.ai) - Face and reverse image search for publicly posted photos on adult websites.
 Enter two images and the difference will show up below
 - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) - Forensically is a set of free tools for digital image forensics. It includes clone detection, error level analysis, meta data extraction and more.
 - [Pictriev](http://pictriev.com/) - Find look-alike celebrities on the web using the face recognition.
