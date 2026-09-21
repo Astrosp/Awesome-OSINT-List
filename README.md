@@ -111,6 +111,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 ### AI Detection & Verification
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
 - [VerifiedHer](https://verifiedher.com/) - Registry answering "is she real?" for online creators — sourced verdicts (real / AI persona / unverified), verified account lists, and impersonation warnings for 400+ documented creators.
+- [wyper AI Fact-Check](https://wyper.io/fact-check.html) - Checks any claim, page, image or video: 1-10 truth score, two independent AI models (Gemini and Grok) cross-checked on the same sources, linkable sources for every verdict, X Community Notes taken into account. Browser extension (Chrome/Firefox) and web app; free tier.
 
 ### AI Model Repository & Tools
 - [Hugging Face](https://huggingface.co/) - Open-source AI model repository with chat interfaces and tools.
