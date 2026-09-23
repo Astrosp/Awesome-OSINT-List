@@ -109,6 +109,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [Anything](https://anything.com) -  just describe what you want, and anything builds it. Everything you need built in.
 
 ### AI Detection & Verification
+- [isthisaigenerated.app](https://isthisaigenerated.app/site/) - Free warning-only AI detectors for images, text and complete documents, with published measured accuracy and limits; supports human review and does not claim to prove origin. (self-submission, disclosed)
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
 - [VerifiedHer](https://verifiedher.com/) - Registry answering "is she real?" for online creators — sourced verdicts (real / AI persona / unverified), verified account lists, and impersonation warnings for 400+ documented creators.
 
