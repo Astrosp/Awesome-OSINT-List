@@ -962,6 +962,7 @@ the number of views or likes.
 - [Search Reddit Comments by User](https://www.redditcommentsearch.com/) - Search through comments of a particular reddit user. Just enter the username and a search query
 - ~~[Reddit Investigator](https://www.redditinvestigator.com/)~~ - 404
 - [Pushshift API Guide](https://github.com/pushshift/api) - The pushshift.io Reddit API was designed and created by the /r/datasets mod team to help provide enhanced functionality and search capabilities for searching Reddit comments and submissions.
+- [ThreadFox Lite](https://github.com/amflimited/threadfox-lite) - Read-only checks of a Reddit account's age, karma and whether its recent posts are removed or hidden, plus post status and subreddit rules; runs locally through your own signed-in Chrome
 <br>
 
 [⇧ Top](#index)
