@@ -220,6 +220,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) - High performance offensive security tool for reconnaissance and vulnerability scanning.
 - [ivre](https://github.com/ivre/ivre) - Network recon framework to build alternatives to Shodan/ZoomEye/Censys.
 - [Findomain](https://github.com/Findomain/Findomain) - Fast domain recognition tool with screenshotting, port scan, and subdomain monitoring.
+- [pureip.app](https://pureip.app/) - Free IP address checker: purity and risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, IP blacklist status, plus availability checks for ChatGPT, Claude and Gemini across cloud providers.
 <br>
 
 [⇧ Top](#index)
