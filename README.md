@@ -137,6 +137,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [Gandalf by Lakera](https://gandalf.lakera.ai/) - Game for testing prompt injection techniques.
 - [Prompt Injection Playground](https://greshake.github.io/) - Interactive playground for testing prompt injections.
 - [AI Incident Database](https://incidentdatabase.ai/) - Database of AI system failures and harms.
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of real-world AI agent security incidents since January 2025, each record linked to its primary sources, with JSON/CSV exports.
 - [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Python library for adversarial machine learning.
 - [CleverHans](https://github.com/cleverhans-lab/cleverhans) - Library for benchmarking ML systems' vulnerability to adversarial examples.
 - [Foolbox](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples.
