@@ -1960,6 +1960,7 @@ Enter two images and the difference will show up below
 - [Owler](https://www.owler.com/) - Competitive insights and company information.
 - [XRefer](https://www.xrefer.com/) - Find top rated verified local companies
 - [Startup Tracker](https://startuptracker.io/home) - Discover and track startups from MVP to IPO
+- [Indexed](https://indexed.vc/) - Private company database showing who funded a company, when, and who else invested, with a source link on most funding rounds. Searchable by company name or website domain, free tier and REST API
 - [Shopsearchengine.com](http://shopsearchengine.com/) - shopsearchengine.com the internets premiere shopping site, find it fast.
 - [RageCheck](https://www.ragecheck.com/) - Business review aggregator and sentiment analysis.
 - [LA County CA Restaurant Health Violations](https://b2.caspio.com/dp.asp?AppKey=22341000af0b9c98ebf047f1b9f2)
