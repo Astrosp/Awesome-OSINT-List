@@ -1766,6 +1766,7 @@ Enter two images and the difference will show up below
 
 - [GeoSpy](https://geospy.web.app/) - Photo location prediction using AI
 - [GeoInfer](https://geoinfer.com/en) - AI-powered image geolocation tool that predicts the location of any photo using deep learning
+- [geo-sleuth](https://github.com/Oldcircle/geo-sleuth) - Agent skill for Claude Code, Codex, Cursor and others that geolocates a photo with no text in it, using OpenStreetMap geometry, elevation skylines, satellite imagery and street view. Outputs camera position, heading and an evidence image.
 - [GEOINT](https://start.me/p/W1kDAj/geoint) - every tools you need for geographical data gathering
 - [GeoNames](https://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
 - [Geoseer.net](https://www.geoseer.net/) - Search over 3.5 million distinct spatial GIS WMS, WCS, WMTS datasests hosted on over 40k live services from around the world.
