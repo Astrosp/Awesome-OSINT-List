@@ -38,6 +38,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [LibraryOfLeaks](https://search.libraryofleaks.org) - Search for leak documents, companies, people, database and more
 - [LeakRadar](https://leakradar.io/) - Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API
 - [InfoStealers](https://infostealers.info/en/info) - Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals.
+- [Lunar Cyber](https://lunarcyber.com/) - Search and monitor compromised credentials across data breaches and infostealer logs.
 - [Leak-Lookup](https://leak-lookup.com/) - Data breach search engine with over 3 billion records from 3000+ databases.
 - [BreachDirectory](https://breachdirectory.org/) - Check if your credentials have been compromised in data breaches.
 - [Leaked.domains](https://leaked.domains/) - Search for domain-related leaked credentials and data.
