@@ -1378,6 +1378,7 @@ Enter two images and the difference will show up below
 - [Bilibili](https://www.bilibili.com/) - Chinese video sharing platform.
 - [Deepfake Detection](https://deepware.ai/) - AI-powered deepfake video detection.
 - [Microsoft Video Authenticator](https://www.microsoft.com/en-us/ai/video-authenticator) - Deepfake detection tool by Microsoft.
+- [Sealed Rose](https://sealedrose.com/verify-video) - In-browser AI deepfake and synthetic video detection platform.
 - [Sensity](https://sensity.ai/) - Visual threat intelligence and deepfake detection platform.
 - [Video Verification Tools](https://toolbox.google.com/factcheck/explorer) - Google Fact Check Explorer for video claims.
 <br>
