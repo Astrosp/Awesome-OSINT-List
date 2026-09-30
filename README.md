@@ -45,6 +45,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [PSBDMP](https://psbdmp.ws/) - Pastebin dump search and monitoring platform.
 - [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Covers multiple breach databases with both a web interface and an API.
 - [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, with the sources shown; free searches, developer API and Telegram/Discord bots.
+- [Lunar Cyber](https://lunarcyber.com/) - Search and monitor compromised credentials across data breaches and infostealer logs.
   
 ## Basic OSINT
 Data Leak, scam, username, domain, social
@@ -110,7 +111,6 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 
 ### AI Detection & Verification
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
-- [VerifiedHer](https://verifiedher.com/) - Registry answering "is she real?" for online creators — sourced verdicts (real / AI persona / unverified), verified account lists, and impersonation warnings for 400+ documented creators.
 
 ### AI Model Repository & Tools
 - [Hugging Face](https://huggingface.co/) - Open-source AI model repository with chat interfaces and tools.
@@ -1927,7 +1927,7 @@ Enter two images and the difference will show up below
 - [WarWire](https://warwire.net) - Conflict intelligence aggregator monitoring military movements, equipment deployments, and combat operations across multiple theaters with timestamp verification.
 - [Flightradar24](https://www.flightradar24.com) - Flight tracking service invaluable for monitoring military transport aircraft, surveillance planes, and aerial reconnaissance operations during conflicts when transponders are active.
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking.
-<br>
+- [Lanes](https://lanes.news/) - Compares how each side's press, and press from uninvolved countries, report the same events in eight conflicts, reading domestic outlets in their own languages, and labels claims as corroborated, disputed or single-source with links to the sources. Free, no account.
 
 [⇧ Top](#index)
 
