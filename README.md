@@ -1317,6 +1317,7 @@ the number of views or likes.
 - [miniPaint](https://viliusle.github.io/miniPaint/) - Online paint and image editor
 - [PimEyes](https://pimeyes.com/en/) - Face Search Engine Reverse Image Search
 - [TinEye](https://tineye.com/) - Reverse Image Search Find where images appear online
+- [Reverse Image Search Anywhere](https://reverseimage.app/) - Free, open-source browser extension and web tool to search an image across Google Lens, Yandex, Bing Visual and TinEye; supports clipboard images and page-region capture.
 - [Findclone](https://findclone.ru/) - Let's help you find your double.
 - [Image Raider](https://infringement.report/api/raider-reverse-image-search/) - Image Raider is our reverse image search tool for completing individual searches. When you upload an image to this page, we'll scour the internet to find its source and all of the other pages where it has been posted.
 - [same.energy](https://same.energy/) - Same Energy is a visual search engine. You can use it to find beautiful art, photography, decoration ideas, or anything else.
