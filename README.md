@@ -1581,6 +1581,7 @@ Enter two images and the difference will show up below
 - [PulseDive](https://pulsedive.com/) - Free threat intelligence platform with IOCs and risk scoring.
 - [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain and IP intelligence APIs.
 - [IPinfo](https://ipinfo.io/) - IP address data and geolocation API.
+- [InternetData](https://internetdata.io/) - IP and ASN databases you download and query yourself: geolocation, VPN, proxy, Tor and hosting IPs, AS ownership, WHOIS and BGP routes.
 - [IPQualityScore](https://www.ipqualityscore.com/) - Fraud detection and IP reputation.
 - [IPASIS](https://ipasis.com) - Real-time bot detection and fraud prevention API combining IP reputation, proxy/VPN/Tor detection, and email validation in a single call.
 - [IPok](https://ipok.io/) - Free, no-login IP reputation and "purity" checker that aggregates up to 8 risk/reputation sources and shows each source's verdict separately, classifies residential vs datacenter, profiles /24 C-block neighbors, and detects your real exit IP. Open-source CLI and Chrome extension available.
