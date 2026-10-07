@@ -1381,6 +1381,7 @@ Enter two images and the difference will show up below
 - [Sealed Rose](https://sealedrose.com/verify-video) - In-browser AI deepfake and synthetic video detection platform.
 - [Sensity](https://sensity.ai/) - Visual threat intelligence and deepfake detection platform.
 - [Video Verification Tools](https://toolbox.google.com/factcheck/explorer) - Google Fact Check Explorer for video claims.
+- [ReelGrab](https://reelgrab.ink/) - Paste a public Instagram Reel, TikTok, YouTube Short or Facebook Reel link and get an AI transcript, a short summary and the MP3 audio. Free, no signup; private or login-only videos don't work.
 <br>
 
 [⇧ Top](#index)
