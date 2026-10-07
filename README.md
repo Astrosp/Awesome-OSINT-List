@@ -1072,6 +1072,7 @@ the number of views or likes.
 ## SNAPCHAT
 
 - [Snap Map](https://map.snapchat.com/) - World map of snap just tap on location and watch
+- [SnapDataHub](https://snapdatahub.com/) - Public Snapchat creator profiles: subscribers, Spotlight performance and a daily list of rising creators, searchable by niche and country.
 - ~~[Snapdex](https://snapdex.com/)~~ - 404
 - ~~[Snapchat User Search](https://sovip.io/)~~ - 503
 - [SnapScraper](https://rhematt.github.io/Snap-Scraper/) - SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitiude co-ordinates.
