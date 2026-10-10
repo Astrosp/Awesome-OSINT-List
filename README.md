@@ -8,6 +8,15 @@
 A list of osint tools/websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.
 </p>
 
+<!--SPONSOR-->
+<div align="center">
+  <a href="https://webvetted.com/awesome-osint?utm_source=github&utm_medium=sponsorship&utm_campaign=awesome-osint1">
+    <img src="/assets/sponsor/sponsor_banner.png" alt="WebVetted OSINT" width="800">
+  </a>
+  <br><br>
+  <i><b>Turn 180 hours of monthly OSINT work into just a few.</b> WebVetted brings 32 OSINT tools into one unified dashboard. We do the heavy-lifting research for you, checking thousands of sources to connect the dots across emails, phones, usernames, domains, and social media.</i><br>
+  <a href="https://webvetted.com/awesome-osint?utm_source=github&utm_medium=sponsorship&utm_campaign=awesome-osint"><b>Start an Investigation →</b></a>
+</div>
 
 <!---<p align="center">
 	<a href="https://github.com/astrosp/osint-tools#PRODUCTIVITY" target="_blank">Productivity</a>
