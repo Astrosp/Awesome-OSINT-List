@@ -1390,6 +1390,7 @@ Enter two images and the difference will show up below
 - [Sealed Rose](https://sealedrose.com/verify-video) - In-browser AI deepfake and synthetic video detection platform.
 - [Sensity](https://sensity.ai/) - Visual threat intelligence and deepfake detection platform.
 - [Video Verification Tools](https://toolbox.google.com/factcheck/explorer) - Google Fact Check Explorer for video claims.
+- [SauceMatch](https://saucematch.com/) - Reverse video search for adult content: a screenshot, GIF or clip finds the full source video in its own index of 3.5M+ videos, and every match is verified frame against frame (keypoint geometry, 0-100 confidence) instead of returning lookalikes.
 <br>
 
 [⇧ Top](#index)
