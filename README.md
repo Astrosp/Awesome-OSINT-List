@@ -933,6 +933,9 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 ## YOUTUBE
 
+- [Arcmira: YouTube Transcript Search](https://arcmira.com/) - Search indexed
+  YouTube transcripts for spoken phrases with source timestamps; web, API and
+  MCP access. Free tier and paid plans. [API docs](https://arcmira.com/docs).
 - [Filmot](https://https://filmot.com/) - Search within YouTube subtitles, captions and transcripts.
 - [yt-dlp](https://pypi.org/project/yt-dlp/) - Youtube downloader with additional features.
 - [Location Search](https://mattw.io/youtube-geofind/location) - Search YouTube by location for geotagged videos. Find videos near you or anywhere in the world.
