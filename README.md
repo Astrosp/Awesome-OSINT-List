@@ -1543,6 +1543,7 @@ Enter two images and the difference will show up below
 - [Focsec](https://focsec.com) - IP Threat Intelligence, provides general IP information, Proxy, TOR and VPN Detection
 - [favihash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using the same. Works on both open web and dark web.
 - [domain digger](https://digger.tools/) - Find all dns recoreds, whois data, ssl/tls certificate history, subdomain and more
+- [Domain Intelligence Lookup (Apify actor)](https://mamoo85.github.io/open-data-actors/domain-intelligence-lookup.html) - WHOIS/RDAP, DNS, SPF/DMARC, SSL expiry and security-header score for a list of domains, as a table.
 - [dnslytics](https://dnslytics.com/) - search for domain IPv4, IPv6 or Provider
 - [dnstwist](https://dnstwist.it) - scan phishing domain
 - [SecurityTrails](https://securitytrails.com/) - search for domain, IPs, keyword or Hostname
