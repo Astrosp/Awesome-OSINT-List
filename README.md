@@ -230,6 +230,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [ivre](https://github.com/ivre/ivre) - Network recon framework to build alternatives to Shodan/ZoomEye/Censys.
 - [Findomain](https://github.com/Findomain/Findomain) - Fast domain recognition tool with screenshotting, port scan, and subdomain monitoring.
 - [pureip.app](https://pureip.app/) - Free IP address checker: purity and risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, IP blacklist status, plus availability checks for ChatGPT, Claude and Gemini across cloud providers.
+- [PRISM](https://github.com/NovaCode37/Prism-platform) - Self-hosted OSINT platform: scan a domain, IP, email, phone or username across 26 modules and get results live in a web dashboard, with an entity graph, GeoIP map and HTML/PDF report.
 <br>
 
 [⇧ Top](#index)
