@@ -997,6 +997,7 @@ the number of views or likes.
 
 ## DORK
 
+- [AtDork](https://github.com/amnottdevv/AtDork) - Open-source CLI dorking tool with multi-engine search, batch processing, YAML dork templates, vulnerability filters, and a built-in package manager for 978K+ curated dorks (Atdork-DB).
 - [Dorkgpt](https://www.dorkgpt.com/) - Generate google dork with AI.
 - [DorkSearch](https://dorksearch.com/) - Google dorking made easy with pre-built search queries.
 - [Google Dork Cheatsheet](https://github.com/robyfirnandoyusuf/Google-Dork-Cheatsheet) - google dorks cheatsheet
