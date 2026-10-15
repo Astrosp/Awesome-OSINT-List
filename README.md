@@ -102,6 +102,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [YouLearn](https://www.youlearn.ai/) - Learn from an AI tutor that understands your pdfs, videos, and slides.
 
 ### AI for OSINT & Threat Intelligence
+- [Parallel Search MCP](https://docs.parallel.ai/integrations/mcp/search-mcp) - Free web search and page extraction for public-source research with MCP-compatible AI assistants; no account or API key required, with rate limits for anonymous use.
 - [OSINT LLM](https://huggingface.co/spaces/tomvaillant/osint-llm) - AI-powered OSINT assistant on Hugging Face.
 - [Threat Intelligence AI](https://threatlandscape.ai/) - Threat Landscape Copilot - Conversational access to continuously updated, structured threat intelligence.
 - [ai-toolkit](https://huggingface.co/spaces/JournalistsonHF/ai-toolkit) - The Essential AI Toolkit for Journalists and Content Creators, All the tools listed here are free to use and open-source!
