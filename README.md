@@ -1397,6 +1397,7 @@ Enter two images and the difference will show up below
 ## METADATA & FILE ANALYSIS
 
 - [ExifTool](https://exiftool.org/) - Platform-independent library and command-line application for reading, writing and editing meta information.
+- [EXIF Hound](https://github.com/minimallyexceptional/exif-hound) - Free, open-source desktop app for inspecting image EXIF metadata locally, mapping GPS-tagged photos, importing KML and exporting CSV/JSON; no upload, no telemetry.
 - [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) - Detailed EXIF data viewer for photos.
 - [Metadata2Go](https://www.metadata2go.com/) - Online metadata viewer and editor for various file types.
 - [MetadataRemover.ai](https://metadataremover.ai/) - Inspect, remove, edit and verify supported image metadata locally in the browser without uploading files or creating an account.
