@@ -120,6 +120,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 
 ### AI Detection & Verification
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
+- [TrueScreen C2PA Viewer](https://truescreen.io/c2pa-viewer/) - Free in-browser tool that reads and checks the Content Credentials (C2PA manifest) of a file, with no upload and no account.
 
 ### AI Model Repository & Tools
 - [Hugging Face](https://huggingface.co/) - Open-source AI model repository with chat interfaces and tools.
@@ -263,6 +264,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Meawfy](https://meawfy.com/) - Web archiving and snapshot service.
 - [waybackpy](https://pypi.org/project/waybackpy/) - Python package that interfaces with the Internet Archive's Wayback Machine APIs. Archive pages and retrieve archived pages easily.
 - [CachedPages](http://www.cachedpages.com/) - A cached page is a snapshot or a version of a web page saved at a specific time and stored by a web server as a backup copy.
+- [TrueScreen Forensic Browser](https://truescreen.io/forensic-browser/) - Desktop application for macOS and Windows that acquires and certifies web pages, browsing sessions, downloaded files and online media with a documented forensic methodology.
 - [Google Cached Pages of Any Website](https://cachedview.com/) - The Google Cache Browser for any page on Internet
 - [Oldweb.today](http://oldweb.today/) - see old web browser
 - [Unpaywall](https://unpaywall.org/products/extension) - Read research papers for free paywall on millions of peer-reviewed journal articles. It's fast, free, and legal
@@ -1140,6 +1142,7 @@ the number of views or likes.
 - [WATools](https://watools.io/) - Collection of WhatsApp tools and utilities.
 - [WhatsApp Reverse Phone Lookup](https://www.reversephonecheck.com/) - Find WhatsApp users by phone number.
 - [WhatsApp Link Generator](https://create.wa.link/) - Create WhatsApp chat links without saving contacts.
+- [TrueScreen App](https://truescreen.io/app/) - Mobile app for iOS and Android that acquires and certifies photos, videos, audio and screen recordings, such as a WhatsApp chat, with a documented forensic methodology.
 
 ### Signal
 - [Signal](https://signal.org/) - Encrypted messaging app with strong privacy focus.
@@ -2213,6 +2216,7 @@ about police misconduct in Chicago
 - [User-Agent Switcher](https://add0n.com/useragent-switcher.html) - Change browser user agent for testing.
 - [Gotanda](https://github.com/NINOSUKI/Gotanda) - Browser extension for OSINT and security investigations.
 - [Shodan Extension](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap) - Official Shodan browser extension.
+- [TrueScreen Browser Extension](https://truescreen.io/web-notarization-chrome-extension/) - Extension for Chrome and Edge that certifies the web page in front of the user, as a screenshot or as a video recording of the tab.
 - [Hunter Email Finder](https://hunter.io/chrome) - Find email addresses while browsing.
 - [Clearbit Connect](https://clearbit.com/resources/tools/connect) - Chrome extension for email lookup.
 
