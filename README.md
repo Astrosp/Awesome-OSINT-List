@@ -758,6 +758,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - [Namecheckr](https://www.namecheckr.com/) - Check username and domain availability.
 - [UserRecon](https://github.com/thelinuxchoice/userrecon) - Find usernames across over 75 social networks.
 - [Profil3r](https://github.com/Rog3rSm1th/Profil3r) - OSINT tool to find a person's profile across social networks.
+ - [WhatsMyName Apps](https://whatsmynameapps.us/) - Free username search across 3,165 sites, no sign-up, with Android app.
 <br>
 
 [⇧ Top](#index)
