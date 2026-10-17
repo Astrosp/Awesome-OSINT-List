@@ -2211,6 +2211,7 @@ about police misconduct in Chicago
 - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Chrome extension for performing OSINT searches.
 - [Hunchly](https://www.hunch.ly/) - Web capture tool for online investigations (paid).
 - [User-Agent Switcher](https://add0n.com/useragent-switcher.html) - Change browser user agent for testing.
+- [Spoof Me](https://spoof-me.com/) - Spoofs user agent, language, timezone, screen and hardware signals as one consistent identity; flags sites that fingerprint you.
 - [Gotanda](https://github.com/NINOSUKI/Gotanda) - Browser extension for OSINT and security investigations.
 - [Shodan Extension](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap) - Official Shodan browser extension.
 - [Hunter Email Finder](https://hunter.io/chrome) - Find email addresses while browsing.
