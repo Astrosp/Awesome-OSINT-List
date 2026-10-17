@@ -2124,6 +2124,7 @@ about police misconduct in Chicago
 - [SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html) - Search company filings with the US Securities and Exchange Commission.
 - [OpenSecrets](https://www.opensecrets.org/) - Money in politics and lobbying data.
 - [FollowTheMoney](https://www.followthemoney.org/) - Track campaign contributions and lobbying.
+- [OppIntell](https://oppintell.com/) - Nonpartisan opposition research software: public-record profiles of 24,000+ U.S. candidates, every claim linked to its source (freemium).
 - [Regulations.gov](https://www.regulations.gov/) - Search federal regulatory documents.
 - [Lexington KY Employee Salaries 2021](https://c0ect130.caspio.com/dp/c852100055664d756c6e441aa963)
 - [Greater Sacramento Area Public Salaries](https://b2.caspio.com/dp/c48210000605c38aa22f4080a1be)
