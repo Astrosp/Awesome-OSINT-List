@@ -758,6 +758,7 @@ You will find a lot of information related to a domain, a IP Address or to an AS
 - [Namecheckr](https://www.namecheckr.com/) - Check username and domain availability.
 - [UserRecon](https://github.com/thelinuxchoice/userrecon) - Find usernames across over 75 social networks.
 - [Profil3r](https://github.com/Rog3rSm1th/Profil3r) - OSINT tool to find a person's profile across social networks.
+- [FootprintIQ](https://footprintiq.app/username-search) - Search a username (also email, phone or photo) across 400+ public sources; each finding gets a 0–100 confidence score to separate real matches from lookalikes. Free scan, no sign-up, public data only; paid deep report.
 <br>
 
 [⇧ Top](#index)
