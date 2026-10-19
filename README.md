@@ -8,6 +8,15 @@
 A list of osint tools/websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.
 </p>
 
+<!--SPONSOR-->
+<div align="center">
+  <a href="https://webvetted.com/awesome-osint?utm_source=github&utm_medium=sponsorship&utm_campaign=awesome-osint1">
+    <img src="/assets/sponsor/sponsor_banner.png" alt="WebVetted OSINT" width="800">
+  </a>
+  <br><br>
+  <i><b>Stop juggling dozens of OSINT tools.</b> WebVetted brings 32 tools into one unified dashboard. Turn any email, phone, or username into a complete identity investigation with deep OSINT enrichment, breach intel, AI analysis, and an interactive identity graph.</i><br>
+  <a href="https://webvetted.com/awesome-osint?utm_source=github&utm_medium=sponsorship&utm_campaign=awesome-osint"><b>Start an Investigation →</b></a>
+</div>
 
 <!---<p align="center">
 	<a href="https://github.com/astrosp/osint-tools#PRODUCTIVITY" target="_blank">Productivity</a>
@@ -15,7 +24,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
 ## Index
- [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Messaging Apps & Communication](#messaging-apps--communication) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [Video OSINT & Verification](#video-osint--verification) ⁕ [Metadata & File Analysis](#metadata--file-analysis) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools) ⁕ [Academic & Research Databases](#academic--research-databases) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research)
+ [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Messaging Apps & Communication](#messaging-apps--communication) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [Video OSINT & Verification](#video-osint--verification) ⁕ [Metadata & File Analysis](#metadata--file-analysis) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools) ⁕ [Academic & Research Databases](#academic--research-databases) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Free Media & Software Directories](#free-media--software-directories) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research)
 
 
 #### <i>Some of other OSINT tools List</i>
@@ -45,6 +54,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [PSBDMP](https://psbdmp.ws/) - Pastebin dump search and monitoring platform.
 - [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Covers multiple breach databases with both a web interface and an API.
 - [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, with the sources shown; free searches, developer API and Telegram/Discord bots.
+- [Lunar Cyber](https://lunarcyber.com/) - Search and monitor compromised credentials across data breaches and infostealer logs.
   
 ## Basic OSINT
 Data Leak, scam, username, domain, social
@@ -110,7 +120,6 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 
 ### AI Detection & Verification
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
-- [VerifiedHer](https://verifiedher.com/) - Registry answering "is she real?" for online creators — sourced verdicts (real / AI persona / unverified), verified account lists, and impersonation warnings for 400+ documented creators.
 
 ### AI Model Repository & Tools
 - [Hugging Face](https://huggingface.co/) - Open-source AI model repository with chat interfaces and tools.
@@ -220,6 +229,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) - High performance offensive security tool for reconnaissance and vulnerability scanning.
 - [ivre](https://github.com/ivre/ivre) - Network recon framework to build alternatives to Shodan/ZoomEye/Censys.
 - [Findomain](https://github.com/Findomain/Findomain) - Fast domain recognition tool with screenshotting, port scan, and subdomain monitoring.
+- [pureip.app](https://pureip.app/) - Free IP address checker: purity and risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, IP blacklist status, plus availability checks for ChatGPT, Claude and Gemini across cloud providers.
 <br>
 
 [⇧ Top](#index)
@@ -608,6 +618,7 @@ START FOR FREE
  ## THREAT INTEL
 
 - [defend.network](https://defend.network) - Free, no-login cyber threat intelligence with daily threat briefings and weekly vulnerability reports; every CVE cross-checked against NVD and the CISA KEV catalog, structured by threat type, industry, and severity
+- [ICHI](https://ichi.global) - Free, source-transparent daily internet cyber-health barometer aggregating real-time telemetry, threat news, and signals from dozens of public feeds; directional outside-in view of internet-wide conditions, not an org-specific risk score.
 - [ThreatCluster](https://threatcluster.io/) - Reporting from 20,000+ sources clustered into one record per incident, with every source that covered it; includes validated IOCs, CVE data and ransomware leak-site victims. Free API key, no card.
 - [Threatbutt](https://threatbutt.com/map/) - Threatbutt Internet Hacking Attack Attribution Map
 - [Cyberthreat Real-Time Map](https://cybermap.kaspersky.com/) - cyberthreat real-time attack map of the world
@@ -1058,6 +1069,7 @@ the number of views or likes.
 - [Lyzem Blog](https://lyzem.com/) - search telegram posts
 - [maltego-telegram](https://github.com/vognik/maltego-telegram/) - OSINT Maltego Transforms for investigating Telegram channels, groups, and users, including deanonymization via stickers, forwarded messages, similar channels, deleted posts, and more.
 - [Telegram Channels List](https://tlgrm.eu/channels) - Discover interesting channels for your Telegram
+- [TOPTL](https://toptl.net/) - Searchable directory of public Telegram channels, groups, and bots, organized by category and language.
 - [Readergram.com](https://readergram.com/) - Here you can find channels, chats and groups for every taste and preference
 - [Find Telegram Channels/Bots/Groups](https://xtea.io/ts_en.html) - search for telegram group, channels, bots
 - [Telegram Group: Find Telegram Channels, Bots & Groups](https://www.telegram-group.com/en/) - Telegram Channels, Groups, and Bots
@@ -1314,6 +1326,7 @@ the number of views or likes.
 - [Images Search Engine](https://cse.google.com/cse?cx=281566d4e61dcc05d) - custom google image search engine
 - [miniPaint](https://viliusle.github.io/miniPaint/) - Online paint and image editor
 - [PimEyes](https://pimeyes.com/en/) - Face Search Engine Reverse Image Search
+- [PrivacyLeak](https://privacyleak.ai/) - Reverse face search focused on detecting possible appearances on adult websites and other indexed online sources.
 - [TinEye](https://tineye.com/) - Reverse Image Search Find where images appear online
 - [Findclone](https://findclone.ru/) - Let's help you find your double.
 - [Image Raider](https://infringement.report/api/raider-reverse-image-search/) - Image Raider is our reverse image search tool for completing individual searches. When you upload an image to this page, we'll scour the internet to find its source and all of the other pages where it has been posted.
@@ -1331,7 +1344,6 @@ the number of views or likes.
 - [Background Removal Tool](https://photoscissors.com/) - Remove a background and replace it with a transparent, solid color or background image with just a few clicks!
 - [Museo](https://museo.app/) - Museo is a visual search engine that connects you with the Art Institute of Chicago, the Rijksmuseum, the Harvard Art Museums, the Minneapolis Institute of Art, the The Cleveland Museum of Art, and the New York Public Library Digital Collection
 - [Diff Checker](https://diffchecker.dev/image/) - Find the difference between pictures or other images!
-- [PrivacyLeak](https://privacyleak.ai) - Face and reverse image search for publicly posted photos on adult websites.
 Enter two images and the difference will show up below
 - [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier) - Forensically is a set of free tools for digital image forensics. It includes clone detection, error level analysis, meta data extraction and more.
 - [Pictriev](http://pictriev.com/) - Find look-alike celebrities on the web using the face recognition.
@@ -1377,6 +1389,7 @@ Enter two images and the difference will show up below
 - [Bilibili](https://www.bilibili.com/) - Chinese video sharing platform.
 - [Deepfake Detection](https://deepware.ai/) - AI-powered deepfake video detection.
 - [Microsoft Video Authenticator](https://www.microsoft.com/en-us/ai/video-authenticator) - Deepfake detection tool by Microsoft.
+- [Sealed Rose](https://sealedrose.com/verify-video) - In-browser AI deepfake and synthetic video detection platform.
 - [Sensity](https://sensity.ai/) - Visual threat intelligence and deepfake detection platform.
 - [Video Verification Tools](https://toolbox.google.com/factcheck/explorer) - Google Fact Check Explorer for video claims.
 <br>
@@ -1388,6 +1401,7 @@ Enter two images and the difference will show up below
 - [Jeffrey's Image Metadata Viewer](http://exif.regex.info/exif.cgi) - Detailed EXIF data viewer for photos.
 - [Metadata2Go](https://www.metadata2go.com/) - Online metadata viewer and editor for various file types.
 - [MetadataRemover.ai](https://metadataremover.ai/) - Inspect, remove, edit and verify supported image metadata locally in the browser without uploading files or creating an account.
+- [Narqo](https://narqo.com/tools/photo-metadata) - View, edit or strip EXIF, GPS and camera data from photos in the browser; no upload and no account.
 - [Get-Metadata](https://www.get-metadata.com/) - Extract metadata from documents, images, videos.
 - [FOCA](https://github.com/ElevenPaths/FOCA) - Metadata analysis tool for documents and files.
 - [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester from public documents.
@@ -1442,6 +1456,7 @@ Enter two images and the difference will show up below
 ## MARITIME
 
 - [ArcNautical](https://arcnautical.com/check) - Free vessel sanctions check by IMO number against the OFAC, EU, UK and UN lists, with an ownership-opacity score and a vetting grade; no account required
+- [HullCipher](https://hullcipher.com) - Free live map of the ships on the UN, US, UK, EU, Canadian, Australian, New Zealand, Swiss and Japanese sanctions lists, showing what each list calls a ship beside what it broadcasts on AIS now: name, MMSI and flag changes, silences, restricted port calls and meetings at sea. No account needed to browse; paid plans are available.
 - [Marine Traffic](https://www.marinetraffic.com/) - seaways / marine live map
 - [VesselFinder](https://www.vesselfinder.com/) - Free AIS Ship Tracker - VesselFinder
 - [OSINT on the Ocean](https://wondersmithrae.medium.com/osint-on-the-ocean-maritime-intelligence-gathering-techniques-2ee39e554fe1) - Article on Maritime Intelligence Gathering
@@ -1493,6 +1508,7 @@ Enter two images and the difference will show up below
 - [GitHub Search Engine](https://cse.google.com/cse?cx=1b053c8ec746d6611) - custom google search
 - [Source Code Search Engine](https://publicwww.com/) - Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.
 - [SearchWebCode](https://www.searchwebcode.com/) - Source-code search engine over the HTML/JS/CSS of ~127M website homepages; exact-string or regex, shows the full matched page source, with CSV export.
+- [PageSourceSearch](https://www.pagesourcesearch.com/) - Search engine over the HTML and first-party JavaScript of crawled websites; exact-string or regex, results grouped by site with each match highlighted in the stored file. Free, no account.
 - [Google to search profiles on GitHub](https://recruitin.net/github.php) - Easily use Google to search profiles on GitHub
 - [Grep.app](https://grep.app/) - grep.app searches code from over a half million public repositories on GitHub.
 - [NerdyData](https://www.nerdydata.com/) - NerdyData will help you find which websites use certain SaaS technologies.
@@ -1520,6 +1536,7 @@ Enter two images and the difference will show up below
 - [Who.is](https://who.is/) - WHOIS Search, Domain Name, Website, and IP Tools
 - [Whoxy](https://www.whoxy.com/) - whoxy domain search engine
 - [Whois History](https://osint.sh/whoishistory/) - Lets you see all the historical WHOIS records of a domain name
+- [Karma.Domains WHOIS Lookup](https://karma.domains/en/whois-lookup/) - Free WHOIS lookup (no signup, 10 domains/day) showing registration dates, status and contacts in readable tables; companion free DNS lookup at karma.domains/en/dns-lookup/
 <br>
 
 [⇧ Top](#index)
@@ -1557,6 +1574,7 @@ Enter two images and the difference will show up below
 - [CertObserver CT Search](https://certobserver.com/ct-search) - Find public SSL/TLS certificates recorded in Certificate Transparency logs, which can help discover subdomains.
 - [LeakIX](https://leakix.net/) - This project goes around the Internet and finds services to index them.
 - [URL and website scanner](https://urlscan.io/) - urlscan.io is a free service to scan and analyse websites. When a URL is submitted to urlscan.io, an automated process will browse to the URL like a regular user and record the activity that this page navigation creates.
+- [ScanMalware](https://scanmalware.com/) - Free sandboxed URL scanner with a public archive of past scans, searchable by domain, IP, ASN, JARM, favicon mmh3, TLSH/ssdeep or screenshot hash. Reports phishing and malware verdicts, network requests, technologies, TLS/RDAP records and certificate transparency pivots. No account or API key required.
 - [dnsdumpster](https://dnsdumpster.com/) - DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
 - [AbuseIPDB](https://www.abuseipdb.com/) - Making the Internet safer by providing a central blacklist for IP addresses engaged in malicious behavior.
 - [BinaryEdge](https://www.binaryedge.io/) - Cybersecurity and data intelligence platform for threat detection.
@@ -1579,6 +1597,7 @@ Enter two images and the difference will show up below
 - [IPQualityScore](https://www.ipqualityscore.com/) - Fraud detection and IP reputation.
 - [IPASIS](https://ipasis.com) - Real-time bot detection and fraud prevention API combining IP reputation, proxy/VPN/Tor detection, and email validation in a single call.
 - [IPok](https://ipok.io/) - Free, no-login IP reputation and "purity" checker that aggregates up to 8 risk/reputation sources and shows each source's verdict separately, classifies residential vs datacenter, profiles /24 C-block neighbors, and detects your real exit IP. Open-source CLI and Chrome extension available.
+- [IPScanner](https://ipscanner.io/) - IP lookup with the network class (residential, mobile, hosting, VPN, residential proxy or Tor) and a confidence score, plus an AI crawler directory and a Googlebot verifier.
 - [Frostbyte GeoIP API](https://api-catalog-three.vercel.app/services/ip-geolocation-api) - Free IP geolocation API returning country, city, ISP, coordinates, and timezone. 200 free lookups, no signup required.
 - [Frostbyte DNS API](https://api-catalog-three.vercel.app) - DNS record lookup API supporting A, AAAA, MX, NS, TXT, and CNAME queries with WHOIS data.
 - [Netlas.io](https://netlas.io/) - Internet intelligence search for domains, IPs, and certificates.
@@ -1765,6 +1784,7 @@ Enter two images and the difference will show up below
 
 - [GeoSpy](https://geospy.web.app/) - Photo location prediction using AI
 - [GeoInfer](https://geoinfer.com/en) - AI-powered image geolocation tool that predicts the location of any photo using deep learning
+- [geo-sleuth](https://github.com/Oldcircle/geo-sleuth) - Agent skill for Claude Code, Codex, Cursor and others that geolocates a photo with no text in it, using OpenStreetMap geometry, elevation skylines, satellite imagery and street view. Outputs camera position, heading and an evidence image.
 - [GEOINT](https://start.me/p/W1kDAj/geoint) - every tools you need for geographical data gathering
 - [GeoNames](https://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
 - [Geoseer.net](https://www.geoseer.net/) - Search over 3.5 million distinct spatial GIS WMS, WCS, WMTS datasests hosted on over 40k live services from around the world.
@@ -1921,7 +1941,7 @@ Enter two images and the difference will show up below
 - [WarWire](https://warwire.net) - Conflict intelligence aggregator monitoring military movements, equipment deployments, and combat operations across multiple theaters with timestamp verification.
 - [Flightradar24](https://www.flightradar24.com) - Flight tracking service invaluable for monitoring military transport aircraft, surveillance planes, and aerial reconnaissance operations during conflicts when transponders are active.
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking.
-<br>
+- [Lanes](https://lanes.news/) - Compares how each side's press, and press from uninvolved countries, report the same events in eight conflicts, reading domestic outlets in their own languages, and labels claims as corroborated, disputed or single-source with links to the sources. Free, no account.
 
 [⇧ Top](#index)
 
@@ -1950,6 +1970,7 @@ Enter two images and the difference will show up below
 - [OpenCorporates](https://opencorporates.com/) - Fresh, standardized, auditable information direct from official primary sources across 140+ jurisdictions — all underpinned by our Legal-Entity Data Principles and world-leading expertise in legal-entity data.
 - [Fylings](https://www.fylings.com/) - Free company-intelligence platform for Africa: search 1.5M+ companies across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official registry source and a last-verified date on every record. Beneficial ownership, government-contract awards and sanctions screening included. Free API + MCP server.
 - [Company Records](https://records.knowyourcustomer.com/) - Free anonymous company search across 149 jurisdictions, each with its own coverage page. On purchase, the company report and the underlying official filings are retrieved live from the official register (paid, from US$19).
+- [Barcodepedia](https://barcodepedia.com/) - Free product encyclopedia indexed by barcode: trace a consumer product to its brand owner, licensee or bottler, and GS1 barcode registrant, with every fact cited.
 - [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Find out who's behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.
 - [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them.
 - [PitchBook](https://pitchbook.com/) - Private capital market data and research.
@@ -2239,6 +2260,18 @@ about police misconduct in Chicago
 - [CyberDefenders](https://cyberdefenders.org/) - Blue team challenges including OSINT.
 - [Sofia Santos OSINT Exercises](https://gralhix.com/list-of-osint-exercises/) - Collection of OSINT practice exercises.
 - [OSINT Games](https://osintgames.com/) - Interactive OSINT challenges.
+<br>
+
+[⇧ Top](#index)
+## FREE MEDIA & SOFTWARE DIRECTORIES
+
+- [FMHY](https://fmhy.net/) - FreeMediaHeckYeah, a large community-maintained collection of free stuff: streaming, downloads, reading, gaming, tools, privacy and more.
+- [Piracy Megathread](https://rentry.org/megathread) - r/Piracy's quality-checked list of sites and tools by category, with safety guidance.
+- [Awesome Piracy](https://shakil-shahadat.github.io/awesome-piracy/) - Maintained fork of the archived Awesome Piracy list of free media, software and download resources.
+- [Champagne Piracy Wiki](https://champagne.pages.dev/) - Wiki of vetted links across many platforms and categories.
+- [MediaSavvy](https://mediasavvy.pages.dev/) - Wiki of free media and software resources.
+- [Ripped](https://ripped.guide/) - Community-endorsed collection of websites and tools.
+- [Wiki Index](https://wiki-index.pages.dev/) - Index of wikis and lists of free resources.
 <br>
 
 [⇧ Top](#index)
