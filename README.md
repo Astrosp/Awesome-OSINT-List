@@ -1370,6 +1370,7 @@ Enter two images and the difference will show up below
 - [Listen Notes](https://www.listennotes.com/) - Search the whole Internet's podcasts. Curate your own podcast playlists. Listen on your favorite podcast player apps.
 - [Discover Podcasts Here!](https://podsearch.com/) - PodSearch is the easiest way to discover podcasts on your favorite topics. Listen to short show samples, learn more about the show and hosts
 - [SongFromLink](https://songfromlink.com/) - Identify background music from TikTok, YouTube Shorts, Instagram Reels, X, and Facebook Reels video links.
+- [SongFromVideo](https://songfromvideo.com/) - Identify the song in a TikTok, YouTube, Instagram, Facebook or X video from its link or an uploaded audio/video file; returns title, artist and Spotify/Apple Music links.
 <br>
 
 [⇧ Top](#index)
