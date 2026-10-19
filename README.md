@@ -921,7 +921,7 @@ You are searching 121 billion records.
 - [Twitonomy](https://www.twitonomy.com/) - Twitter analytics and management tool.
 - [TweeterID](https://tweeterid.com/) - Convert between Twitter ID and username.
 - [Botometer](https://botometer.osome.iu.edu/) - Check Twitter account for bot-like behavior.
-- [AccountAnalysis](https://accountanalysis.app/) - Analyze Twitter accounts for authenticity.
+- ~~[AccountAnalysis](https://accountanalysis.app/)~~ - No longer operational (the domain now shows a registrar parking page).
 - [TweetDeck](https://tweetdeck.twitter.com/) - Official Twitter dashboard for monitoring.
 - [Xquik](https://xquik.com/) - X (Twitter) data extraction platform for tweet search, user lookup, follower/following lists, engagement metrics, account monitoring, and trending topics. REST API with 40+ endpoints.
 - [Nitter Instances](https://github.com/zedeus/nitter/wiki/Instances) - List of alternative Twitter front-end instances for privacy.
