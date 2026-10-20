@@ -984,6 +984,8 @@ the number of views or likes.
 - [Proxycurl](https://nubela.co/proxycurl/) - Pull rich data about people and companies
 - [OutX LinkedIn Profile Viewer](https://www.outx.ai/all-tools/linkedin-profile-viewer) - AI-powered LinkedIn profile viewer and analysis tool.
 
+- [LinkedIn Jobs Scraper](https://apify.com/harshmaur/linkedin-jobs-scraper) - Shows which companies hire for a role, in which cities, and who posted each job. No LinkedIn account is needed. Paid per job; the Apify free plan covers small runs.
+
 ## GOOGLE
 
 - [Google Finder](https://tools.epieos.com/google-account.php) - Find out google info like name by email id
