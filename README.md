@@ -932,6 +932,8 @@ You are searching 121 billion records.
 <br>
 
 [⇧ Top](#index)
+- [Facebook Ads Library Scraper](https://apify.com/harshmaur/facebook-ads-library-scraper) - Research public Meta ads by advertiser or keyword and export creative links, publication dates and disclosed reach or spend figures. No Facebook login. Paid per ad on Apify.
+
 ## YOUTUBE
 
 - [Filmot](https://https://filmot.com/) - Search within YouTube subtitles, captions and transcripts.
