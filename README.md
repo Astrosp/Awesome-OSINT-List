@@ -934,6 +934,8 @@ You are searching 121 billion records.
 [⇧ Top](#index)
 ## YOUTUBE
 
+- [YouTube Transcript Scraper](https://apify.com/harshmaur/youtube-transcript-scraper) - Export captions from public videos, channels and playlists for quotation and research, with timestamps, SRT/VTT and optional translation. No YouTube account. Paid per successful transcript on Apify.
+
 - [Filmot](https://https://filmot.com/) - Search within YouTube subtitles, captions and transcripts.
 - [yt-dlp](https://pypi.org/project/yt-dlp/) - Youtube downloader with additional features.
 - [Location Search](https://mattw.io/youtube-geofind/location) - Search YouTube by location for geotagged videos. Find videos near you or anywhere in the world.
