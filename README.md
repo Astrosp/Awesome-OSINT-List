@@ -1567,6 +1567,7 @@ Enter two images and the difference will show up below
 - [OSINT.SH](https://osint.sh/) - All in one Information Gathering Tools
 - [Nmap Checker Tool](https://shadowcrypt.net/tools/nmap) - Online Free Hacking Tools - ShadowCrypt
 - [Free online network tools](https://centralops.net/co/) - Free online network tools - traceroute, nslookup, dig, whois lookup, ping - IPv6
+- [APIFreaks MX Lookup](https://apifreaks.com/tools/mx-lookup) - Free, no-signup lookup of domain mail servers, priorities, resolved IP addresses, ASN information, and abuse contacts.
 - [Google Transparency Report](https://transparencyreport.google.com/https/certificates) - HTTPS encryption on the web report
 - [Certificate Search](https://osint.sh/crt/) - Find information about the target assets from their SSL certificate
 - [CRT](https://crt.sh/) - certificate search
