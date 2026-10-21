@@ -120,6 +120,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 
 ### AI Detection & Verification
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
+- [isGenAI](https://isgenai.com/) - Free checker that reads recorded evidence of AI use in images, links and text: C2PA Content Credentials, AI labels and saved generation prompts, quoting each source.
 
 ### AI Model Repository & Tools
 - [Hugging Face](https://huggingface.co/) - Open-source AI model repository with chat interfaces and tools.
