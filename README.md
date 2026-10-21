@@ -1536,6 +1536,7 @@ Enter two images and the difference will show up below
 - [Whoxy](https://www.whoxy.com/) - whoxy domain search engine
 - [Whois History](https://osint.sh/whoishistory/) - Lets you see all the historical WHOIS records of a domain name
 - [Karma.Domains WHOIS Lookup](https://karma.domains/en/whois-lookup/) - Free WHOIS lookup (no signup, 10 domains/day) showing registration dates, status and contacts in readable tables; companion free DNS lookup at karma.domains/en/dns-lookup/
+- [WhoisFreaks WHOIS History](https://whoisfreaks.com/tools/whois/history/lookup) - Historical WHOIS records for researching domain ownership changes and available pre-GDPR registrant details. Limited records are free; full history requires an API plan.
 <br>
 
 [⇧ Top](#index)
@@ -1544,6 +1545,7 @@ Enter two images and the difference will show up below
 
 - [Focsec](https://focsec.com) - IP Threat Intelligence, provides general IP information, Proxy, TOR and VPN Detection
 - [favihash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using the same. Works on both open web and dark web.
+- [IPGeolocation.io](https://ipgeolocation.io/) - IP geolocation and ASN lookup with optional VPN, proxy, and Tor detection. Free geolocation API tier available; security data requires a paid plan.
 - [domain digger](https://digger.tools/) - Find all dns recoreds, whois data, ssl/tls certificate history, subdomain and more
 - [dnslytics](https://dnslytics.com/) - search for domain IPv4, IPv6 or Provider
 - [dnstwist](https://dnstwist.it) - scan phishing domain
@@ -1567,6 +1569,7 @@ Enter two images and the difference will show up below
 - [Nmap Checker Tool](https://shadowcrypt.net/tools/nmap) - Online Free Hacking Tools - ShadowCrypt
 - [Free online network tools](https://centralops.net/co/) - Free online network tools - traceroute, nslookup, dig, whois lookup, ping - IPv6
 - [Google Transparency Report](https://transparencyreport.google.com/https/certificates) - HTTPS encryption on the web report
+- [APIFreaks MX Lookup](https://apifreaks.com/tools/mx-lookup) - Free, no-signup lookup of domain mail servers, priorities, resolved IP addresses, ASN information, and abuse contacts.
 - [Certificate Search](https://osint.sh/crt/) - Find information about the target assets from their SSL certificate
 - [CRT](https://crt.sh/) - certificate search
 - [CertKit](https://www.certkit.io/tools/ct-logs/) - Fast search for the Certificate Transparenc Logs
@@ -1950,6 +1953,8 @@ Enter two images and the difference will show up below
 - [Tradint Research Tool](https://tradint.io/) - This tool enables users to conduct a full-scale Tradint (Trade Intelligence) investigation using the best tools and methods.
 - [analytics-engine](https://github.com/mashiox/analytics-engine) - An environment of open source services used for market analysis
 - [Ppp.adatascienti.st](https://ppp.adatascienti.st/) - ppp load search
+- [CurrencyFreaks](https://currencyfreaks.com/) - API for live and historical exchange rates, currency conversion, and forex time series. Free tier includes 1,000 API calls per month.
+- [CommodityPriceAPI](https://commoditypriceapi.com/) - API for live and historical commodity prices, including precious metals, energy, and agricultural commodities. Paid plans with a free integration trial.
 - [CoVi Analytics](https://www.covianalytics.com/) - At CoVi Analytics, we create easy-to-use tools (Apps) specifically for the operations team to help streamline operations, enhance efficiency, and empower growth through tech-driven solutions that simplify business activities, automate operations and deliver greater insights
 - [Search Our PPP Loan Database](https://ppp.directory/search) - ppp load database search
 - [Search for Investment Fund Documents](https://www.sedar.com/search/search_form_mf_en.htm) - File, disclose and search for issuer information in Canada’s capital markets
