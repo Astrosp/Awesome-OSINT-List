@@ -1952,6 +1952,7 @@ Enter two images and the difference will show up below
 - [Greylist Trace](https://greylisttrace.com/) - enterprise risk management and asset tracing
 - [Tradint Research Tool](https://tradint.io/) - This tool enables users to conduct a full-scale Tradint (Trade Intelligence) investigation using the best tools and methods.
 - [analytics-engine](https://github.com/mashiox/analytics-engine) - An environment of open source services used for market analysis
+- [CurrencyFreaks](https://currencyfreaks.com/) - API for live and historical exchange rates, currency conversion, and forex time series. Free tier includes 1,000 API calls per month.
 - [Ppp.adatascienti.st](https://ppp.adatascienti.st/) - ppp load search
 - [CoVi Analytics](https://www.covianalytics.com/) - At CoVi Analytics, we create easy-to-use tools (Apps) specifically for the operations team to help streamline operations, enhance efficiency, and empower growth through tech-driven solutions that simplify business activities, automate operations and deliver greater insights
 - [Search Our PPP Loan Database](https://ppp.directory/search) - ppp load database search
