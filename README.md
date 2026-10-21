@@ -1544,6 +1544,7 @@ Enter two images and the difference will show up below
 ### URL's
 
 - [Focsec](https://focsec.com) - IP Threat Intelligence, provides general IP information, Proxy, TOR and VPN Detection
+- [IPGeolocation.io](https://ipgeolocation.io/) - IP geolocation and ASN lookup with optional VPN, proxy, and Tor detection. Free geolocation API tier available; security data requires a paid plan.
 - [favihash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using the same. Works on both open web and dark web.
 - [domain digger](https://digger.tools/) - Find all dns recoreds, whois data, ssl/tls certificate history, subdomain and more
 - [dnslytics](https://dnslytics.com/) - search for domain IPv4, IPv6 or Provider
