@@ -377,6 +377,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [SkyOSINT](https://skyosint.io) - OSINT platform for intelligence gathering and analysis.
 - [DeadDrop](https://deaddrop.theosintconsultants.com/dashboard) - OSINT dashboard and investigation tool from The OSINT Consultants.
 - [30Tools](https://30tools.com/) - Collection of 30+ useful online tools for various OSINT and productivity tasks.
+- [TRACEZ](https://tracez.no-do.dev/) - OSINT investigation platform with an entity graph you can expand with AI, continuous monitors and Ed25519-signed evidence anyone can verify. Free plan, paid plans from 19 EUR/month.
 <br>
 
 [⇧ Top](#index)
