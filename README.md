@@ -1070,6 +1070,7 @@ the number of views or likes.
 - [maltego-telegram](https://github.com/vognik/maltego-telegram/) - OSINT Maltego Transforms for investigating Telegram channels, groups, and users, including deanonymization via stickers, forwarded messages, similar channels, deleted posts, and more.
 - [Telegram Channels List](https://tlgrm.eu/channels) - Discover interesting channels for your Telegram
 - [TOPTL](https://toptl.net/) - Searchable directory of public Telegram channels, groups, and bots, organized by category and language.
+- [Telemoon](https://telemoon.app/) - Free Telegram channel statistics without login: subscriber history, views per post, who mentions a channel and which channels reposted a post
 - [Readergram.com](https://readergram.com/) - Here you can find channels, chats and groups for every taste and preference
 - [Find Telegram Channels/Bots/Groups](https://xtea.io/ts_en.html) - search for telegram group, channels, bots
 - [Telegram Group: Find Telegram Channels, Bots & Groups](https://www.telegram-group.com/en/) - Telegram Channels, Groups, and Bots
