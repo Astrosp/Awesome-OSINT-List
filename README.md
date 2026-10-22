@@ -1615,6 +1615,8 @@ Enter two images and the difference will show up below
 - [CertGrep](https://certgrep.sh/) - SSL/TLS certificate search and monitoring.
 - [TriNetLayer](https://trinetlayer.com/) - Network layer analysis and IP intelligence.
 - [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets.
+- [CheckLeaked Email Security Checker](https://checkleaked.cc/tools/email-security) - Free SPF, DKIM, DMARC, MTA-STS and BIMI check for any domain, read live from DNS, with a grade and the DMARC record to publish. No signup.
+- [CheckLeaked Lookalike Domain Finder](https://checkleaked.cc/tools/lookalike-domains) - Free typosquatting check: dnstwist-style permutations of a domain, resolved in DNS, registered ones listed with those able to send email first. No signup.
 <br>
 
 [⇧ Top](#index)
