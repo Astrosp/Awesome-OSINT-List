@@ -915,20 +915,19 @@ You are searching 121 billion records.
 - [Twitter Analytics](https://foller.me/) - Looking for someone in the United States? Our free people search engine finds social media profiles, public records, and more!
 - [getdaytrends](https://getdaytrends.com/) - Twitter trends worldwide
 - [Twitter Trending Hashtags and Topics](https://www.trendsmap.com/) - Trendsmap has been providing unique and powerful analytical and visualisation tools to analyse Twitter data. With the demise of Twitter, we are now providing access to over ten years historical data
-- [Socialbearing](https://socialbearing.com/) - Insights & analytics for tweets & timelines
+- [twtData X Trends Archive](https://twtdata.com/twitter-trends/) - Free archive of what trended on X (Twitter) by country and city, one dated page per day going back to 2023. No account needed.
+- ~~[Socialbearing](https://socialbearing.com/)~~ - No longer operational (the domain now redirects to the developer's shutdown notice).
 - [SocialData API](https://socialdata.tools/) - SocialData is an unofficial Twitter API that allows scraping tweets, user profiles, lists and Twitter spaces without using Twitter's API.
 - [TwitterAPI.io](https://twitterapi.io/?utm_source=awesome-osint-for-everything&utm_medium=awesome-list&utm_campaign=backlink-2026q2) - Real-time and historical X (Twitter) data API for investigators: tweet search, profile lookup, follower/following extraction, account monitoring with webhooks. $0.15 per 1K tweets, sub-500ms latency, no auth required for read access.
 - [Twitonomy](https://www.twitonomy.com/) - Twitter analytics and management tool.
 - [TweeterID](https://tweeterid.com/) - Convert between Twitter ID and username.
 - [Botometer](https://botometer.osome.iu.edu/) - Check Twitter account for bot-like behavior.
-- [AccountAnalysis](https://accountanalysis.app/) - Analyze Twitter accounts for authenticity.
+- ~~[AccountAnalysis](https://accountanalysis.app/)~~ - No longer operational (the domain now shows a registrar parking page).
 - [TweetDeck](https://tweetdeck.twitter.com/) - Official Twitter dashboard for monitoring.
 - [Xquik](https://xquik.com/) - X (Twitter) data extraction platform for tweet search, user lookup, follower/following lists, engagement metrics, account monitoring, and trending topics. REST API with 40+ endpoints.
 - [Nitter Instances](https://github.com/zedeus/nitter/wiki/Instances) - List of alternative Twitter front-end instances for privacy.
 - [FollowerWonk](https://followerwonk.com/) - Twitter analytics tool to search bios and analyze followers.
 - [BotSentinel](https://botsentinel.com/) - Platform to identify inauthentic Twitter accounts and bot behavior.
-- [Tweetbeaver](https://tweetbeaver.com/) - Twitter analytics and account comparison tools.
-- [Social Bearing](https://socialbearing.com/) - Twitter analytics and search with sentiment analysis.
 <br>
 
 [⇧ Top](#index)
