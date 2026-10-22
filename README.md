@@ -1118,6 +1118,8 @@ the number of views or likes.
 <br>
 
 [⇧ Top](#index)
+- [TikTok Scraper](https://apify.com/harshmaur/tiktok-scraper) - Export a creator's videos, public profile data and comment threads with dates and engagement counts. No TikTok account is needed. Paid per result; small runs can use Apify free-plan credit.
+
 ## STEAM
 
 - [Steam Community :: Search](https://steamcommunity.com/search/users/) - Search the Steam Community by alias.
