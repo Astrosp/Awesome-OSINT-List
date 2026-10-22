@@ -119,6 +119,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 - [Anything](https://anything.com) -  just describe what you want, and anything builds it. Everything you need built in.
 
 ### AI Detection & Verification
+- [AI Image Detection](https://aiimagedetection.app/) - Checks C2PA Content Credentials and EXIF in the browser before model-based AI image detection; includes a public 100-image test with false positives reported separately.
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
 
 ### AI Model Repository & Tools
