@@ -256,6 +256,7 @@ EtherCalc is a web spreadsheet.
 - [Airborn.io](https://www.airborn.io/) - Create encrypted documents
 - [ZOOM URL Generator](https://skyzh.github.io/zoom-url-generator/) - Create Zoom meeting url
 - [Tor2web](https://www.tor2web.org/) - Tor is a software project that lets you anonymously browse the Internet. Tor2web is a project to let Internet users access Tor Onion Services without using Tor Browser
+- [TrickyBird](https://trickybird.com/) - A free web proxy that opens a blocked site in your browser tab. There is no account and nothing to install.
 - [archive.is](https://archive.is/) - Archive.today is a time capsule for web pages!
 It takes a 'snapshot' of a webpage that will always be online even if the original page disappears
 - [Wayback Machine](https://web.archive.org/) - Internet archive of everything
