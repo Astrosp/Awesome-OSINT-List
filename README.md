@@ -804,6 +804,7 @@ You are searching 121 billion records.
 - [NeverBounce](https://neverbounce.com/) - Real-time email verification.
 - [MailTester](https://mailtester.com/) - Test if an email address exists.
 - [Verify-Email](https://verify-email.org/) - Check if an email address exists.
+- [Bulk Email Validator, no SMTP (Apify)](https://apify.com/pennydata/bulk-email-validator-no-smtp) - Bulk email list check by syntax, DNS/MX, disposable, role-account and free-provider flags and typo hints; does not probe mailboxes via SMTP. Paid pay-per-event, $0.0008 per email.
 - [Google Alerts for Emails](https://www.google.com/alerts) - Monitor when an email appears online.
 - [mosint](https://github.com/alpkeskin/mosint) - Automated e-mail OSINT tool for gathering information about email addresses.
 - [Apollo.io](https://www.apollo.io/) - B2B database for finding professional email addresses and company info.
