@@ -1071,6 +1071,10 @@ the number of views or likes.
 - [Telegram Channels List](https://tlgrm.eu/channels) - Discover interesting channels for your Telegram
 - [TOPTL](https://toptl.net/) - Searchable directory of public Telegram channels, groups, and bots, organized by category and language.
 - [Readergram.com](https://readergram.com/) - Here you can find channels, chats and groups for every taste and preference
+- [TGScope](https://tgscope.io/) - Search engine and catalog of 3M+ public Telegram channels by topic, language and size, with per-channel stats and event pages that collect posts mentioning places, companies and people
+- [TGScope Channel Creation Date](https://tgscope.io/tools/telegram-channel-creation-date) - Web tool that tells when a Telegram channel or supergroup was created from its username, t.me link or numeric ID
+- [TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit) - Shows what share of a Telegram channel's subscribers actually view its posts and how it compares with similar channels, flagging ghost audiences
+- [TGScope Channel Network Checker](https://tgscope.io/tools/telegram-channel-network) - Shows which other Telegram channels list the same ad contact as a given channel, revealing networks run or sold by one owner or agency
 - [Find Telegram Channels/Bots/Groups](https://xtea.io/ts_en.html) - search for telegram group, channels, bots
 - [Telegram Group: Find Telegram Channels, Bots & Groups](https://www.telegram-group.com/en/) - Telegram Channels, Groups, and Bots
 - [TelegramDB.org](https://telegramdb.org/) - TelegramDB is a service that allows you to search for channels, groups and their members.
