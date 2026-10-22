@@ -813,6 +813,7 @@ You are searching 121 billion records.
 - [ContactOut](https://contactout.com/) - Email finder for recruiting and sales.
 - [sherlockeye](https://www.sherlockeye.io) - Search for any email across 400+ sources in seconds
 - [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Email — Instantly
+- [looot](https://looot.ai/) - Pay-per-call API and remote MCP server for work email and phone lookup, email verification, and company and people enrichment (paid, prepaid balance from $5).
 
 <br>
 
