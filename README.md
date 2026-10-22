@@ -55,6 +55,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [OsintCat](https://www.osintcat.net/) - Check if an email address has been exposed in known data breaches. Covers multiple breach databases with both a web interface and an API.
 - [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, with the sources shown; free searches, developer API and Telegram/Discord bots.
 - [Lunar Cyber](https://lunarcyber.com/) - Search and monitor compromised credentials across data breaches and infostealer logs.
+- [XposedOrNot](https://xposedornot.com/) - Free, open-source breach search: check an email against known data breaches, see dates and exposed data types, and monitor your own domain for free
   
 ## Basic OSINT
 Data Leak, scam, username, domain, social
