@@ -277,6 +277,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [SQLable](https://sqlable.com/) - A collection of SQL tools
 - [OCR Text Extractor](https://osint.sh/ocr/) - OCR text extractor from png, jpeg, webp and pdf
 - [Wetranscriber](https://www.wetranscriber.com/) - A free, simple and efficient transcription platform for individuals or teams
+- [Yap Audio to Text](https://yapapp.cc/audio-to-text) - Free in-browser transcription of audio and video files with SRT/VTT subtitle export. Files are processed on your own computer and never uploaded
 - [Tophonetics.com](https://tophonetics.com/) - This online converter of English text to IPA phonetic transcription will translate your English text into its phonetic transcription using the International Phonetic Alphabet.
 - [IPA Translator](https://ipatranslator.com/) - English to IPA translator with connected-speech analysis, showing weak forms, linking, and stress patterns — useful for verifying pronunciation in OSINT audio/video investigations. Supports US and UK English.
 - [Google Translate](https://translate.google.com/) - Google Translator
