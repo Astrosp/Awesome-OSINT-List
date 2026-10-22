@@ -973,6 +973,7 @@ the number of views or likes.
 - [Search Reddit Comments by User](https://www.redditcommentsearch.com/) - Search through comments of a particular reddit user. Just enter the username and a search query
 - ~~[Reddit Investigator](https://www.redditinvestigator.com/)~~ - 404
 - [Pushshift API Guide](https://github.com/pushshift/api) - The pushshift.io Reddit API was designed and created by the /r/datasets mod team to help provide enhanced functionality and search capabilities for searching Reddit comments and submissions.
+- [Reddit Scraper](https://apify.com/harshmaur/reddit-scraper) - Export a user's posts and comments, keyword search results, threads with all comments, or a whole subreddit to JSON or CSV. No Reddit account or API key. Paid per result, free plan covers small runs.
 <br>
 
 [⇧ Top](#index)
