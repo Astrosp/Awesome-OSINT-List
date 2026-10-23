@@ -951,6 +951,7 @@ You are searching 121 billion records.
 - [ActiveTK](https://www.activetk.jp/tools/yt-not-well-known) - This web application allows you to search for Youtube videos by
 the number of views or likes.
 - [youtubetranscript](https://youtubetranscript.com/) - Extremely fast free online service for converting YouTube videos to text. Not perfect quality, but quite acceptable and very fast.
+- [MomentClip](https://momentclip.com) - Find moments in YouTube videos by what is said or shown on screen, with timestamps, cited answers and transcript export (TXT, SRT, VTT, CSV). Paid.
 
 <br>
 
