@@ -1537,7 +1537,8 @@ Enter two images and the difference will show up below
 - [Whoxy](https://www.whoxy.com/) - whoxy domain search engine
 - [Whois History](https://osint.sh/whoishistory/) - Lets you see all the historical WHOIS records of a domain name
 - [Karma.Domains WHOIS Lookup](https://karma.domains/en/whois-lookup/) - Free WHOIS lookup (no signup, 10 domains/day) showing registration dates, status and contacts in readable tables; companion free DNS lookup at karma.domains/en/dns-lookup/
-<br>
+- [WebToolBench WHOIS Checker](https://www.webtoolbench.com/whois-checker) - Free WHOIS lookup showing registrar, creation and expiry dates, nameservers and status codes, with the raw response included
+- <br>
 
 [⇧ Top](#index)
 ## DOMAIN / IP / DNS
