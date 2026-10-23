@@ -1548,6 +1548,7 @@ Enter two images and the difference will show up below
 - [domain digger](https://digger.tools/) - Find all dns recoreds, whois data, ssl/tls certificate history, subdomain and more
 - [dnslytics](https://dnslytics.com/) - search for domain IPv4, IPv6 or Provider
 - [dnstwist](https://dnstwist.it) - scan phishing domain
+- [OpenBait Typosquat Check](https://openbait.com/tools/typosquat-check) - Find which lookalike domains of a brand are already registered and resolving. Free, no signup
 - [SecurityTrails](https://securitytrails.com/) - search for domain, IPs, keyword or Hostname
 - [Shodan](https://shodan.io/) - Shodan is a search engine that lets users search for various types of servers connected to the internet using a variety of filters. Some have also described it as a search engine of service banners, which are metadata that the server sends back to the client.
 - [Internetdb.shodan.io](https://internetdb.shodan.io/) - The InternetDB API provides a fast way to see the open ports for an IP address. It gives a quick, at-a-glance view of the type of device that is running behind an IP address to help you make decisions based on the open ports.
