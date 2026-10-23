@@ -2186,6 +2186,7 @@ about police misconduct in Chicago
 - [Breadcrumbs](https://www.breadcrumbs.app/) - Blockchain investigation platform.
 - [Nansen](https://www.nansen.ai/) - Blockchain analytics with wallet labels.
 - [Arkham Intelligence](https://www.arkhamintelligence.com/) - Crypto intelligence and entity tracking.
+- [Iris](https://iriscan.app/) - Wallet investigation for Solana, EVM chains, Bitcoin and Tron: who funded a wallet, its counterparties and where its money went, with a cited source for each label and tracing through privacy pools, bridges and instant swaps.
 - [Chainabuse](https://www.chainabuse.com/) - Report and search crypto scam addresses.
 - [ScamAlert](https://scam-alert.io/) - Database of crypto scam addresses.
 - [BitRef](https://bitref.com/) - Simple Bitcoin balance checker.
