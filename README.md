@@ -1954,6 +1954,7 @@ Enter two images and the difference will show up below
 - [CoVi Analytics](https://www.covianalytics.com/) - At CoVi Analytics, we create easy-to-use tools (Apps) specifically for the operations team to help streamline operations, enhance efficiency, and empower growth through tech-driven solutions that simplify business activities, automate operations and deliver greater insights
 - [Search Our PPP Loan Database](https://ppp.directory/search) - ppp load database search
 - [Search for Investment Fund Documents](https://www.sedar.com/search/search_form_mf_en.htm) - File, disclose and search for issuer information in Canada’s capital markets
+- [SanctionsKit public search](https://www.sanctionskit.com/search) - Free name and alias lookup across available sanctions and watchlist records, with source-record links. Production API screening is paid.
 <br>
 
 [⇧ Top](#index)
