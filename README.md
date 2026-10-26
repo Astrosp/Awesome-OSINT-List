@@ -388,6 +388,7 @@ including Arabic, Chinese, Italian, Portuguese, Dutch, Hebrew, Turkish, and Poli
 - [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding Create Unlimited Email Aliases For Free and best part it's open source
 - [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously
 - [MailDrop](https://maildrop.cc/) - Save your inbox from spam. Use Maildrop when you don't want to give out your real address No signup required - Maildrop is free for anyone to use when you need a quick, disposable email address.
+- [TempMail Hub](https://tempmailhub.net/) - Free disposable email, no signup. Choose the inbox lifetime (10 min to 7 days), HTML-safe viewer, 30 languages, Telegram bot.
 - [Send text free](https://globfone.com/send-text/) - Send text online without worrying about phone bills. Free SMS to hundreds of GSM operators worldwide
 - [SendaText](https://www.sendatext.co/) - SENDaTEXT allows you to send free text and SMS from your computer or smartphone. All you need to use SENDaTEXT is a standard web browser and internet. You can now send free text online from your computer or smartphone. No need to sign up. No need to make any payment. Send a text now!
 - [Free Fax](https://faxzero.com/) -Send faxes for free to anywhere in the U.S. and Canada Or, Send an International Fax
