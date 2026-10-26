@@ -551,7 +551,7 @@ START FOR FREE
 - [The OSINT Vault](https://theosintvault.io/) - Curated collection of OSINT resources and tools.
 - [OSINT Network Events](https://osintnetwork.com/osint-events.html) - Calendar of OSINT conferences, webinars, and training events.
 - [GIJN Deep Internet Research](https://gijn.org/resource/introduction-investigative-journalism-deep-internet-research/) - Guide to investigative journalism and deep internet research.
-- [Tracking Digital Footprints](https://spotlight.ebu.ch/p/tracking-digital-footprints-with) - EBU Spotlight guide on digital footprint tracking.
+- [Tracking Digital Footprints](https://web.archive.org/web/20260109005651/https://spotlight.ebu.ch/p/tracking-digital-footprints-with) - EBU Spotlight guide on digital footprint tracking.
 - [QueryTool](https://github.com/oryon-osint/querytool) - Querytool is an OSINT framework based on Google Spreadsheets. With this tool you can perform complex search of terms, people, email addresses, files and many more.
 - [Investigating the source code of a website](https://www.aware-online.com/en/osint-tutorials/investigating-the-source-code-of-a-website/) - The source code of a website can be seen as the readable text written by a programmer in a programming language. Simply said, the source code consists of a variety of code lines, which together ensure that a website ‘ works ‘ and that a website looks a certain way.
 - [Find open FTP Servers](https://www.aware-online.com/en/osint-tutorials/find-open-ftp-servers/) - find an open ftp server osint
