@@ -681,6 +681,7 @@ Enrich your records, score and route instantly
 
 ## UNIFIED SEARCH
 
+- [FastAF](https://fastaf.co/) - Paid API and MCP server for programmatic web search (SERP), page scraping, news, jobs, maps and LinkedIn/Amazon/eBay public data; pay-per-call via x402 or 2 free calls after email verification.
 - [SynapsInt](https://synapsint.com/) - Synapsint is a 100% free service, the data that is presented for each search is the result of consulting different intelligence services, search engines, datasets, etc.
 You will find a lot of information related to a domain, a IP Address or to an ASN. Information like metatags, web site records, ISP, virus analysis, open ports, vulnerabilities, subdomains, location, network, WHOIS, DNS records, technologies used, pastes, social media accounts, blacklisted IP, links and other stuff, also you can know if an URL belongs to a phishing site.
 - [InfoTracer](https://infotracer.com/) - Instant Public Records Search Contact Info, Criminal Records, Arrests, Assets, Social Profiles & More
