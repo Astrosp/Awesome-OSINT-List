@@ -1412,6 +1412,7 @@ Enter two images and the difference will show up below
 - [File Signature Database](https://www.filesignatures.net/) - Database of file type signatures and headers.
 - [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files and URLs for malware (also in Malware section).
 - [Filesec.io](https://filesec.io/) - Latest file extension security threats and information.
+- [Metadata Remover AI (metadataremoverai.com)](https://metadataremoverai.com/) - View and strip EXIF, GPS, XMP, IPTC and C2PA metadata from photos and MP4/MOV video in the browser without re-encoding; files are not uploaded. Engine is open source: [lossless-metadata](https://github.com/fazal-bhinder/lossless-metadata).
 <br>
 
 [⇧ Top](#index)
