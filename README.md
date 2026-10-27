@@ -1615,6 +1615,7 @@ Enter two images and the difference will show up below
 - [CertGrep](https://certgrep.sh/) - SSL/TLS certificate search and monitoring.
 - [TriNetLayer](https://trinetlayer.com/) - Network layer analysis and IP intelligence.
 - [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets.
+- [NetAPI](https://netapi.com/) - One of the largest registered-domain databases (380M+ active domains, 1,500+ TLDs) by a co-founder of zonefiles.io (now closed): domain lists and datasets with DNS, IP, WHOIS and contact data, domain and reverse IP lookup, free compromised domain and IP lists and a Top 1M ranking
 <br>
 
 [⇧ Top](#index)
