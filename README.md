@@ -120,6 +120,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 
 ### AI Detection & Verification
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
+- [SlopTotal](https://sloptotal.com/) - Open-source AI text detector that runs 23 detection engines on pasted text, a URL or a document and shows each engine's score. Can also be self-hosted.
 
 ### AI Model Repository & Tools
 - [Hugging Face](https://huggingface.co/) - Open-source AI model repository with chat interfaces and tools.
