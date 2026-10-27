@@ -1965,6 +1965,7 @@ Enter two images and the difference will show up below
 - [Corporation Wiki](https://www.corporationwiki.com/) - Corporation Wiki exists to provide corporate transparency and historical data on companies. This allows officers to be held accountable for the actions they take through their corporations
 - [PA PPP Database](https://public.flourish.studio/visualisation/3105919/) - loan database
 - [Companies House](https://www.gov.uk/government/organisations/companies-house) - UK gov companies houses
+- [Companies House Search on Apify](https://apify.com/plainrecordlabs/uk-companies-house-filter) - Filter the UK Companies House register by SIC code, postcode, town, status and incorporation date. Company records only, from the monthly snapshot (paid).
 - [Global Brownbook](https://www.brownbook.net/) - global business listing database
 - [list-org](https://www.list-org.com/) - Basic information about any Russian legal entity or entrepreneur
 - [OpenCorporates](https://opencorporates.com/) - Fresh, standardized, auditable information direct from official primary sources across 140+ jurisdictions — all underpinned by our Legal-Entity Data Principles and world-leading expertise in legal-entity data.
