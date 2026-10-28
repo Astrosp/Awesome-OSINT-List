@@ -1595,6 +1595,7 @@ Enter two images and the difference will show up below
 - [WhoisXMLAPI](https://www.whoisxmlapi.com/) - Domain and IP intelligence APIs.
 - [IPinfo](https://ipinfo.io/) - IP address data and geolocation API.
 - [IPQualityScore](https://www.ipqualityscore.com/) - Fraud detection and IP reputation.
+- [ShieldLabs](https://shieldlabs.ai/) - Fraud prevention and device intelligence platform with VPN, proxy, Tor and bot detection, risk scoring, and account-abuse detection.
 - [IPASIS](https://ipasis.com) - Real-time bot detection and fraud prevention API combining IP reputation, proxy/VPN/Tor detection, and email validation in a single call.
 - [IPok](https://ipok.io/) - Free, no-login IP reputation and "purity" checker that aggregates up to 8 risk/reputation sources and shows each source's verdict separately, classifies residential vs datacenter, profiles /24 C-block neighbors, and detects your real exit IP. Open-source CLI and Chrome extension available.
 - [IPScanner](https://ipscanner.io/) - IP lookup with the network class (residential, mobile, hosting, VPN, residential proxy or Tor) and a confidence score, plus an AI crawler directory and a Googlebot verifier.
