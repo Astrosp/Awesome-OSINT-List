@@ -230,6 +230,7 @@ Tools for Image/Audio/Video/Doc reconnaissance
 - [ivre](https://github.com/ivre/ivre) - Network recon framework to build alternatives to Shodan/ZoomEye/Censys.
 - [Findomain](https://github.com/Findomain/Findomain) - Fast domain recognition tool with screenshotting, port scan, and subdomain monitoring.
 - [pureip.app](https://pureip.app/) - Free IP address checker: purity and risk score, WHOIS/RDAP, reverse DNS, IPv6 lookup, IP blacklist status, plus availability checks for ChatGPT, Claude and Gemini across cloud providers.
+- [RedAmon](https://github.com/samugit83/redamon) - Self-hosted AI penetration testing framework whose recon pipeline runs 40+ tools in parallel (subdomains, ports, services, URLs; passive sources only in stealth mode) and maps the target's attack surface into a Neo4j graph.
 <br>
 
 [⇧ Top](#index)
