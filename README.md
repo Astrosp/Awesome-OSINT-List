@@ -1363,6 +1363,7 @@ Enter two images and the difference will show up below
 - [MotionElements](https://www.motionelements.com/) - Stock video, music, and media search engine.
 - [Pixabay](https://pixabay.com/images/search/) - Free Image gallery
 - [picarta.ai](https://www.picarta.ai/) - find where a photo has been taken using AI
+- [Archivarix Retrace](https://retrace.archivarix.net/) - Reverse image search that traces where a picture came from: earlier copies, first-seen date and place on a map, each with a source link
 
 ### Music
 
