@@ -1054,6 +1054,7 @@ the number of views or likes.
 - [insto](https://github.com/subzeroid/insto) - Interactive Instagram OSINT CLI (REPL + one-shot) with watch/diff snapshots and Maltego-ready CSV/JSON export; pluggable HikerAPI/aiograpi backends.
 - [osi.ig](https://github.com/th3unkn0n/osi.ig) - Information Gathering Instagram.
 - [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+- [SocialSleuth Instagram Story Viewer](https://socialsleuth.xyz/instagram-story-viewer) - Free browser-based viewer and downloader for publicly available Instagram Stories, with optional paid automatic archiving.
 - [SoIG](https://github.com/yezz123/SoIG) - OSINT Tool gets a range of information from an Instagram account
 - [yesitsme](https://github.com/blackeko/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [Toolzu Instagram Search](https://toolzu.com/search-instagram-profiles) - Search Instagram profiles by username or name.
