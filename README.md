@@ -2159,6 +2159,7 @@ about police misconduct in Chicago
 - [Dutchess and Ulster bridge safety ratings 2015](https://b2.caspio.com/dp.asp?AppKey=996f1000109b0cd3b24b408daf60)
 - [Lou Barletta 2017 Donors](https://b2.caspio.com/dp/0a9210001cdd2eaac90941488478)
 - [Worcester MA Employee Gross Pay](https://c0acu481.caspio.com/dp/e0536000108787410ed749fdb240)
+- [Insider Express (Canada)](https://insiderexpress.ca/) - Canadian public filings cross-linked by person and company: SEDI insider trades, MP and senator disclosed holdings, federal lobbying, political donations, and federal contracts and grants (free to read, a free account is required after a few pages)
 <br>
 
 [⇧ Top](#index)
