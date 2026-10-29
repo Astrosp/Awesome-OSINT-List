@@ -481,6 +481,7 @@ Enter your "Post URL" to export
 - [Link Gopher](https://sites.google.com/site/linkgopher/) - Link Gopher is a simple extension to extract links from Firefox or Google Chrome. It extracts all links from web page (including embedded links), sorts them, removes duplicates, and displays them in a new tab for copy and paste into other systems. Also, Link Gopher does the same for unique domains.
 - [Page Links Extractor Tool](https://shadowcrypt.net/tools/pagelinks) - Pagelink Extractor scans the entire web page and lists down all hyperlinks on the website. It is useful for research purpose and uses regex to extract the link. It will be regularly updated.
 - [Online Tool to Extract Links from any Web Page](https://hackertarget.com/extract-links/) - This tool will parse the html of a website and extract links from the page. The hrefs or "page links" are displayed in plain text for easy copying or review.
+- [LucidRows](https://chromewebstore.google.com/detail/lucidrows/leehomocpccgghcibfnapadclololioh?utm_source=github&utm_medium=directory&utm_campaign=awesome-osint-list) - Free Chrome extension that collects every matching row of a list or table after you click one item, even across pages, and exports to CSV, Excel (.xlsx) or JSON. No code, no account, runs locally.
 <br>
 
 [⇧ Top](#index)
