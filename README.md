@@ -35,6 +35,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
 - [Dehashed](https://www.dehashed.com/) - You can search for your email if its leak in some databases of anything..
 - [HaveIbeenPwned?](https://haveibeenpwned.com/) - check if your email address is in a data breach
+- [HHS Healthcare Data Breach Change Scraper](https://apify.com/taroyamada/data-breach-disclosure-monitor) - Tracks HHS OCR healthcare breach disclosure changes. From USD 10/1k on Apify.
 - [ScamSearch](https://scamsearch.io/) - search to find phone, email, profile if is tobe a scammer.
 - [Intelligence X](https://intelx.io/) - Intelligence X is a search engine and data archive. · The search works with selectors, i.e. specific search terms such as email addresses, domains, URLs, IPs...
 - [spycloud](https://portal.spycloud.com/endpoint/enriched-stats/[YOUR-MAIL]) - put your mail in YOUR-MAIL.
