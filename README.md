@@ -1429,6 +1429,7 @@ Enter two images and the difference will show up below
 - [🚗License Plates in Canada 🇨🇦](https://www.google.com/maps/d/viewer?mid=1zXYL2BF2MByEduLzYN5brVnli9J3cIlv)
 - [Vehical Info](https://www.vehicleinfo.in/) - 404
 - [CarInfo](https://www.carinfo.app/) - Get Your Vehicle Details by RC
+- [Flock Locations](https://flocklocations.com/) - Free public map of Flock Safety and ALPR camera locations in the US, with the dataset downloadable as CSV and GeoJSON under CC BY 4.0
 <br>
 
 [⇧ Top](#index)
