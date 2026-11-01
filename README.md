@@ -1058,6 +1058,7 @@ the number of views or likes.
 - [yesitsme](https://github.com/blackeko/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [Toolzu Instagram Search](https://toolzu.com/search-instagram-profiles) - Search Instagram profiles by username or name.
 - [toutatis](https://github.com/megadose/toutatis) - Extract information from Instagram accounts such as e-mails, phone numbers and more.
+- [Instagram Lookup by LurkAPI](https://lurkapi.com/free-tools/instagram-lookup) - View a public Instagram profile's bio, links, counts and 12 latest posts without logging in, and export the posts to CSV. Free, 5 tries a day without signup (a lookup uses two); runs on the paid LurkAPI API.
 <br>
 
 [⇧ Top](#index)
@@ -1087,6 +1088,7 @@ the number of views or likes.
 - ~~[Snapchat User Search](https://sovip.io/)~~ - 503
 - [SnapScraper](https://rhematt.github.io/Snap-Scraper/) - SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitiude co-ordinates.
 - [snapmap-archiver](https://pypi.org/project/snapmap-archiver/) - Download all Snapmaps content from a specific location.
+- [Snapchat Story Viewer by LurkAPI](https://lurkapi.com/free-tools/snapchat-story-viewer) - Watch a public Snapchat profile's current story, highlights and Spotlight videos without an account, so you never show up in its viewers. Free, 5 tries a day without signup; runs on the paid LurkAPI API.
 <br>
 
 ## TIKTOK
@@ -1111,6 +1113,7 @@ the number of views or likes.
 - [TikTok Hashtags](https://www.tiktok.com/hashtag/) - Tool for generating TikTok hashtags.
 - [TikTok Scraper](https://tiktokscraper.com/) - Tool for scraping TikTok profiles and videos.
 - [TikTok Timestamp](https://www.tiktoktimestamper.com/) - Tool for analyzing timestamps on TikTok videos.
+- [TikTok Transcript by LurkAPI](https://lurkapi.com/free-tools/tiktok-transcript) - Get every word said in a public TikTok video from its captions, with timestamps, as text or an .srt file. Free, 5 tries a day without signup; runs on the paid LurkAPI API.
 - [TikView](https://www.tikview.com/) - Tool for searching TikTok profiles and content.
 - [tikvstock](https://tikvstock.com/) - Tool for stock and analyzing TikTok videos.
 - [Tokvid](https://tokvid.com/) - Tool for downloading TikTok videos.
