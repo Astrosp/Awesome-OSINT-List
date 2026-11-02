@@ -17,118 +17,147 @@ A curated list of OSINT tools and resources for penetration testing, reverse sea
 
 ## Index
 
-#### Communication & Messaging
+#### 1. Artificial Intelligence (AI)
+- [AI Overview](#ai)
+  - [AI Assistants & Chat Platforms](#ai-assistants--chat-platforms)
+  - [AI Search Engines](#ai-search-engines)
+  - [AI Research & Academic Tools](#ai-research--academic-tools)
+  - [AI for OSINT & Threat Intelligence](#ai-for-osint--threat-intelligence)
+  - [AI Image & Video Generation](#ai-image--video-generation)
+  - [AI Productivity Tools](#ai-productivity-tools)
+  - [AI Detection & Verification](#ai-detection--verification)
+  - [AI Model Repositories & Tools](#ai-model-repository--tools)
+  - [AI Utilities](#ai-utilities)
+  - [LLM Security & AI Security](#llm-security--ai-security)
+
+#### 2. Breaches, Leaks & Threat Intelligence
+- [Breaches & Leaks](#breaches-and-leaks)
+- [Threat Intel](#threat-intel)
+- [Malware](#malware)
+- [Data Dump](#data-dump)
+- [Basic OSINT](#basic-osint)
+
+#### 3. Reconnaissance & Network Scanning
+- [Recon](#recon)
+- [Domain / IP / DNS](#domain--ip--dns)
+- [Search Engines](#search-engines)
+- [Whois](#whois)
+- [IoT & Connected Devices](#iot)
+- [Source Codes & Secrets](#source-codes)
+- [Google CSE](#google-cse)
+- [Dorking](#dork)
+- [Resolvers](#resolvers)
+
+#### 4. People & Identity Resolution
+- [Username](#username)
+- [Email](#email)
+- [Phone](#phone)
+- [People](#people)
+- [Identity Resolution](#identity-resolution)
+- [Unified Search](#unified-search)
+
+#### 5. Social Media & Messaging
+- [Social Media](#social-media)
+  - [Facebook](#facebook)
+  - [Twitter / X](#twitter)
+  - [Instagram](#instagram)
+  - [LinkedIn](#linkedin)
+  - [Reddit](#reddit)
+  - [YouTube](#youtube)
+  - [TikTok](#tiktok)
+  - [Telegram](#telegram)
+  - [Discord](#discord)
+  - [Twitch](#twitch)
+  - [Snapchat](#snapchat)
+  - [Steam](#steam)
+  - [Clubhouse](#clubhouse)
 - [Messaging Apps & Communication](#messaging-apps--communication)
+  - [WhatsApp](#whatsapp)
+  - [Signal](#signal)
+  - [WeChat](#wechat)
+  - [Viber](#viber)
+  - [LINE](#line)
+  - [KakaoTalk](#kakaotalk)
+  - [Other Messaging Platforms](#other-messaging-platforms)
 - [Secure Communication](#secure-communication)
 
-#### Content & Media
-- [Blog](#blog)
-- [Free Media & Software Directories](#free-media--software-directories)
-- [News](#news)
-- [Open Directory](#open-directory)
-- [Radio](#radio)
+#### 6. Media, Imagery & Verification
+- [Images and Audio](#images-and-audio)
+  - [Image Verification & Analysis](#image)
+  - [Audio & Music](#music)
+- [Video OSINT & Verification](#video-osint--verification)
+- [Metadata & File Analysis](#metadata--file-analysis)
 
-#### Darknet & Extremism
-- [Darknet](#darknet)
-- [Extremist / Far-Right](#extremist--far-right)
-- [War / Military Conflict](#war--military-conflict)
-
-#### Finance & Business
-- [Blockchain / Crypto Investigation](#blockchain--crypto-investigation)
-- [Business](#business)
-- [Corporation](#can-corporation)
-- [Cryptocurrency](#cryptocurrency)
-- [Finance](#finance)
-
-#### Geolocation & Tracking
-- [Flight Tracker](#flight-tracker)
-- [Geo](#geo)
-- [License Plate / VIN / Vehicle](#license-plate--vin--vehicle)
+#### 7. Geolocation, Tracking & Transportation
+- [Geo & Satellite](#geo)
 - [Maps](#maps)
-- [Maritime](#maritime)
+- [Flight Tracker](#flight-tracker)
+- [Maritime & Vessels](#maritime)
+- [License Plate / VIN / Vehicle](#license-plate--vin--vehicle)
 - [Vehicle / Transportation](#vehicle--transportation)
 
-#### Government & Public Records
-- [Government](#government)
-- [Informant](#informant)
-- [Police / LE / Fed](#police--le--fed)
+#### 8. Corporate, Finance & Cryptocurrency
+- [Business](#business)
+- [Corporation (Canada)](#can-corporation)
+- [Finance](#finance)
+- [Cryptocurrency](#cryptocurrency)
+- [Blockchain / Crypto Investigation](#blockchain--crypto-investigation)
+
+#### 9. Government, Law & Public Records
 - [Public Records](#public-records)
-- [Real Estate](#real-estate)
+- [Government](#government)
+- [Police / LE / Fed](#police--le--fed)
 - [Resident Database](#resident-database)
+- [Real Estate](#real-estate)
+- [Informant](#informant)
 
-#### Intelligence & Data
-- [AI](#ai)
-- [Basic OSINT](#basic-osint)
-- [Breaches & Leaks](#breaches-and-leaks)
-- [Data Dump](#data-dump)
-- [Dataset](#dataset)
-- [Malware](#malware)
-- [Threat Intel](#threat-intel)
+#### 10. Conflict, Extremism & Darknet
+- [War / Military Conflict](#war--military-conflict)
+- [Extremist / Far-Right](#extremist--far-right)
+- [Darknet](#darknet)
 
-#### Learning & Resources
-- [Academic & Research Databases](#academic--research-databases)
+#### 11. Bug Bounty & Offensive Security
 - [Bug Bounty / Security Research](#bug-bounty--security-research)
-- [OSINT Training / Learning](#osint-training--learning)
-- [Resources](#resources)
-- [Weather](#weather)
+  - [Bug Bounty Platforms](#bug-bounty-platforms)
+  - [Web Security Testing](#web-security-testing)
+  - [Attack Surface Discovery](#attack-surface-discovery)
+  - [Reconnaissance & Enumeration](#reconnaissance--enumeration)
+  - [Vulnerability Scanning](#vulnerability-scanning)
+  - [Content Discovery & Fuzzing](#content-discovery--fuzzing)
+  - [API Security Testing](#api-security-testing)
+  - [Exploitation Frameworks](#exploitation-frameworks)
+  - [Mobile Security](#mobile-security)
+  - [Reporting & Collaboration](#reporting--collaboration)
+  - [Bug Bounty Resources](#bug-bounty-resources)
+- [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools)
+  - [OSINT Frameworks](#osint-frameworks)
+  - [Browser Extensions](#browser-extensions)
+  - [Privacy Browsers](#privacy-browsers)
 
-#### Media & Analysis
-- [Google CSE](#google-cse)
-- [Images and Audio](#images-and-audio)
-- [Metadata & File Analysis](#metadata--file-analysis)
-- [Video OSINT & Verification](#video-osint--verification)
-
-#### People & Identity
-- [Email](#email)
-- [Identity Resolution](#identity-resolution)
-- [People](#people)
-- [Phone](#phone)
-- [Unified Search](#unified-search)
-- [Username](#username)
-
-#### Privacy & Utilities
-- [Downloader](#downloader)
-- [Emulator](#emulator)
-- [File Upload](#file-upload)
-- [Hash Recovery](#hash-recovery)
-- [ID Generator](#id-generator)
+#### 12. Tools, Utilities & Privacy
+- [Toolset](#toolset)
+- [Productivity](#productivity)
 - [Privacy / Security](#privacy--security)
 - [Throwaway Contact](#throwaway-contact)
-
-#### Reconnaissance & Scanning
-- [Domain / IP / DNS](#domain--ip--dns)
-- [IoT](#iot)
-- [Recon](#recon)
-- [Resolvers](#resolvers)
-- [Search Engines](#search-engines)
-- [Source Codes](#source-codes)
-- [Whois](#whois)
-
-#### Social Media
-- [Clubhouse](#clubhouse)
-- [Discord](#discord)
-- [Facebook](#facebook)
-- [Google](#google)
-- [Instagram](#instagram)
-- [LinkedIn](#linkedin)
-- [Reddit](#reddit)
-- [Snapchat](#snapchat)
-- [Social Media](#social-media)
-- [Steam](#steam)
-- [Telegram](#telegram)
-- [TikTok](#tiktok)
-- [Twitch](#twitch)
-- [Twitter](#twitter)
-- [WhatsApp](#whatsapp)
-- [YouTube](#youtube)
-
-#### Tools & Productivity
+- [ID Generator](#id-generator)
+- [Downloader](#downloader)
+- [File Upload](#file-upload)
+- [Hash Recovery](#hash-recovery)
+- [Emulator](#emulator)
 - [Analytics](#analytics)
 - [Bot](#bot)
-- [Dork](#dork)
-- [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools)
-- [Productivity](#productivity)
-- [Toolset](#toolset)
+
+#### 13. Knowledge, Media & Archives
+- [OSINT Training / Learning](#osint-training--learning)
+- [Academic & Research Databases](#academic--research-databases)
+- [Dataset](#dataset)
+- [Open Directory](#open-directory)
+- [News](#news)
+- [Blog](#blog)
+- [Resources](#resources)
+- [Free Media & Software Directories](#free-media--software-directories)
+- [Radio](#radio)
+- [Weather](#weather)
 
 ## Breaches and Leaks
 
