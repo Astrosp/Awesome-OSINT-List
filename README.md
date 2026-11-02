@@ -56,6 +56,8 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 - [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, with the sources shown; free searches, developer API and Telegram/Discord bots.
 - [Lunar Cyber](https://lunarcyber.com/) - Search and monitor compromised credentials across data breaches and infostealer logs.
 - [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT) - Self-hosted personal exposure checker for email, username, phone, password and IP lookups; keyless read-only sources, honest verdicts, JSON/CSV export, Apache-2.0.
+- [Have I Been Ransomed?](https://haveibeenransom.com/) - Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches.
+- [Breach House](https://breach.house/) - Free, open search of ransomware leaks, stealer logs, traditional breaches and leads by company, domain or email.
   
 ## Basic OSINT
 Data Leak, scam, username, domain, social
@@ -121,6 +123,7 @@ In addition search for Wifi networks and look for planes, vessels, trains and ci
 
 ### AI Detection & Verification
 - [r/RealOrAI](https://www.reddit.com/r/RealOrAI/) - Reddit community for detecting AI-generated content.
+- [SlopTotal](https://sloptotal.com/) - Open-source AI text detector that runs 23 detection engines on pasted text, a URL or a document and shows each engine's score. Can also be self-hosted.
 
 ### AI Model Repository & Tools
 - [Hugging Face](https://huggingface.co/) - Open-source AI model repository with chat interfaces and tools.
@@ -258,6 +261,7 @@ EtherCalc is a web spreadsheet.
 - [Airborn.io](https://www.airborn.io/) - Create encrypted documents
 - [ZOOM URL Generator](https://skyzh.github.io/zoom-url-generator/) - Create Zoom meeting url
 - [Tor2web](https://www.tor2web.org/) - Tor is a software project that lets you anonymously browse the Internet. Tor2web is a project to let Internet users access Tor Onion Services without using Tor Browser
+- [TrickyBird](https://trickybird.com/) - A free web proxy that opens a blocked site in your browser tab. There is no account and nothing to install.
 - [archive.is](https://archive.is/) - Archive.today is a time capsule for web pages!
 It takes a 'snapshot' of a webpage that will always be online even if the original page disappears
 - [Wayback Machine](https://web.archive.org/) - Internet archive of everything
@@ -266,6 +270,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [waybackpy](https://pypi.org/project/waybackpy/) - Python package that interfaces with the Internet Archive's Wayback Machine APIs. Archive pages and retrieve archived pages easily.
 - [CachedPages](http://www.cachedpages.com/) - A cached page is a snapshot or a version of a web page saved at a specific time and stored by a web server as a backup copy.
 - [Google Cached Pages of Any Website](https://cachedview.com/) - The Google Cache Browser for any page on Internet
+- [CurlShot](https://curlshot.com) - Capture a full-page screenshot or PDF of any URL as it looks now, rendered in a real Chromium browser; free web tool with no account, plus an API (100 free captures/month, paid plans).
 - [Oldweb.today](http://oldweb.today/) - see old web browser
 - [Unpaywall](https://unpaywall.org/products/extension) - Read research papers for free paywall on millions of peer-reviewed journal articles. It's fast, free, and legal
 - [DeepL](https://www.deepl.com/translator) - DeepL translate
@@ -920,6 +925,7 @@ You are searching 121 billion records.
 - [Socialbearing](https://socialbearing.com/) - Insights & analytics for tweets & timelines
 - [SocialData API](https://socialdata.tools/) - SocialData is an unofficial Twitter API that allows scraping tweets, user profiles, lists and Twitter spaces without using Twitter's API.
 - [TwitterAPI.io](https://twitterapi.io/?utm_source=awesome-osint-for-everything&utm_medium=awesome-list&utm_campaign=backlink-2026q2) - Real-time and historical X (Twitter) data API for investigators: tweet search, profile lookup, follower/following extraction, account monitoring with webhooks. $0.15 per 1K tweets, sub-500ms latency, no auth required for read access.
+- [TweetAPI](https://tweetapi.com/) - Twitter data API for collecting public tweets, profiles, followers and following, lists, communities and Spaces, with batch lookups of up to 200 tweets by ID. Paid, with 100 free requests to test it.
 - [Twitonomy](https://www.twitonomy.com/) - Twitter analytics and management tool.
 - [TweeterID](https://tweeterid.com/) - Convert between Twitter ID and username.
 - [Botometer](https://botometer.osome.iu.edu/) - Check Twitter account for bot-like behavior.
@@ -953,6 +959,7 @@ You are searching 121 billion records.
 - [ActiveTK](https://www.activetk.jp/tools/yt-not-well-known) - This web application allows you to search for Youtube videos by
 the number of views or likes.
 - [youtubetranscript](https://youtubetranscript.com/) - Extremely fast free online service for converting YouTube videos to text. Not perfect quality, but quite acceptable and very fast.
+- [Voqusa](https://www.voqusa.com/) - Free web tool and Chrome extension that converts a public TikTok, YouTube Shorts or Instagram Reels link into a text transcript with timestamps; useful for quoting and archiving short-video claims.
 
 <br>
 
@@ -1059,6 +1066,7 @@ the number of views or likes.
 - [yesitsme](https://github.com/blackeko/yesitsme) - Simple OSINT script to find Instagram profiles by name and e-mail/phone
 - [Toolzu Instagram Search](https://toolzu.com/search-instagram-profiles) - Search Instagram profiles by username or name.
 - [toutatis](https://github.com/megadose/toutatis) - Extract information from Instagram accounts such as e-mails, phone numbers and more.
+- [Instagram Lookup by LurkAPI](https://lurkapi.com/free-tools/instagram-lookup) - View a public Instagram profile's bio, links, counts and 12 latest posts without logging in, and export the posts to CSV. Free, 5 tries a day without signup (a lookup uses two); runs on the paid LurkAPI API.
 <br>
 
 [⇧ Top](#index)
@@ -1072,6 +1080,7 @@ the number of views or likes.
 - [maltego-telegram](https://github.com/vognik/maltego-telegram/) - OSINT Maltego Transforms for investigating Telegram channels, groups, and users, including deanonymization via stickers, forwarded messages, similar channels, deleted posts, and more.
 - [Telegram Channels List](https://tlgrm.eu/channels) - Discover interesting channels for your Telegram
 - [TOPTL](https://toptl.net/) - Searchable directory of public Telegram channels, groups, and bots, organized by category and language.
+- [TG Market](https://tgmarket.io/) - Searchable database of public Telegram channels by topic, language and country, with subscriber history, reach, ER, ad history and full-text post search.
 - [Readergram.com](https://readergram.com/) - Here you can find channels, chats and groups for every taste and preference
 - [Find Telegram Channels/Bots/Groups](https://xtea.io/ts_en.html) - search for telegram group, channels, bots
 - [Telegram Group: Find Telegram Channels, Bots & Groups](https://www.telegram-group.com/en/) - Telegram Channels, Groups, and Bots
@@ -1088,6 +1097,7 @@ the number of views or likes.
 - ~~[Snapchat User Search](https://sovip.io/)~~ - 503
 - [SnapScraper](https://rhematt.github.io/Snap-Scraper/) - SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitiude co-ordinates.
 - [snapmap-archiver](https://pypi.org/project/snapmap-archiver/) - Download all Snapmaps content from a specific location.
+- [Snapchat Story Viewer by LurkAPI](https://lurkapi.com/free-tools/snapchat-story-viewer) - Watch a public Snapchat profile's current story, highlights and Spotlight videos without an account, so you never show up in its viewers. Free, 5 tries a day without signup; runs on the paid LurkAPI API.
 <br>
 
 ## TIKTOK
@@ -1112,6 +1122,7 @@ the number of views or likes.
 - [TikTok Hashtags](https://www.tiktok.com/hashtag/) - Tool for generating TikTok hashtags.
 - [TikTok Scraper](https://tiktokscraper.com/) - Tool for scraping TikTok profiles and videos.
 - [TikTok Timestamp](https://www.tiktoktimestamper.com/) - Tool for analyzing timestamps on TikTok videos.
+- [TikTok Transcript by LurkAPI](https://lurkapi.com/free-tools/tiktok-transcript) - Get every word said in a public TikTok video from its captions, with timestamps, as text or an .srt file. Free, 5 tries a day without signup; runs on the paid LurkAPI API.
 - [TikView](https://www.tikview.com/) - Tool for searching TikTok profiles and content.
 - [tikvstock](https://tikvstock.com/) - Tool for stock and analyzing TikTok videos.
 - [Tokvid](https://tokvid.com/) - Tool for downloading TikTok videos.
@@ -1364,6 +1375,7 @@ Enter two images and the difference will show up below
 - [MotionElements](https://www.motionelements.com/) - Stock video, music, and media search engine.
 - [Pixabay](https://pixabay.com/images/search/) - Free Image gallery
 - [picarta.ai](https://www.picarta.ai/) - find where a photo has been taken using AI
+- [Oceanir](https://oceanir.ai/) - Estimates photo locations from visible clues without GPS metadata. Freemium; results require independent verification.
 
 ### Music
 
@@ -1430,6 +1442,7 @@ Enter two images and the difference will show up below
 - [🚗License Plates in Canada 🇨🇦](https://www.google.com/maps/d/viewer?mid=1zXYL2BF2MByEduLzYN5brVnli9J3cIlv)
 - [Vehical Info](https://www.vehicleinfo.in/) - 404
 - [CarInfo](https://www.carinfo.app/) - Get Your Vehicle Details by RC
+- [Flock Locations](https://flocklocations.com/) - Free public map of Flock Safety and ALPR camera locations in the US, with the dataset downloadable as CSV and GeoJSON under CC BY 4.0
 <br>
 
 [⇧ Top](#index)
@@ -1824,6 +1837,7 @@ Enter two images and the difference will show up below
 - [Bitcoin Forums Search Engine](https://cse.google.com/cse?cx=f49f9d5e679b15787) - custom google search for bitcoin
 - [Blockchain Explorer](https://www.blockchain.com/explorer) - Blockchain.com is a cryptocurrency financial services company. The company began as the first Bitcoin blockchain explorer in 2011 and later created a cryptocurrency wallet that accounted for 28% of bitcoin transactions between 2012 and 2020
 - [Blockcypher](https://live.blockcypher.com/) - Find info that other block explorers don't have, search the block chain.
+- [SoChain](https://sochain.com/) - Block explorer and API for Bitcoin, Litecoin, Dogecoin and Zcash: addresses, transactions and blocks, free keyless lookups.
 - [Addresschecker.eu](http://addresschecker.eu/)
 - [Coinwink.com](https://coinwink.com/) - Track important price changes of your favorite cryptocurrencies with the help of Coinwink crypto alerts
 - [OSINT Intelligence On Chain](https://osint.intelligenceonchain.com/) - Blockchain-based OSINT and cryptocurrency investigation tools.
@@ -1971,6 +1985,7 @@ Enter two images and the difference will show up below
 - [list-org](https://www.list-org.com/) - Basic information about any Russian legal entity or entrepreneur
 - [OpenCorporates](https://opencorporates.com/) - Fresh, standardized, auditable information direct from official primary sources across 140+ jurisdictions — all underpinned by our Legal-Entity Data Principles and world-leading expertise in legal-entity data.
 - [Fylings](https://www.fylings.com/) - Free company-intelligence platform for Africa: search 1.5M+ companies across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official registry source and a last-verified date on every record. Beneficial ownership, government-contract awards and sanctions screening included. Free API + MCP server.
+- [Auregistre](https://auregistre.fr/) - Free, no-account timeline of every French company from the official gazette (BODACC) and Sirene: officers, changes of capital, name and registered office, insolvency proceedings, filed accounts, and a weekly insolvency barometer. Free JSON API without key + MCP server.
 - [Company Records](https://records.knowyourcustomer.com/) - Free anonymous company search across 149 jurisdictions, each with its own coverage page. On purchase, the company report and the underlying official filings are retrieved live from the official register (paid, from US$19).
 - [Barcodepedia](https://barcodepedia.com/) - Free product encyclopedia indexed by barcode: trace a consumer product to its brand owner, licensee or bottler, and GS1 barcode registrant, with every fact cited.
 - [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Find out who's behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.
@@ -2127,6 +2142,7 @@ about police misconduct in Chicago
 - [SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html) - Search company filings with the US Securities and Exchange Commission.
 - [OpenSecrets](https://www.opensecrets.org/) - Money in politics and lobbying data.
 - [FollowTheMoney](https://www.followthemoney.org/) - Track campaign contributions and lobbying.
+- [OppIntell](https://oppintell.com/) - Nonpartisan opposition research software: public-record profiles of 24,000+ U.S. candidates, every claim linked to its source (freemium).
 - [Regulations.gov](https://www.regulations.gov/) - Search federal regulatory documents.
 - [Lexington KY Employee Salaries 2021](https://c0ect130.caspio.com/dp/c852100055664d756c6e441aa963)
 - [Greater Sacramento Area Public Salaries](https://b2.caspio.com/dp/c48210000605c38aa22f4080a1be)
@@ -2160,6 +2176,7 @@ about police misconduct in Chicago
 - [Dutchess and Ulster bridge safety ratings 2015](https://b2.caspio.com/dp.asp?AppKey=996f1000109b0cd3b24b408daf60)
 - [Lou Barletta 2017 Donors](https://b2.caspio.com/dp/0a9210001cdd2eaac90941488478)
 - [Worcester MA Employee Gross Pay](https://c0acu481.caspio.com/dp/e0536000108787410ed749fdb240)
+- [Insider Express (Canada)](https://insiderexpress.ca/) - Canadian public filings cross-linked by person and company: SEDI insider trades, MP and senator disclosed holdings, federal lobbying, political donations, and federal contracts and grants (free to read, a free account is required after a few pages)
 <br>
 
 [⇧ Top](#index)
