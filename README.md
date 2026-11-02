@@ -952,6 +952,7 @@ You are searching 121 billion records.
 - [ActiveTK](https://www.activetk.jp/tools/yt-not-well-known) - This web application allows you to search for Youtube videos by
 the number of views or likes.
 - [youtubetranscript](https://youtubetranscript.com/) - Extremely fast free online service for converting YouTube videos to text. Not perfect quality, but quite acceptable and very fast.
+- [Voqusa](https://www.voqusa.com/) - Free web tool and Chrome extension that converts a public TikTok, YouTube Shorts or Instagram Reels link into a text transcript with timestamps; useful for quoting and archiving short-video claims.
 
 <br>
 
