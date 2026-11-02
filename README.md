@@ -1784,6 +1784,7 @@ custom made google search engine for perticular fields
 - [CertGrep](https://certgrep.sh/) - SSL/TLS certificate search and monitoring.
 - [TriNetLayer](https://trinetlayer.com/) - Network layer analysis and IP intelligence.
 - [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets.
+- [PendingDelete.net](https://pendingdelete.net/) - Free daily lists of expiring and pending-delete domains with registry-confirmed drop times, plus WHOIS and RDAP lookups. No sign-up required.
 
 <br>
 
