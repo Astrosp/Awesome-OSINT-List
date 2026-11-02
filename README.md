@@ -1550,6 +1550,7 @@ Enter two images and the difference will show up below
 - [Who.is](https://who.is/) - WHOIS Search, Domain Name, Website, and IP Tools
 - [Whoxy](https://www.whoxy.com/) - whoxy domain search engine
 - [Whois History](https://osint.sh/whoishistory/) - Lets you see all the historical WHOIS records of a domain name
+- [WhoisFreaks WHOIS History](https://whoisfreaks.com/tools/whois/history/lookup) - Historical WHOIS records for a domain; pre-2018 snapshots often still show registrant details that current WHOIS redacts. Limited records free without signup, full history via paid API.
 - [Karma.Domains WHOIS Lookup](https://karma.domains/en/whois-lookup/) - Free WHOIS lookup (no signup, 10 domains/day) showing registration dates, status and contacts in readable tables; companion free DNS lookup at karma.domains/en/dns-lookup/
 <br>
 
