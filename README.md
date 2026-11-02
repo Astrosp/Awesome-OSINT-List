@@ -24,12 +24,125 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
 ## Index
- [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Messaging Apps & Communication](#messaging-apps--communication) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [Video OSINT & Verification](#video-osint--verification) ⁕ [Metadata & File Analysis](#metadata--file-analysis) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools) ⁕ [Academic & Research Databases](#academic--research-databases) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Free Media & Software Directories](#free-media--software-directories) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research)
+
+#### Communication & Messaging
+- [Messaging Apps & Communication](#messaging-apps--communication)
+- [Secure Communication](#secure-communication)
+
+#### Content & Media
+- [Blog](#blog)
+- [Free Media & Software Directories](#free-media--software-directories)
+- [News](#news)
+- [Open Directory](#open-directory)
+- [Radio](#radio)
+
+#### Darknet & Extremism
+- [Darknet](#darknet)
+- [Extremist / Far-Right](#extremist--far-right)
+- [War / Military Conflict](#war--military-conflict)
+
+#### Finance & Business
+- [Blockchain / Crypto Investigation](#blockchain--crypto-investigation)
+- [Business](#business)
+- [Corporation](#can-corporation)
+- [Cryptocurrency](#cryptocurrency)
+- [Finance](#finance)
+
+#### Geolocation & Tracking
+- [Flight Tracker](#flight-tracker)
+- [Geo](#geo)
+- [License Plate / VIN / Vehicle](#license-platevinvehicle)
+- [Maps](#maps)
+- [Maritime](#maritime)
+- [Vehicle / Transportation](#vehicle--transportation)
+
+#### Government & Public Records
+- [Government](#government)
+- [Informant](#informant)
+- [Police / LE / Fed](#police--le--fed)
+- [Public Records](#public-records)
+- [Real Estate](#real-estate)
+- [Resident Database](#resident-database)
+
+#### Intelligence & Data
+- [AI](#ai)
+- [Basic OSINT](#basic-osint)
+- [Breaches & Leaks](#breaches-and-leaks)
+- [Data Dump](#data-dump)
+- [Dataset](#dataset)
+- [Malware](#malware)
+- [Threat Intel](#threat-intel)
+
+#### Learning & Resources
+- [Academic & Research Databases](#academic--research-databases)
+- [Bug Bounty / Security Research](#bug-bounty--security-research)
+- [OSINT Challenge](#osint-challenge)
+- [OSINT Training / Learning](#osint-training--learning)
+- [Other](#other)
+- [Resources](#resources)
+- [Weather](#weather)
+- [World Clock](#world-clock)
+
+#### Media & Analysis
+- [Google CSE](#google-cse)
+- [Images and Audio](#images-and-audio)
+- [Metadata & File Analysis](#metadata--file-analysis)
+- [Video OSINT & Verification](#video-osint--verification)
+
+#### People & Identity
+- [Email](#email)
+- [Identity Resolution](#identity-resolution)
+- [People](#people)
+- [Phone](#phone)
+- [Unified Search](#unified-search)
+- [Username](#username)
+
+#### Privacy & Utilities
+- [Downloader](#downloader)
+- [Emulator](#emulator)
+- [File Upload](#file-upload)
+- [Hash Recovery](#hash-recovery)
+- [ID Generator](#id-generator)
+- [Privacy / Security](#privacy--security)
+- [Throwaway Contact](#throwaway-contact)
+
+#### Reconnaissance & Scanning
+- [Domain / IP / DNS](#domain--ip--dns)
+- [IoT](#iot)
+- [Recon](#recon)
+- [Resolvers](#resolvers)
+- [Search Engines](#search-engines)
+- [Source Codes](#source-codes)
+- [Whois](#whois)
+
+#### Social Media
+- [Clubhouse](#clubhouse)
+- [Discord](#discord)
+- [Facebook](#facebook)
+- [Google](#google)
+- [Instagram](#instagram)
+- [LinkedIn](#linkedin)
+- [Reddit](#reddit)
+- [Snapchat](#snapchat)
+- [Social Media](#social-media)
+- [Steam](#steam)
+- [Telegram](#telegram)
+- [TikTok](#tiktok)
+- [Twitch](#twitch)
+- [Twitter](#twitter)
+- [Whatsapp](#whatsapp)
+- [Youtube](#youtube)
+
+#### Tools & Productivity
+- [Analytics](#analytics)
+- [Bot](#bot)
+- [Dork](#dork)
+- [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools)
+- [Productivity](#productivity)
+- [Toolset](#toolset)
 
 
-#### <i>Some of other OSINT tools List</i>
 
-- [osinttools.io](https://osinttools.io/) - Discover and compare the top OSINT tools in one place.
 ## Breaches and Leaks
 
 - [greynoise](https://viz.greynoise.io/) - Search for IPs, Tags, CVEs, vpn, dns...
