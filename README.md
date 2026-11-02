@@ -1568,6 +1568,7 @@ custom made google search engine for perticular fields
 - [HullCipher](https://hullcipher.com) - Free live map of the ships on the UN, US, UK, EU, Canadian, Australian, New Zealand, Swiss and Japanese sanctions lists, showing what each list calls a ship beside what it broadcasts on AIS now: name, MMSI and flag changes, silences, restricted port calls and meetings at sea. No account needed to browse; paid plans are available.
 - [Marine Traffic](https://www.marinetraffic.com/) - Seaways / marine live map.
 - [VesselFinder](https://www.vesselfinder.com/) - Free AIS Ship Tracker - VesselFinder.
+- [Finnish Port Calls (Apify)](https://apify.com/itulo/digitraffic-port-calls-marine) - Vessel port calls and per-port congestion for Finnish ports from Fintraffic Digitraffic open data (CC BY 4.0). Paid per use; data free from digitraffic.fi.
 - [OSINT on the Ocean](https://wondersmithrae.medium.com/osint-on-the-ocean-maritime-intelligence-gathering-techniques-2ee39e554fe1) - Article on Maritime Intelligence Gathering.
 
 <br>
@@ -2097,6 +2098,8 @@ custom made google search engine for perticular fields
 - [Fylings](https://www.fylings.com/) - Free company-intelligence platform for Africa: search 1.5M+ companies across 18+ official national registries (Nigeria's CAC, Tanzania's BRELA, Mauritius's CBRD, Senegal's RCCM and more), with the official registry source and a last-verified date on every record. Beneficial ownership, government-contract awards and sanctions screening included. Free API + MCP server.
 - [Auregistre](https://auregistre.fr/) - Free, no-account timeline of every French company from the official gazette (BODACC) and Sirene: officers, changes of capital, name and registered office, insolvency proceedings, filed accounts, and a weekly insolvency barometer. Free JSON API without key + MCP server.
 - [Company Records](https://records.knowyourcustomer.com/) - Free anonymous company search across 149 jurisdictions, each with its own coverage page. On purchase, the company report and the underlying official filings are retrieved live from the official register (paid, from US$19).
+- [EU Sanctions Screen (Apify)](https://apify.com/itulo/eu-sanctions-screen) - Screens names and IDs against the official EU Consolidated Financial Sanctions List, returning exact and fuzzy possible matches for manual review. Paid per use.
+- [UK Companies House KYB (Apify)](https://apify.com/itulo/uk-companies-house-kyb) - Company-level UK records from the official Companies House API (free key required) plus GLEIF LEI and parent lookups; no officer data. Paid per use.
 - [Barcodepedia](https://barcodepedia.com/) - Free product encyclopedia indexed by barcode: trace a consumer product to its brand owner, licensee or bottler, and GS1 barcode registrant, with every fact cited.
 - [ICIJ Offshore Leaks Database](https://offshoreleaks.icij.org/) - Find out who's behind more than 810,000 offshore companies, foundations and trusts from the Pandora Papers, Paradise Papers, Bahamas Leaks, Panama Papers and Offshore Leaks investigations.
 - [Crunchbase](https://www.crunchbase.com/) - Discover innovative companies and the people behind them.
