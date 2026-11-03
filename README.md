@@ -227,6 +227,7 @@ Data Leak, scam, username, domain, social
 - [You.com](https://you.com/) - AI search engine with multiple modes for different research needs.
 - [Phind](https://www.phind.com/) - AI search engine optimized for developers and technical queries.
 - [Exa.ai](https://exa.ai) - Ai search engine.
+- [Keenable](https://keenable.ai) - Independent web search index for AI agents, with search and page fetch over API, CLI and MCP.
 
 ### AI Research & Academic Tools
 
