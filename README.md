@@ -481,7 +481,6 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Text and File Hash Calculator](https://defuse.ca/checksums.htm) - This page lets you hash ASCII text or a file with many different hash algorithms. Checksums are commonly used to verify the integrety of data. The most common use is to verify that a file has been downloaded without error. The data you enter here is 100% private, neither the data nor hash values are ever recorded.
 - [HTML Sanitizer Tool](https://defuse.ca/html-sanitize.htm) - This tool will take your text and convert all the special characters to their proper HTML codes, so you can paste text with special characters or HTML code onto your website. It has been carefully designed so that the HTML produced by this tool looks and behaves exactly like the original text does in a text editor.
 - [URL Decoder/Encoder](https://meyerweb.com/eric/tools/dencoder/) - Encode/decode URL in url form.
-- [ODA - The Online Disassembler](https://onlinedisassembler.com/odaweb/) - A lightweight, online service for when you don’t have the time, resources, or requirements to use a heavier-weight alternative. Explore executables by dissecting its sections, strings, symbols, raw hex and machine level instructions.
 - [Disasm.pro](https://disasm.pro/) - A realtime assembler/disassembler (formerly known as disasm.ninja).
 - [Fotor](https://www.fotor.com/photo-editor-app/editor/basic) - Online image editor remove bg, crop, edit...
 - [Decompiler.com](http://www.decompiler.com/) - Online decompiler for java, apk, lua ....
@@ -565,7 +564,6 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Fake Youtube Channel Generator](https://fakeinfo.net/fake-youtube-channel-generator) - D you ever wish to become a YouTuber with a large number of subscribers? Well, dreams do come true. By using the Fake Youtube Channel Generator tool, you may create a fake youtube channel with an attractive channel name and several subscribers.
 - [Resume Builder](https://vinaysomawat.github.io/Resume-Builder/) - Simple resume builder.
 - [Fake Generator Tools](https://fauxid.com/tools) - Here are a list of tools that can help you create fake identities, fake emails, fake credit cards, fake driver's license, and a fake company.
-- [RandTap](https://randtap.com) - Free random data generator tools. Generate phone numbers, addresses, passwords, colors and more.
 
 <br>
 
@@ -735,7 +733,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Cyberthreat Real-Time Map](https://cybermap.kaspersky.com/) - Cyberthreat real-time attack map of the world.
 - [Live Cyber Attack Threat Map](https://www.checkpoint.com/ThreatPortal/livemap.html) - Live cyber threat map.
 - [Digital Attack Map](https://www.digitalattackmap.com/) - Live Global DDoS Attack.
-- [Cyber Threat Map](https://www.fireeye.com/cyber-map/threat-map.html) - Interactive live visualization of global cyber attacks by FireEye / Trellix.
+- [Check Point ThreatMap](https://threatmap.checkpoint.com/) - Interactive live visualization of global cyber attacks by FireEye / Trellix.
 - [Bitdefender Threat Map](https://threatmap.bitdefender.com/) - Cyberthreat realtime map.
 - [Cyber Threat Intelligence](https://pulsedive.com/) - Frictionless threat intelligence solutions for growing teams.
 - [Threat Landscape](https://threatlandscape.io/) - Extracts, structures, and connects global OSINT and darknet signals into intelligence.
@@ -1817,7 +1815,6 @@ custom made google search engine for perticular fields
 
 ## Resolvers
 
-- [PSN Resolver](https://playstationresolver.xyz/) - Lookup IP addresses and network endpoints associated with PlayStation Network usernames.
 - [Cloudflare Resolver](http://www.skypeipresolver.net/cloudflare.php) - Identify real origin server IP addresses behind Cloudflare proxy protection.
 - [Cloudflare Resolver Tool](https://shadowcrypt.net/tools/cloudflare) - Online tool to uncover true web server IP addresses masked by Cloudflare.
 - [Discord Resolver](https://www.leaked.site/index.php?resolver/discord.0/) - Resolve Discord user IDs to associated IP or network data.
@@ -1924,7 +1921,6 @@ custom made google search engine for perticular fields
 - [Earth Engine Dataset](https://developers.google.com/earth-engine/datasets/) - Earth Engine's public data archive includes more than forty years of historical imagery and scientific datasets, updated and expanded daily.
 - [GeoPlatform Portal](https://www.geoplatform.gov/) - The Geospatial Platform is a cross-agency collaborative effort and Shared Service that embodies the principles and spirit of Open Government, emphasizing government-to-citizen communication, accountability, and transparency.
 - [FAO Map Catalog](https://data.apps.fao.org/map/catalog/srv/eng/catalog.search#/home) - UN Food and Agriculture Organization spatial datasets and map catalog.
-- [geocreepy](http://www.geocreepy.com/) - A Geolocation OSINT Tool. Offers geolocation information gathering through social networking platforms.
 - [US Crisis Monitor](https://acleddata.com/special-projects/us-crisis-monitor/) - The United States Crisis Monitor provides in-depth coverage of demonstration and political violence trends across the US.
 - [Toronto Live](https://apps.esri.ca/torontolive/) - Toronto live ; like public schools, traffic, bike share, ttc.
 - [Residential Fire Fatalities in Indiana](https://www.arcgis.com/apps/dashboards/4d1289ab105145a1b1f80c1ad3cf19fb) - ArcGIS dashboard tracking residential fire fatalities and demographics across Indiana.
@@ -2007,7 +2003,6 @@ custom made google search engine for perticular fields
 - [Ashley Madison hacked email checker](https://ashley.cynic.al/) - Was your profile compromised in the Ashley Madison hack.
 - [Sony Archives](https://wikileaks.org/sony/emails/) - You will find this data in there .onion site.
 - [Ghostbin](https://ghostbin.com/) - Paste and share text anonymously.
-- [Slexy](https://slexy.org/) - Paste site with syntax highlighting.
 - [JustPaste.it](https://justpaste.it/) - Simple paste sharing service.
 - [Paste.ee](https://paste.ee/) - Advanced paste sharing with encryption.
 - [Pastebin.com](https://pastebin.com/) - The original paste sharing site.
@@ -2065,7 +2060,6 @@ custom made google search engine for perticular fields
 - [DeepStateMap](https://deepstatemap.live) - Ukrainian-developed live mapping platform tracking military positions, territorial control, and combat operations with frequent updates from verified sources.
 - [WarMapper](https://warmapper.com) - Interactive conflict mapping platform providing real-time tracking of military operations, territorial changes, and front-line movements with battle dynamics visualization.
 - [Janes](https://www.janes.com) - Leading defense intelligence platform providing comprehensive military equipment databases, threat assessments, and conflict analysis with detailed technical specifications.
-- [Geollect](https://geollect.com) - AI-powered geospatial intelligence platform that analyzes satellite imagery to detect military infrastructure, equipment movements, and conflict-related activities.
 - [WarWire](https://warwire.net) - Conflict intelligence aggregator monitoring military movements, equipment deployments, and combat operations across multiple theaters with timestamp verification.
 - [Flightradar24](https://www.flightradar24.com) - Flight tracking service invaluable for monitoring military transport aircraft, surveillance planes, and aerial reconnaissance operations during conflicts when transponders are active.
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking.
@@ -2253,10 +2247,10 @@ custom made google search engine for perticular fields
 - [Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - ProPublica database of IRS Form 990 filings for US tax-exempt organizations.
 - [Coronavirus Bailouts](https://projects.propublica.org/coronavirus/bailouts/) - ProPublica database tracking Paycheck Protection Program (PPP) loan recipients.
 - [Nursing Home Inspect](https://projects.propublica.org/nursing-homes/) - Search tool for nursing home health inspections and federal deficiency citations.
-- [Macron Campaign Emails](https://wikileaks.org//macron-emails/) - Searchable WikiLeaks archive of leaked emails from the 2017 French presidential campaign.
-- [DNC email database](https://wikileaks.org//dnc-emails/) - Searchable WikiLeaks archive of internal Democratic National Committee emails.
+- [Macron Campaign Emails](https://wikileaks.org/macron-emails/) - Searchable WikiLeaks archive of leaked emails from the 2017 French presidential campaign.
+- [DNC email database](https://wikileaks.org/dnc-emails/) - Searchable WikiLeaks archive of internal Democratic National Committee emails.
 - [GI Files](https://search.wikileaks.org/gifiles/) - Searchable WikiLeaks archive of internal emails from corporate intelligence firm Stratfor.
-- [AKP email database/](https://wikileaks.org//akp-emails/) - Searchable WikiLeaks archive of internal emails from Turkey's ruling AKP party.
+- [AKP email database/](https://wikileaks.org/akp-emails/) - Searchable WikiLeaks archive of internal emails from Turkey's ruling AKP party.
 - [LittleSis](https://littlesis.org/) - Free database mapping influence networks between government officials and big business.
 - [FederalRegister.gov](https://www.federalregister.gov/) - Official journal of the US federal government.
 - [USAspending.gov](https://www.usaspending.gov/) - Official source for spending data for the US Government.
@@ -2299,7 +2293,7 @@ custom made google search engine for perticular fields
 - [Lou Barletta 2017 Donors](https://b2.caspio.com/dp/0a9210001cdd2eaac90941488478) - Federal campaign finance disclosures of individual donors to Lou Barletta.
 - [Worcester MA Employee Gross Pay](https://c0acu481.caspio.com/dp/e0536000108787410ed749fdb240) - City of Worcester, Massachusetts gross annual municipal employee earnings.
 - [Insider Express (Canada)](https://insiderexpress.ca/) - Canadian public filings cross-linked by person and company: SEDI insider trades, MP and senator disclosed holdings, federal lobbying, political donations, and federal contracts and grants (free to read, a free account is required after a few pages).
-- [Cryptome / WikiLeaks](https://cryptome.wikileaks.org/) - Searchable archive and documentation library from WikiLeaks and Cryptome.
+- [Cryptome / WikiLeaks](https://cryptome.org/) - Searchable archive and documentation library from WikiLeaks and Cryptome.
 
 <br>
 

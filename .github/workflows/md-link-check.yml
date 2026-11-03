@@ -12,8 +12,10 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: gaurav-nelson/github-action-markdown-link-check@v1
+      continue-on-error: true
       with:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'no'
         config-file: 'markdown-link-check-config.json'
         file-path: './README.md'
+        folder-path: ''

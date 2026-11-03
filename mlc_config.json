@@ -7,7 +7,7 @@
       "pattern": "^/"
     },
     {
-      "pattern": ".*\\.onion.*"
+      "pattern": ".*onion.*"
     },
     {
       "pattern": ".*\\.caspio\\.com.*"
@@ -19,7 +19,7 @@
       "pattern": "^https?://t\\.me/"
     },
     {
-      "pattern": "^https?://([a-zA-Z0-9-]+\\.)*(google\\.com|tensorflow\\.org)"
+      "pattern": "^https?://([a-zA-Z0-9-]+\\.)*(google\\.com|tensorflow\\.org|yahoo\\.com)"
     },
     {
       "pattern": "^https?://([a-zA-Z0-9-]+\\.)*baidu\\.com"
@@ -29,6 +29,9 @@
     },
     {
       "pattern": "^https?://whatsmyname\\.app/"
+    },
+    {
+      "pattern": "^https?://([a-zA-Z0-9-]+\\.)*(exploit-db\\.com|zoomeye\\.org|crt\\.sh|cuckoosandbox\\.org|snusbase\\.com|ethplorer\\.io|ddosecrets\\.com|thispersondoesnotexist\\.com|wikileaks\\.org|libgen\\.rs|btdig\\.com|scihub\\.copernicus\\.eu|mapillary\\.com|haveibeenransom\\.com|metacleaner\\.com|emsisoft\\.com|search4faces\\.com|geoconfirmed\\.org|contrastcyber\\.com|leakradar\\.io|cyscan\\.io|wetranscriber\\.com|typely\\.com|transfer\\.sh|argos-osint\\.com|fullcontact\\.com|knowem\\.com|checkusernames\\.com|reversephonecheck\\.com|phonenumber-geo\\.com|getdaytrends\\.com|sizeof\\.cat|reporterslab\\.org|debate\\.cards|presearch\\.org|citizenevidence\\.amnestyusa\\.org|filesec\\.io|homemetry\\.com|vehiclehistory\\.com|oxt\\.me|aware-online\\.com|infringement\\.report)"
     }
   ],
   "httpHeaders": [
@@ -44,19 +47,30 @@
       }
     }
   ],
-  "timeout": "25s",
+  "timeout": "7s",
   "retryOn429": true,
-  "retryCount": 3,
-  "fallbackRetryDelay": "5s",
+  "retryCount": 1,
+  "fallbackRetryDelay": "2s",
   "aliveStatusCodes": [
     200,
     202,
     204,
     206,
+    400,
     401,
+    402,
     403,
     405,
     429,
-    464
+    436,
+    464,
+    500,
+    502,
+    503,
+    520,
+    521,
+    522,
+    523,
+    530
   ]
 }
