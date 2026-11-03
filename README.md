@@ -8,7 +8,7 @@ A curated list of OSINT tools and resources for penetration testing, reverse sea
 <!--SPONSOR-->
 <div align="center">
   <a href="https://webvetted.com/awesome-osint?utm_source=github&utm_medium=sponsorship&utm_campaign=awesome-osint1">
-    <img src="/assets/sponsor/sponsor_banner.png" alt="WebVetted OSINT" width="800">
+    <img src="/assets/Images/sponsor_banner.png" alt="WebVetted OSINT" width="800">
   </a>
   <br><br>
   <i><b>Stop juggling dozens of OSINT tools.</b> WebVetted brings 32 tools into one unified dashboard. Turn any email, phone, or username into a complete identity investigation with deep OSINT enrichment, breach intel, AI analysis, and an interactive identity graph.</i><br>
