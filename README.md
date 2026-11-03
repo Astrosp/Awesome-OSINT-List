@@ -2254,6 +2254,7 @@ custom made google search engine for perticular fields
 - [LittleSis](https://littlesis.org/) - Free database mapping influence networks between government officials and big business.
 - [FederalRegister.gov](https://www.federalregister.gov/) - Official journal of the US federal government.
 - [USAspending.gov](https://www.usaspending.gov/) - Official source for spending data for the US Government.
+- [CapitolBids](https://capitolbids.com/) - Search US federal contract notices from SAM.gov with USAspending award amounts and agency and supplier pages.
 - [GovInfo.gov](https://www.govinfo.gov/) - Official publications from all three branches of the Federal Government.
 - [SEC EDGAR](https://www.sec.gov/edgar/searchedgar/companysearch.html) - Search company filings with the US Securities and Exchange Commission.
 - [OpenSecrets](https://www.opensecrets.org/) - Money in politics and lobbying data.
