@@ -1322,6 +1322,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Newspapers.com](https://www.newspapers.com/) - The largest online newspaper archive, established in 2012. Used by millions for genealogy and family history, historical research, crime investigations, journalism, and entertainment. Search for obituaries, marriage announcements, birth announcements, social pages, national and local news articles, sports, advertisements, entertainment, fashion and lifestyle pages, comics, and more.
 - [Talkwalker](https://www.talkwalker.com/alerts) - Best free and easy alternative to Google Alerts Talkwalker Alerts monitors every single mention of your brand, products, and keywords across the internet - including news platforms, blogs, forums, websites, and even Twitter (X).
 - [Google Alerts](https://www.google.com/alerts) - Monitor the web for interesting new content create an email alert about any topic in mind.
+- [Topic Watch](https://github.com/0xzerolight/topic_watch) - Self-hosted news monitor that uses an LLM to only notify on genuinely new information.
 - [Hoaxy: How claims spread online](https://hoaxy.osome.iu.edu/) - Visualize the spread of information on Twitter.
 - [Snopes](https://www.snopes.com/?s=) - The definitive fact-checking site and reference source for urban legends, folklore, myths, rumors, and misinformation.
 - [ReviewMeta](https://reviewmeta.com/) - ReviewMeta analyzes Amazon product reviews and filters out reviews that our algorithm detects may be unnatural.
