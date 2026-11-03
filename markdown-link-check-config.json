@@ -1,18 +1,62 @@
 {
-    "ignorePatterns": [
-      {
-        "pattern": "^bundle.zip"
-      },
-      {
-        "pattern": "^/"
+  "ignorePatterns": [
+    {
+      "pattern": "^bundle\\.zip"
+    },
+    {
+      "pattern": "^/"
+    },
+    {
+      "pattern": ".*\\.onion.*"
+    },
+    {
+      "pattern": ".*\\.caspio\\.com.*"
+    },
+    {
+      "pattern": "^https?://(www\\.)?(twitter|x|linkedin|instagram|facebook|reddit)\\.com"
+    },
+    {
+      "pattern": "^https?://t\\.me/"
+    },
+    {
+      "pattern": "^https?://([a-zA-Z0-9-]+\\.)*(google\\.com|tensorflow\\.org)"
+    },
+    {
+      "pattern": "^https?://([a-zA-Z0-9-]+\\.)*baidu\\.com"
+    },
+    {
+      "pattern": "^https?://archive\\.(is|today|ph|md|vn|fo|li)"
+    },
+    {
+      "pattern": "^https?://whatsmyname\\.app/"
+    }
+  ],
+  "httpHeaders": [
+    {
+      "urls": [
+        "https://",
+        "http://"
+      ],
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5"
       }
-    ],
-    "httpHeaders": [
-      {
-        "urls": ["https://", "http://"],
-        "headers": {
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0"
-        }
-      }
-    ]
-  }
+    }
+  ],
+  "timeout": "25s",
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackRetryDelay": "5s",
+  "aliveStatusCodes": [
+    200,
+    202,
+    204,
+    206,
+    401,
+    403,
+    405,
+    429,
+    464
+  ]
+}
