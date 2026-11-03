@@ -1,146 +1,38 @@
-# Contributing to Awesome-OSINT-For-Everything
+# Contributing Guidelines
 
-Thank you for your interest in contributing to this OSINT resources collection! This document provides guidelines for contributing to the project.
+Thanks for helping keep **Awesome OSINT For Everything** accurate, active, and comprehensive!
 
-## How to Contribute
+---
 
-### Reporting Broken Links
+### Criteria for Inclusion
+- **OSINT Relevant**: Must directly aid intelligence gathering, reconnaissance, security research, or investigations.
+- **Active & Live**: The tool or service must be functional. No parked domains, spam, or scam sites.
+- **No Duplicates**: Search `README.md` to ensure the tool is not already listed under another section.
+- **No Malicious Content**: No malware, credential stealers, or illegal services.
 
-If you find broken or dead links:
+---
 
-1. **Check if the issue already exists** in the [Issues](https://github.com/Astrosp/Awesome-OSINT-For-Everything/issues) tab
-2. **Create a new issue** with:
-   - The broken link(s)
-   - The section where they appear
-   - Any alternative links you've found (if available)
-3. **Use the title format**: `[Broken Link] Service Name - Section`
+### Entry Format
+Add your entry under the most relevant category using this format:
 
-### Adding New Tools/Resources
+```markdown
+- [Tool Name](https://example.com/) - Concise 1-sentence description ending with a period.
+```
 
-To add a new OSINT tool or resource:
+- Keep descriptions factual, neutral, and under 25 words.
+- Avoid promotional hype (*"the best tool ever"*, *"super fast"*).
+- If adding a new sub-category, ensure it has at least 3 relevant tools.
 
-1. **Verify the resource**:
-   - Ensure the link works
-   - Check that it's relevant to OSINT
-   - Verify it's not already in the list
+---
 
-2. **Find the right category**:
-   - Place it in the most appropriate section
-   - Maintain alphabetical order within sections if applicable
-   - Create a new section if needed (discuss first in an issue)
+### Moved or Broken Links
+- **Check for domain migrations**: Services frequently migrate (e.g., `.org` → `.net`, domain rebrands, or moving to GitHub). Always check for a new official home before removing an entry.
+- **Permanently defunct tools**: If a project or service is confirmed shut down with no active successor, submit a PR to remove it.
 
-3. **Format correctly**:
-   ```markdown
-   - [Tool Name](https://example.com/) - Brief description of what it does
-   ```
+---
 
-4. **Submit a Pull Request**:
-   - Fork the repository
-   - Make your changes
-   - Run link check: `npm run link-check`
-   - Submit PR with clear description
-
-### Fixing Broken Links
-
-When fixing broken links:
-
-1. **Verify the problem**:
-   - Check if the link is truly dead
-   - Use web.archive.org to find historical data
-   - Search for the new URL if service moved
-
-2. **Find alternatives**:
-   - Look for official new URLs
-   - Search for similar services if original is gone
-   - Check OSINT communities for recommendations
-
-3. **Update the link**:
-   - Replace with working alternative
-   - Update description if service changed
-   - Add note if functionality differs
-
-4. **Document changes**:
-   - Explain why the change was needed in PR description
-   - Note what you verified
-
-### Link Checking Process
-
-Before submitting a PR:
-
-1. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-2. **Run link checker**:
-   ```bash
-   npm run link-check
-   ```
-
-3. **Review results**:
-   - Ensure your new links work (✓)
-   - Fix any broken links you introduced (✖)
-
-4. **Generate report** (optional):
-   ```bash
-   npm run link-check-report
-   ```
-
-### Quality Guidelines
-
-**Good Contributions:**
-- Add actively maintained tools
-- Provide accurate descriptions
-- Include working links
-- Follow existing formatting
-- Group related tools together
-
-**Avoid:**
-- Broken or dead links
-- Duplicate entries
-- Self-promotion without value
-- Links to illegal content
-- Paywalled services (unless clearly noted)
-
-## Code of Conduct
-
-### Our Standards
-
-- Be respectful and inclusive
-- Provide constructive feedback
-- Focus on what's best for the community
-- Show empathy towards others
-
-### Our Responsibilities
-
-Maintainers will:
-- Review PRs in a timely manner
-- Provide clear feedback
-- Enforce quality standards
-- Keep the list up-to-date
-
-## Pull Request Process
-
-1. **Fork and clone** the repository
-2. **Create a branch** for your changes:
-   ```bash
-   git checkout -b add-new-tool
-   ```
-3. **Make your changes** following the guidelines above
-4. **Test your changes**:
-   ```bash
-   npm install
-   npm run link-check
-   ```
-5. **Commit with clear message**:
-   ```bash
-   git commit -m "Add ToolName to Category section"
-   ```
-6. **Push to your fork**:
-   ```bash
-   git push origin add-new-tool
-   ```
-7. **Submit Pull Request** with:
-   - Clear title describing the change
-   - Description of what you added/changed
-   - Why it's valuable to the collection
+### Submission Process
+1. **Fork & Branch**: Create a branch on your fork (e.g., `git checkout -b add-tool-name`).
+2. **Update `README.md`**: Add or update the tool in the appropriate section.
+3. **Verify**: Ensure the link loads cleanly.
+4. **Open a PR**: Use a concise PR title (e.g., `Add ToolName to Reconnaissance` or `Fix moved domain for ToolName`).

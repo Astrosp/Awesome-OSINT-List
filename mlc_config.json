@@ -1,0 +1,76 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^bundle\\.zip"
+    },
+    {
+      "pattern": "^/"
+    },
+    {
+      "pattern": ".*onion.*"
+    },
+    {
+      "pattern": ".*\\.caspio\\.com.*"
+    },
+    {
+      "pattern": "^https?://(www\\.)?(twitter|x|linkedin|instagram|facebook|reddit)\\.com"
+    },
+    {
+      "pattern": "^https?://t\\.me/"
+    },
+    {
+      "pattern": "^https?://([a-zA-Z0-9-]+\\.)*(google\\.com|tensorflow\\.org|yahoo\\.com)"
+    },
+    {
+      "pattern": "^https?://([a-zA-Z0-9-]+\\.)*baidu\\.com"
+    },
+    {
+      "pattern": "^https?://archive\\.(is|today|ph|md|vn|fo|li)"
+    },
+    {
+      "pattern": "^https?://whatsmyname\\.app/"
+    },
+    {
+      "pattern": "^https?://([a-zA-Z0-9-]+\\.)*(exploit-db\\.com|zoomeye\\.org|crt\\.sh|cuckoosandbox\\.org|snusbase\\.com|ethplorer\\.io|ddosecrets\\.com|thispersondoesnotexist\\.com|wikileaks\\.org|libgen\\.rs|btdig\\.com|scihub\\.copernicus\\.eu|mapillary\\.com|haveibeenransom\\.com|metacleaner\\.com|emsisoft\\.com|search4faces\\.com|geoconfirmed\\.org|contrastcyber\\.com|leakradar\\.io|cyscan\\.io|wetranscriber\\.com|typely\\.com|transfer\\.sh|argos-osint\\.com|fullcontact\\.com|knowem\\.com|checkusernames\\.com|reversephonecheck\\.com|phonenumber-geo\\.com|getdaytrends\\.com|sizeof\\.cat|reporterslab\\.org|debate\\.cards|presearch\\.org|citizenevidence\\.amnestyusa\\.org|filesec\\.io|homemetry\\.com|vehiclehistory\\.com|oxt\\.me|aware-online\\.com|infringement\\.report)"
+    }
+  ],
+  "httpHeaders": [
+    {
+      "urls": [
+        "https://",
+        "http://"
+      ],
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5"
+      }
+    }
+  ],
+  "timeout": "7s",
+  "retryOn429": true,
+  "retryCount": 1,
+  "fallbackRetryDelay": "2s",
+  "aliveStatusCodes": [
+    200,
+    202,
+    204,
+    206,
+    400,
+    401,
+    402,
+    403,
+    405,
+    429,
+    436,
+    464,
+    500,
+    502,
+    503,
+    520,
+    521,
+    522,
+    523,
+    530
+  ]
+}
