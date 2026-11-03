@@ -992,6 +992,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 
 - [Fedica (formerly Followerwonk)](https://fedica.com/) - Twitter/X bio search, audience segmentation, demographics, and account comparisons.
 - [GetXAPI](https://www.getxapi.com/) - Twitter / X data API for OSINT collection. Read endpoints (search, profiles, follower graph, mentions, lists, communities, trends) and write endpoints. Bearer-token auth. Public OpenAPI 3.1 spec.
+- [xdataapi.io](https://xdataapi.io/) - Read-only API for public X profiles, tweets, followers and search with x.com operators, billed per item returned.
 - [BirdHunt](https://birdhunt.co/) - BirdHunt will show you all tweets within the chosen geographic location.
 - [Nitter](https://github.com/zedeus/nitter/) - Alternative Twitter front-end.
 - [Twitter Search Engine](https://cse.google.com/cse?cx=5857bab69c8b8e37e) - Custom search engine for twitter.
