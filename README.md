@@ -505,6 +505,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [SkyOSINT](https://skyosint.io) - OSINT platform for intelligence gathering and analysis.
 - [DeadDrop](https://deaddrop.theosintconsultants.com/dashboard) - OSINT dashboard and investigation tool from The OSINT Consultants.
 - [30Tools](https://30tools.com/) - Collection of 30+ useful online tools for various OSINT and productivity tasks.
+- [Max Intel](https://maxintel.org/) - Free browser-based OSINT toolkit with people, domain, IP, threat and geolocation lookups, plus dated, sourced guides.
 
 <br>
 
