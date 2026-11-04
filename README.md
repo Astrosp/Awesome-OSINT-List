@@ -857,6 +857,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Usersearch.org](https://usersearch.org/) - Find someone by username across 600+ sites.
 - [Instant Username Search](https://instantusername.com/) - Check username availability across 100+ sites.
 - [Namecheckr](https://www.namecheckr.com/) - Check username and domain availability.
+- [ProfileTrace](https://www.profiletrace.ai/) - Web app that checks one username across ~4,000 sites; first search free after sign-up, then paid credits.
 
 <br>
 
