@@ -1329,6 +1329,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Truth or Fiction](https://www.truthorfiction.com/) - Truth or Fiction? – Seeking truth, exposing fiction.
 - [Debunking False Stories Archives](https://www.factcheck.org/fake-news/) - FactCheck.org is one of several organizations working with Facebook to debunk misinformation shared on the social media network.
 - [Fact-Checking](https://reporterslab.org/fact-checking/) - The Reporters’ Lab is a center for journalism research in the Sanford School of Public Policy at Duke University. Our core projects focus on fact-checking, but we also do occasional research about trust in the news media and other topics.
+- [Situation](https://situation.dividendsolo.com/) - A live world map of conflicts and crises with news streams, oil prices and Treasury data on one screen.
 
 <br>
 
