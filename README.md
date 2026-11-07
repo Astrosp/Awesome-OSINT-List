@@ -2118,6 +2118,7 @@ custom made google search engine for perticular fields
 - [ValidFleetList (unknown Sail Boat database)](https://c0eru285.caspio.com/dp/0dc330002829dcc1ad864b5bb094) - ValidFleetList (unknown Sail Boat database) OSINT tool and resource.
 - [Viking Rifle Series Shooter Live Results](https://vikingrifleseries.caspio.com/dp/c8ac5000f29041f935cf42b6a641) - Viking Rifle Series Shooter Live Results OSINT tool and resource.
 
+- [They Sent It](https://theysentit.com/) - Free archive of real marketing emails from 60,000+ brands; look up which email platform a company uses and how often they send.
 <br>
 
 [⇧ Top](#index)
