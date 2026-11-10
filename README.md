@@ -1727,6 +1727,7 @@ custom made google search engine for perticular fields
 - [CertGrep](https://certgrep.sh/) - SSL/TLS certificate search and monitoring.
 - [TriNetLayer](https://trinetlayer.com/) - Network layer analysis and IP intelligence.
 - [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets.
+- [SpoofCheck](https://spoofchecker.online/) - Checks a domain's SPF, DKIM, DMARC and MTA-STS records and grades how easily its email can be spoofed.
 
 <br>
 
