@@ -2333,6 +2333,7 @@ custom made google search engine for perticular fields
 - [Solscan](https://solscan.io/) - Solana blockchain explorer.
 - [Polygonscan](https://polygonscan.com/) - Polygon blockchain explorer.
 - [BSCScan](https://bscscan.com/) - Binance Smart Chain explorer.
+- [XMRList AML Check](https://xmrlist.com/tools/aml-check) - Free screening of addresses and transactions on major chains against OFAC sanctions and USDT/USDC freezes, no registration required.
 
 <br>
 
