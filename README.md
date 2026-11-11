@@ -183,6 +183,7 @@ A curated list of OSINT tools and resources for penetration testing, reverse sea
 - [Lunar Cyber](https://lunarcyber.com/) - Search and monitor compromised credentials across data breaches and infostealer logs.
 - [Have I Been Ransomed?](https://haveibeenransom.com/) - Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches.
 - [Breach House](https://breach.house/) - Free, open search of ransomware leaks, stealer logs, traditional breaches and leads by company, domain or email.
+- [Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT) - Self-hosted checker that tests email, username, phone and password against breaches, infostealer logs and COMB data across 26 keyless sources.
 
 <br>
 
