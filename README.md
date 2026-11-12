@@ -2118,6 +2118,7 @@ custom made google search engine for perticular fields
 - [FL Energy Money in Politics](https://b2.caspio.com/dp.asp?AppKey=c73210001174b8c2a8d444768f5c) - FL Energy Money in Politics OSINT tool and resource.
 - [ValidFleetList (unknown Sail Boat database)](https://c0eru285.caspio.com/dp/0dc330002829dcc1ad864b5bb094) - ValidFleetList (unknown Sail Boat database) OSINT tool and resource.
 - [Viking Rifle Series Shooter Live Results](https://vikingrifleseries.caspio.com/dp/c8ac5000f29041f935cf42b6a641) - Viking Rifle Series Shooter Live Results OSINT tool and resource.
+- [Company Social MCP](https://github.com/GeminiGeorge22/company-social-mcp) - MCP server that resolves a company website or name to its official LinkedIn, X, YouTube, Instagram and Facebook profiles with evidence.
 
 <br>
 
