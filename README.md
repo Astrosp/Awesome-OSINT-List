@@ -1055,6 +1055,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [RedditMetis](https://redditmetis.com/) - See statistics for your Reddit account.
 - [Search Reddit Comments by User](https://www.redditcommentsearch.com/) - Search through comments of a particular reddit user. Just enter the username and a search query.
 - [Pushshift API Guide](https://github.com/pushshift/api) - The pushshift.io Reddit API was designed and created by the /r/datasets mod team to help provide enhanced functionality and search capabilities for searching Reddit comments and submissions.
+- [KissMyPost](https://kissmypost.com/) - Search Reddit posts and comments since 2005 by phrase or brand, with subreddit size, growth and audience stats.
 
 <br>
 
