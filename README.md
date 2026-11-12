@@ -901,6 +901,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [NeverBounce](https://neverbounce.com/) - Real-time email verification.
 - [MailTester](https://mailtester.com/) - Test if an email address exists.
 - [Verify-Email](https://verify-email.org/) - Check if an email address exists.
+- [MailVeri](https://mailveri.com/) - Email verification API and bulk checker that reports valid, invalid, disposable, catch-all and role addresses.
 - [Google Alerts for Emails](https://www.google.com/alerts) - Monitor when an email appears online.
 - [mosint](https://github.com/alpkeskin/mosint) - Automated e-mail OSINT tool for gathering information about email addresses.
 - [Apollo.io](https://www.apollo.io/) - B2B database for finding professional email addresses and company info.
