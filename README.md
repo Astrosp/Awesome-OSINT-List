@@ -1067,6 +1067,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [LinkedIn Search Engine](https://cse.google.com/cse?cx=daaf18e804f81bed0) - Custom google search for linkedin.
 - [LinkedIn Email Reverse Lookup](https://osint.support/chrome-extensions/2019/09/03/linkedin-email-reverse-lookup.html) - Chrome extention for linkedin Simply provide an email address which is of interest to you and click Search. If a match is found the name, profile id, username will be returned as well as the profile image if one exists.
 - [Proxycurl](https://nubela.co/proxycurl/) - Pull rich data about people and companies.
+- [EnrichGrid](https://enrichgrid.com/) - LinkedIn profile and company scraper API that returns public profile, work history and company data as JSON from a URL, without login or cookies.
 - [OutX LinkedIn Profile Viewer](https://www.outx.ai/all-tools/linkedin-profile-viewer) - AI-powered LinkedIn profile viewer and analysis tool.
 
 <br>
