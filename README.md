@@ -413,6 +413,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [CachedPages](http://www.cachedpages.com/) - A cached page is a snapshot or a version of a web page saved at a specific time and stored by a web server as a backup copy.
 - [Google Cached Pages of Any Website](https://cachedview.com/) - The Google Cache Browser for any page on Internet.
 - [CurlShot](https://curlshot.com) - Capture a full-page screenshot or PDF of any URL as it looks now, rendered in a real Chromium browser; free web tool with no account, plus an API (100 free captures/month, paid plans).
+- [PageWitness](https://sentinelforensic.app/) - Captures web pages and social posts as signed, timestamped evidence packs (WARC, screenshot, PDF) that can be verified offline (paid).
 - [Oldweb.today](http://oldweb.today/) - See old web browser.
 - [Unpaywall](https://unpaywall.org/products/extension) - Read research papers for free paywall on millions of peer-reviewed journal articles. It's fast, free, and legal.
 - [DeepL](https://www.deepl.com/translator) - DeepL translate.
