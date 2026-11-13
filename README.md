@@ -1663,6 +1663,7 @@ custom made google search engine for perticular fields
 
 - [Focsec](https://focsec.com) - IP Threat Intelligence, provides general IP information, Proxy, TOR and VPN Detection.
 - [favihash](https://www.favihash.com/) - Get the hash of a favicon to identify websites using the same. Works on both open web and dark web.
+- [FaviconDL](https://favicondl.com/) - List every favicon a website declares, with link tags, sizes and direct file URLs, and download them.
 - [domain digger](https://digger.tools/) - Find all dns recoreds, whois data, ssl/tls certificate history, subdomain and more.
 - [dnslytics](https://dnslytics.com/) - Search for domain IPv4, IPv6 or Provider.
 - [dnstwist](https://dnstwist.it) - Scan phishing domain.
