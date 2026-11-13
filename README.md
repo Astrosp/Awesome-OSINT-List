@@ -2329,6 +2329,7 @@ custom made google search engine for perticular fields
 - [Arkham Intelligence](https://www.arkhamintelligence.com/) - Crypto intelligence and entity tracking.
 - [Chainabuse](https://www.chainabuse.com/) - Report and search crypto scam addresses.
 - [ScamAlert](https://scam-alert.io/) - Database of crypto scam addresses.
+- [FreezeRadar](https://freezeradar.com/) - Checks USDT, USDC and PAXG wallet addresses for issuer blacklist/freeze status and sanctions exposure.
 - [BitRef](https://bitref.com/) - Simple Bitcoin balance checker.
 - [Ethplorer](https://ethplorer.io/) - Ethereum token and wallet explorer.
 - [Solscan](https://solscan.io/) - Solana blockchain explorer.
