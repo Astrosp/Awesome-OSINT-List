@@ -1031,6 +1031,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [YouTube Metadata Bulk](https://mattw.io/youtube-metadata/bulk) - Metadata bulk grabs details about multiple YouTube videos, a playlist's videos, or a channel's public videos.
 - [Hadzy.com](https://hadzy.com/) - Search, sort and analyze youtube comments.
 - [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Download the latest public YouTube video or Shorts comments as CSV for audience research and OSINT workflows.
+- [AI Comment Exporter](https://aicommentexporter.com/youtube-comment-exporter/) - Export all comments and replies of a public YouTube video to CSV or JSON; the first 500 comments are free to read and search.
 - [Youtube channel ID](https://commentpicker.com/youtube-channel-id.php) - Find YouTube Channel ID, and related channel information and statistics.
 - [Yout](https://yout.com/) - Search for something in the search bar, click your video, and then record it as a Mp3 (Audio), you can toggle to Mp4 (Video), or Gif (Image) if you want those instead.
 - [Youtube, Periscope, Twitch & Dailymotion](https://one-plus.github.io/Youtube) - General search tool for youtube.
