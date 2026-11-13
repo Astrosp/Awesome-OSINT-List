@@ -1148,6 +1148,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Toolzu Instagram Search](https://toolzu.com/search-instagram-profiles) - Search Instagram profiles by username or name.
 - [toutatis](https://github.com/megadose/toutatis) - Extract information from Instagram accounts such as e-mails, phone numbers and more.
 - [Instagram Lookup by LurkAPI](https://lurkapi.com/free-tools/instagram-lookup) - View a public Instagram profile's bio, links, counts and 12 latest posts without logging in, and export the posts to CSV. Free, 5 tries a day without signup (a lookup uses two); runs on the paid LurkAPI API.
+- [iStoryTracker](https://istorytracker.com/) - Anonymous web viewer for public Instagram Stories: search a username to open Stories currently available, without logging in to Instagram. Public accounts only; private accounts and expired Stories cannot be opened.
 
 <br>
 
