@@ -1039,6 +1039,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [ActiveTK](https://www.activetk.jp/tools/yt-not-well-known) - Search for YouTube videos filtered by number of views or likes.
 - [youtubetranscript](https://youtubetranscript.com/) - Extremely fast free online service for converting YouTube videos to text. Not perfect quality, but quite acceptable and very fast.
 - [Voqusa](https://www.voqusa.com/) - Free web tool and Chrome extension that converts a public TikTok, YouTube Shorts or Instagram Reels link into a text transcript with timestamps; useful for quoting and archiving short-video claims.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) - Get a YouTube video's transcript with timestamps and export it as SRT, VTT, JSON, CSV, Markdown or TXT.
 
 <br>
 
