@@ -910,6 +910,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [sherlockeye](https://www.sherlockeye.io) - Search for any email across 400+ sources in seconds.
 - [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Email — Instantly.
 - [Findemail.io](https://findemail.io/) - Find verified business and corporate email addresses for any company.
+- [LeadSets](https://www.leadsets.ai/) - Unlimited B2B Contact Data API: find and verify work emails, with verification status and check date.
 
 <br>
 
