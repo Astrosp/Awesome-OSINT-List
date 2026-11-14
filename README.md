@@ -1692,6 +1692,7 @@ custom made google search engine for perticular fields
 - [LeakIX](https://leakix.net/) - This project goes around the Internet and finds services to index them.
 - [URL and website scanner](https://urlscan.io/) - Urlscan.io is a free service to scan and analyse websites. When a URL is submitted to urlscan.io, an automated process will browse to the URL like a regular user and record the activity that this page navigation creates.
 - [ScanMalware](https://scanmalware.com/) - Free sandboxed URL scanner with a public archive of past scans, searchable by domain, IP, ASN, JARM, favicon mmh3, TLSH/ssdeep or screenshot hash. Reports phishing and malware verdicts, network requests, technologies, TLS/RDAP records and certificate transparency pivots. No account or API key required.
+- [Scanify](https://scanify.to/) - Checks a link, file, QR code or IP against 95+ antivirus engines, domain age and redirects, with a free basic verdict.
 - [dnsdumpster](https://dnsdumpster.com/) - DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
 - [IPVoid](https://www.ipvoid.com/) - IP address reputation and blacklist check.
 - [Domain Codex](https://www.domaincodex.com/search.php) - Private investigation search, legal and case research, IP & Digital piracy..
