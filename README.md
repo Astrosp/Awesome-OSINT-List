@@ -225,6 +225,7 @@ Data Leak, scam, username, domain, social
 
 - [Perplexity AI](https://www.perplexity.ai/) - AI-powered search engine that provides concise, sourced answers to queries.
 - [SpecStream](https://specstream.ai/) - Live web data engine with Search and Extract APIs for OSINT.
+- [SpecStream](https://specstream.ai/) - Live web data engine with Search and Extract APIs for OSINT.
 - [You.com](https://you.com/) - AI search engine with multiple modes for different research needs.
 - [Phind](https://www.phind.com/) - AI search engine optimized for developers and technical queries.
 - [Exa.ai](https://exa.ai) - Ai search engine.
