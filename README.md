@@ -1204,6 +1204,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [TikTok Transcript by LurkAPI](https://lurkapi.com/free-tools/tiktok-transcript) - Get every word said in a public TikTok video from its captions, with timestamps, as text or an .srt file. Free, 5 tries a day without signup; runs on the paid LurkAPI API.
 - [Tokvid](https://tokvid.com/) - Tool for downloading TikTok videos.
 - [TubeHi](https://www.tubehi.com/) - Tool for analyzing TikTok and YouTube content.
+- [VidQuark](https://vidquark.com/) - Free browser tool to save individual public TikTok videos as MP4 or convert available audio to MP3, with device-specific file-saving guides.
 
 <br>
 
