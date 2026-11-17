@@ -2160,7 +2160,8 @@ custom made google search engine for perticular fields
 - [Iowa Cities police budgets](https://public.flourish.studio/visualisation/3168834/) - Amount of General Fund Budgets allocated to police in cities in Iowa.
 - [TGCG Members Page](https://c2ffn114.caspio.com/dp/e6a74000833e44e23c324a10987c) - Directory of The Gang Crime Group members and resources.
 - [LELU](https://github.com/the-legal-aid-society/LELU) - Data from Legal Aid Society's Law Enforcement Lookup.
-
+- [Street Crime Map](https://streetcrimemap.co.uk/) - Street-level police records for England, Wales and Northern Ireland counted by area and category, with coverage notes.
+  
 <br>
 
 [⇧ Top](#index)
