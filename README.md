@@ -750,7 +750,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Hudson Rock Free Cybercrime Intelligence Tools](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Check if a specific domain or email address was compromised by Infostealer infections.
 - [Intelligence Security](https://intelligencesecurity.io/) - Threat intelligence and security information platform.
 - [MITRE ATT&CK](https://attack.mitre.org/) - Knowledge base of adversary tactics and techniques.
-- [ContrastAPI](https://api.contrastcyber.com) - Security intelligence API and MCP server — domain recon, CVE lookup, IP reputation, threat intel, subdomain enumeration, and code security scanning. 23 tools, free, no API key required.
+- [ContrastAPI](https://api.contrastcyber.com) - Security data API and MCP server: CVE, CISA KEV, EPSS and public exploit lookups, package advisories, DNS, TLS, e-mail and WHOIS checks, subdomain enumeration, IP lookups, and watchlists that report changes. Free tier, no API key required.
 - [Abuse.ch](https://abuse.ch/) - Fighting malware and botnets with various tracking projects.
 - [URLhaus](https://urlhaus.abuse.ch/) - Share malicious URLs that are being used for malware distribution.
 - [MalwareBazaar](https://bazaar.abuse.ch/) - Share malware samples for research purposes.
