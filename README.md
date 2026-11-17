@@ -778,6 +778,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Clearbit](https://dashboard.clearbit.com/lookup) - B2B data provider to enrich contact records, score leads, and identify companies.
 - [FullContact API](https://dashboard.fullcontact.com/login) - We provide the data + intelligence you need in your platforms to accurately identify people and optimize experiences—while putting privacy and security first.
 - [Aeroleads.com](https://aeroleads.com/) - Search database of 500 Million Business Emails, 120M Personal Emails and 20M Phone Numbers.
+- [Datacircle](https://datacircle.dev) - Find the best GTM APIs for people and company data. Open API at https://api.datacircle.dev/v1, no key.
 
 <br>
 
