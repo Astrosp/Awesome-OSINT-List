@@ -1179,6 +1179,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Snap Map](https://map.snapchat.com/) - World map of snap just tap on location and watch.
 - [SnapScraper](https://rhematt.github.io/Snap-Scraper/) - SnapScraper is an open source intelligence tool which enables users to download media uploaded to Snapchat’s Snap Map using a set of latitude and longitude co-ordinates.
 - [snapmap-archiver](https://pypi.org/project/snapmap-archiver/) - Download all Snapmaps content from a specific location.
+- [SnapDataHub](https://snapdatahub.com/) - Look up a public Snapchat profile's Spotlight performance and engagement figures; free Spotlight earnings calculator.
 - [Snapchat Story Viewer by LurkAPI](https://lurkapi.com/free-tools/snapchat-story-viewer) - Watch a public Snapchat profile's current story, highlights and Spotlight videos without an account, so you never show up in its viewers. Free, 5 tries a day without signup; runs on the paid LurkAPI API.
 
 <br>
