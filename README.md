@@ -228,6 +228,7 @@ Data Leak, scam, username, domain, social
 - [Phind](https://www.phind.com/) - AI search engine optimized for developers and technical queries.
 - [Exa.ai](https://exa.ai) - Ai search engine.
 - [Keenable](https://keenable.ai) - Independent web search index for AI agents, with search and page fetch over API, CLI and MCP.
+- [Kruqond](https://kruqond.com/) - AI-assisted research across public web pages, Reddit, YouTube, GitHub, TikTok and other social media, with source links.
 
 ### AI Research & Academic Tools
 
