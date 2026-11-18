@@ -1667,6 +1667,7 @@ custom made google search engine for perticular fields
 - [domain digger](https://digger.tools/) - Find all dns recoreds, whois data, ssl/tls certificate history, subdomain and more.
 - [dnslytics](https://dnslytics.com/) - Search for domain IPv4, IPv6 or Provider.
 - [dnstwist](https://dnstwist.it) - Scan phishing domain.
+- [OpenBait Typosquat Check](https://openbait.com/tools/typosquat-check) - Find registered typosquatting and lookalike domains of a brand and see which are live. Free, no signup.
 - [SecurityTrails](https://securitytrails.com/) - Search for domain, IPs, keyword or Hostname.
 - [Shodan](https://shodan.io/) - Shodan is a search engine that lets users search for various types of servers connected to the internet using a variety of filters. Some have also described it as a search engine of service banners, which are metadata that the server sends back to the client.
 - [GreyNoise Intelligence](https://www.greynoise.io/viz/) - GreyNoise identifies internet scanners and common business activity in your security events so you can make confident decisions, faster. Whether you use our Visualizer, API, or integrate GreyNoise data into your security tools, find what's important in your security logs and get back to business.
