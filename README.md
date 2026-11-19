@@ -805,6 +805,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 
 ## People
 
+- [DeepSearch](https://deepsearch.tools/) - Name-based people search with limited free candidate previews; full reports are paid.
 - [IDCrawl](https://www.idcrawl.com/) - People Search a friend, relative, yourself, or someone else you may know (US ONLY).
 - [WebMii](https://webmii.com/) - People search engine.
 - [Free People Search](https://www.peoplefinder.com/) - Police Records, Background Checks, Social Media, Photos, Assets, Contact Information and Much More! (us only).
