@@ -970,6 +970,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Instagram, Reddit & Snapchat](https://one-plus.github.io/Instagram) - Search people, posts ...
 - [Google to search profiles on Dribbble](https://recruitin.net/dribbble.php) - Dribbble is good for finding front end developers, graphic designers, illustrators, typographers, logo designers, and other creative types.
 - [trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool.
+- [Social Fetch](https://www.socialfetch.dev/) - API for public posts, profiles, comments and transcripts from TikTok, Instagram, LinkedIn, X, YouTube and Reddit.
 
 <br>
 
