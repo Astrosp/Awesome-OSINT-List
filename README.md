@@ -768,6 +768,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Generic signature format for SIEM systems.
 - [Global Threat Map](https://globalthreatmap.up.railway.app/) - Real-time visualization of global cyber threats.
 - [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX threat intelligence viewer and visualizer.
+- [Whatoblock](https://whatoblock.com/) - Honeypot-based threat intelligence on scanners, botnet C2 servers, proxies, Tor exit nodes and DDoS sources, with a free live threat map.
 
 <br>
 
