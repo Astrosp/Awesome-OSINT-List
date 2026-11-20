@@ -2089,6 +2089,7 @@ custom made google search engine for perticular fields
 
 - [Companies & Orgs Search Engine](https://cse.google.com/cse?cx=72ea9d8cfefc142d3) - Custom google search for companies and organization search.
 - [companyresearcher](https://companyresearcher.exa.ai/) - Enter a company URL for detailed research info. Instantly know any company inside out.
+- [DDScore](https://www.ddscore.ai/) - Cross-checks private-company documents against public sources and identifies evidence gaps in a first-pass due diligence report.
 - [AllPeople](https://allpeople.com/) - AllPeople is the largest free directory of business contacts for America. Find leads for companies including name, position, email, address, phone number and more!
 - [Corporation Wiki](https://www.corporationwiki.com/) - Corporation Wiki exists to provide corporate transparency and historical data on companies. This allows officers to be held accountable for the actions they take through their corporations.
 - [PA PPP Database](https://public.flourish.studio/visualisation/3105919/) - Loan database.
