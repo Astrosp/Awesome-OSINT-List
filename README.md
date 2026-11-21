@@ -2507,6 +2507,7 @@ custom made google search engine for perticular fields
 - [CVE Integrate](https://cve.integrate.com.mo/) - CVE vulnerability database and integration platform.
 - [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier.
 - [GRIMZ](https://grimz.no-do.dev/) - Armitage-style attack console for Linux: nmap, a live host map and ranked exploit suggestions with CVE and Metasploit (paid, 7-day free trial).
+- [TryTheHandle](https://trythehandle.eu/) - Free external scanner for servers and domains with 160+ checks (TLS, security headers, DNS, SPF/DKIM/DMARC, exposed files) and a report scored out of 100.
 
 ### Content Discovery & Fuzzing
 
