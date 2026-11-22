@@ -243,6 +243,7 @@ Data Leak, scam, username, domain, social
 
 - [OSINT LLM](https://huggingface.co/spaces/tomvaillant/osint-llm) - AI-powered OSINT assistant on Hugging Face.
 - [Threat Intelligence AI](https://threatlandscape.ai/) - Threat Landscape Copilot - Conversational access to continuously updated, structured threat intelligence.
+- [FreeUsername AI](https://freeusername.com/ai-username-search/) - Runs a username scan across 3,450+ sites and writes a short summary of the public profiles found.
 - [ai-toolkit](https://huggingface.co/spaces/JournalistsonHF/ai-toolkit) - The Essential AI Toolkit for Journalists and Content Creators, All the tools listed here are free to use and open-source!
 
 ### AI Image & Video Generation
@@ -838,6 +839,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Phantom Finder (iOS)](https://apps.apple.com/gb/app/phantom-finder-username-search/id6736408372) - Mobile reverse username search with direct profile links.
 - [WhatsMyName Web](https://whatsmyname.app/) - Username search.
 - [FreeUsername](https://freeusername.com/deep-username-search/) - Browser-based username enumeration across 3,450+ sites, linking each hit to the live profile, with no install or sign-up.
+- [FreeUsername (Android)](https://freeusername.com/app/) - Android app that checks a username across 3,450+ sites from the phone itself, available in 10 languages.
 - [Username Checker](https://analyzeid.com/username/) - Social media username checker. Gather information on the taken username and get a summary of who the person is.
 - [Username Search](https://www.idcrawl.com/username) - Uncover social media profiles and real people behind a username.
 - [maigret](https://pypi.org/project/maigret/) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
