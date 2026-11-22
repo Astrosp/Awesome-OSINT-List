@@ -837,6 +837,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [namechk](https://namechk.com/) - Check available username across 30 domain 90 social sites.
 - [Phantom Finder (iOS)](https://apps.apple.com/gb/app/phantom-finder-username-search/id6736408372) - Mobile reverse username search with direct profile links.
 - [WhatsMyName Web](https://whatsmyname.app/) - Username search.
+- [FreeUsername](https://freeusername.com/deep-username-search/) - Browser-based username enumeration across 3,450+ sites, linking each hit to the live profile, with no install or sign-up.
 - [Username Checker](https://analyzeid.com/username/) - Social media username checker. Gather information on the taken username and get a summary of who the person is.
 - [Username Search](https://www.idcrawl.com/username) - Uncover social media profiles and real people behind a username.
 - [maigret](https://pypi.org/project/maigret/) - Maigret collect a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.
