@@ -1092,6 +1092,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [DorkSearch](https://dorksearch.com/) - Google dorking made easy with pre-built search queries.
 - [Google Dork Cheatsheet](https://github.com/robyfirnandoyusuf/Google-Dork-Cheatsheet) - Google dorks cheatsheet.
 - [GitDorker](https://github.com/obheda12/GitDorker) - A Python program to scrape secrets from GitHub through usage of a large repository of dorks.
+- [DorkCraft](https://github.com/juandresrodca/DorkCraft) - Builds a Google dork from a plain English request, explains each operator and scores the query.
 
 <br>
 
