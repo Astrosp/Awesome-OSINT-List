@@ -2465,6 +2465,7 @@ custom made google search engine for perticular fields
 - [SQLMap](https://sqlmap.org/) - Automatic SQL injection and database takeover tool.
 - [Commix](https://github.com/commixproject/commix) - Automated OS command injection and exploitation tool.
 - [NoSQLMap](https://github.com/codingo/NoSQLMap) - Automated NoSQL database enumeration and exploitation.
+- [VibeShield](https://vibe-checker.appwrite.network/) - Free passive read-only web application security scanner (116 checks) inspecting client JavaScript bundles for leaked secrets, Mozilla Observatory security headers, CSP directives, exposed endpoints, and public Supabase/Firebase configuration.
 
 ### Attack Surface Discovery
 
