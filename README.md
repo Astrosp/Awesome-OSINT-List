@@ -183,6 +183,7 @@ A curated list of OSINT tools and resources for penetration testing, reverse sea
 - [Lunar Cyber](https://lunarcyber.com/) - Search and monitor compromised credentials across data breaches and infostealer logs.
 - [Have I Been Ransomed?](https://haveibeenransom.com/) - Check if your email, phone or company has been leaked by ransomware gangs, stealers or traditional breaches.
 - [Breach House](https://breach.house/) - Free, open search of ransomware leaks, stealer logs, traditional breaches and leads by company, domain or email.
+- [OffSeq Breach](https://breach.offseq.com/) - Search a domain or email address across leaked datasets, forums, Telegram channels and marketplaces; free masked results without an account, paid monitoring, unmasking and API.
 
 <br>
 
@@ -768,6 +769,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Generic signature format for SIEM systems.
 - [Global Threat Map](https://globalthreatmap.up.railway.app/) - Real-time visualization of global cyber threats.
 - [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX threat intelligence viewer and visualizer.
+- [OffSeq Mirage Feed](https://feeds.offseq.com/) - Free daily attacker IPs, payload and C2 URLs, malware hashes and exploited CVEs from a honeypot fleet, with an IP lookup; plain lists, CSV, STIX 2.1 and MISP, CC BY 4.0.
 
 <br>
 
