@@ -1474,6 +1474,7 @@ custom made google search engine for perticular fields
 - [Pixabay](https://pixabay.com/images/search/) - Free Image gallery.
 - [picarta.ai](https://www.picarta.ai/) - Find where a photo has been taken using AI.
 - [Oceanir](https://oceanir.ai/) - Estimates photo locations from visible clues without GPS metadata. Freemium; results require independent verification.
+- [WhereMatch](https://wherematch.com/) - Estimates where a photo was taken from visible clues, without EXIF or GPS data. Free, no account; verify results independently.
 
 ### Music
 
