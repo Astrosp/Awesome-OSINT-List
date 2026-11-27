@@ -1711,6 +1711,7 @@ custom made google search engine for perticular fields
 - [IPLeak](https://ipleak.net/) - Check your browser for IP, DNS, WebRTC, and torrent address leaks.
 - [Robtex](https://www.robtex.com) - Robtex is used for various kinds of research of IP numbers, Domain names, etc.
 - [Wappalyzer](https://www.wappalyzer.com/lookup/) - Instantly reveal the technology stack of any website, such as CMS, ecommerce platform or payment processor, as well as company and contact details.
+- [Postmaster of Puppets](https://postmasterofpuppets.com/) - Checks a domain's MX, SPF, DKIM and DMARC records and says whether anyone can send email as it.
 - [photon](https://pypi.org/project/photon/) - Incredibly fast crawler designed for OSINT.
 - [Technology Lookup](https://osint.sh/stack/) - Technology stack checker tool. Check out the technologies used on any website.
 - [BuiltWith Technology Lookup](https://builtwith.com/) - Find out what websites are Built With.
