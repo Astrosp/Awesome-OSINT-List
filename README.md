@@ -933,7 +933,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Email Permutator+](https://www.polished.app/email-permutator/) - Generate possible email address permutations for a person.
 - [RocketReach](https://rocketreach.co/) - Find email addresses and phone numbers for professionals.
 - [sherlockeye](https://www.sherlockeye.io) - Search for any email across 400+ sources in seconds.
-- [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Email — Instantly.
+- [TraceFind](https://tracefind.info/email) - Shows which of 493 sites an email is registered on, its data breaches and the linked Google account, without notifying the owner.
 - [Findemail.io](https://findemail.io/) - Find verified business and corporate email addresses for any company.
 
 <br>
@@ -978,7 +978,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Reverse Australia](https://www.reverseaustralia.com/) - Australian phone number lookup.
 - [Canada411](https://www.canada411.ca/) - Canadian phone and address directory.
 - [sherlockeye](https://www.sherlockeye.io) - Search for any phone across 100+ sources in seconds.
-- [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Phone — Instantly.
+- [TraceFind](https://tracefind.info/phone) - Reverse phone lookup: carrier, line type, WhatsApp, Telegram and Signal accounts, spam reports and data breaches.
 
 <br>
 
