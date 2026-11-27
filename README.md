@@ -973,6 +973,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Google to search profiles on Dribbble](https://recruitin.net/dribbble.php) - Dribbble is good for finding front end developers, graphic designers, illustrators, typographers, logo designers, and other creative types.
 - [trape](https://github.com/jofpin/trape) - People tracker on the Internet: OSINT analysis and research tool.
 - [last30days](https://github.com/mvanhorn/last30days-skill) - Agent skill that searches Reddit, X, YouTube, TikTok, and Hacker News for a topic's last 30 days and writes a cited summary.
+- [Groundsocial](https://groundsocial.dev/) - Paid API (100 free credits) for public posts, comments, profiles and search from Reddit, X, TikTok, Instagram, YouTube and 70+ more platforms.
 
 <br>
 
