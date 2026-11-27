@@ -1039,6 +1039,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [SocialData API](https://socialdata.tools/) - SocialData is an unofficial Twitter API that allows scraping tweets, user profiles, lists and Twitter spaces without using Twitter's API.
 - [TwitterAPI.io](https://twitterapi.io/?utm_source=awesome-osint-for-everything&utm_medium=awesome-list&utm_campaign=backlink-2026q2) - Real-time and historical X (Twitter) data API for investigators: tweet search, profile lookup, follower/following extraction, account monitoring with webhooks. $0.15 per 1K tweets, sub-500ms latency, no auth required for read access.
 - [TweetAPI](https://tweetapi.com/) - Twitter data API for collecting public tweets, profiles, followers and following, lists, communities and Spaces, with batch lookups of up to 200 tweets by ID. Paid, with 100 free requests to test it.
+- [TwexAPI](https://twexapi.io/) - X (Twitter) data API for investigations: advanced search, profiles, timelines, followers and replies, billed per result. Free Twitter Viewer for reading public profiles without an account.
 - [Twitonomy](https://www.twitonomy.com/) - Twitter analytics and management tool.
 - [TweeterID](https://tweeterid.com/) - Convert between Twitter ID and username.
 - [TweetDeck](https://tweetdeck.twitter.com/) - Official Twitter dashboard for monitoring.
