@@ -1763,6 +1763,7 @@ custom made google search engine for perticular fields
 - [TriNetLayer](https://trinetlayer.com/) - Network layer analysis and IP intelligence.
 - [IPLoop](https://iploop.io) - Residential proxy platform (2M+ IPs, 195+ countries). Route OSINT recon through real residential IPs. Python SDK with 66 site presets.
 - [PendingDelete.net](https://pendingdelete.net/) - Free daily lists of expiring and pending-delete domains with registry-confirmed drop times, plus WHOIS and RDAP lookups. No sign-up required.
+- [Sendfinery](https://sendfinery.com) - Checks a domain's SPF, DKIM, DMARC and MX records, looks up DNS and reads email headers, without an account.
 
 <br>
 
