@@ -787,6 +787,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [AbuseIPDB](https://www.abuseipdb.com/) - IP address abuse reports and monitoring.
 - [IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/) - Threat intelligence sharing platform.
 - [OpenCTI](https://github.com/OpenCTI-Platform/opencti) - Open cyber threat intelligence platform.
+- [OpenInvestigation](https://github.com/V1n1v131r4/OpenInvestigation) - Self-hosted, open-source threat investigation workspace correlating IOCs and actor names across 30+ public sources into a relationship graph and a cited, confidence-scored case assessment; built-in MISP import and STIX 2.1 export, runs on Docker.
 - [YETI](https://github.com/yeti-platform/yeti) - Your everyday threat intelligence platform.
 - [MISP](https://www.misp-project.org/) - Open source threat intelligence platform.
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Generic signature format for SIEM systems.
