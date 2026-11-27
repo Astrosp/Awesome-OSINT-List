@@ -1136,6 +1136,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [Discord Bots](https://top.gg/) - Explore millions of Discord Bots.
 - [Discord Bots](https://discord.bots.gg/) - This site is a list of publicly available Discord bots, intended to accompany the Discord Bots, Discord server. The bots presented here are created and maintained by community members and serve all kinds of purposes.
 - [DiscordGate Tools](https://discordgate.com/tools) - Collection of tools for Discord OSINT and investigation.
+- [disdex](https://disdex.io/) - Search public Discord servers by name, invite, server ID or icon, with member history, an ID lookup, an invite checker and a free API.
 
 <br>
 
