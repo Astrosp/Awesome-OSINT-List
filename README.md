@@ -519,6 +519,7 @@ It takes a 'snapshot' of a webpage that will always be online even if the origin
 - [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding Create Unlimited Email Aliases For Free and best part it's open source.
 - [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously.
 - [MailDrop](https://maildrop.cc/) - Save your inbox from spam. Use Maildrop when you don't want to give out your real address No signup required - Maildrop is free for anyone to use when you need a quick, disposable email address.
+- [Tempboxy](https://tempboxy.com/) - Free receive-only .com and .edu.pl temporary email inbox with automatic OTP extraction, tracker-pixel detection, and a keyless REST API.
 - [Send text free](https://globfone.com/send-text/) - Send text online without worrying about phone bills. Free SMS to hundreds of GSM operators worldwide.
 - [Free Fax](https://faxzero.com/) - Send faxes for free to anywhere in the U.S. and Canada Or, Send an International Fax.
 - [Receive-sms-now.com](http://receive-sms-now.com/) - Free temporary phone numbers for SMS verification.
