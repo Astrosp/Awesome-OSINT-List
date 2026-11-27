@@ -2247,6 +2247,7 @@ custom made google search engine for perticular fields
 - [BoatInfoWorld](https://www.boatinfoworld.com/) - US Coast Guard vessel documentation and boat registration database.
 - [Street Name Changes](https://stevemorse.org/census/changes.html) - Historical reference guide to American street and thoroughfare name changes.
 - [Brooklyn Genealogy](http://bklyn-genealogy-info.stevemorse.org/index.html) - Historical directories, census, and vital records for Brooklyn, New York.
+- [H1DR4 Incident Map](https://h1dr4.dev/map) - Free map of Police.uk incident records for England and Wales, with approximate locations and coverage that varies by force and month.
 - [Little Rock AR Crime Search](https://b2.caspio.com/dp.asp?AppKey=88321000961d92fc4ed343f38a0e) - Crime incident, report, and arrest database for Little Rock, Arkansas.
 - [New England Facts](https://newenglandfacts.com/) - Regional public records, demographics, and historical statistics for New England.
 - [Michigan State Records](https://michigan.staterecords.org/) - Public records directory for Michigan court, criminal, and vital documents.
