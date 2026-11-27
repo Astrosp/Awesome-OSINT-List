@@ -15,6 +15,28 @@ A curated list of OSINT tools and resources for penetration testing, reverse sea
   <a href="https://webvetted.com/awesome-osint?utm_source=github&utm_medium=sponsorship&utm_campaign=awesome-osint"><b>Start an Investigation →</b></a>
 </div>
 
+---
+
+### Website and Autofill Extension
+<div align="center">
+  <a href="https://app.zapply.jobs/onboarding/?ref=github-cta-astrosp">
+    <img src="/assets/Images/zapply_apply.png" alt="Apply to jobs in seconds with Zapply." width="800">
+  </a>
+  <br><br>
+  <b>Explore Zapply’s website and check out:</b><br>
+  Our Chrome extension, which autofills job applications in seconds.<br>
+  A dedicated job board featuring the latest openings across various roles.<br>
+  User accounts with multiple profiles for different resume types and roles.<br>
+  Job application tracking with streaks and commitment awards.<br><br>
+  Experience an advanced career journey with us! 🚀
+  <br><br>
+  <a href="https://app.zapply.jobs/onboarding/?ref=github-cta-astrosp">
+    <img src="/assets/Images/zapply_get_started.png" alt="Visit Zapply" width="700">
+  </a>
+  <br>
+  <sub>Sponsored by Zapply</sub>
+</div>
+
 ## Index
 
 #### 1. Artificial Intelligence (AI)
