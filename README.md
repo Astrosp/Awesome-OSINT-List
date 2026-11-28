@@ -2143,6 +2143,7 @@ custom made google search engine for perticular fields
 - [Manta](https://www.manta.com/) - Small business directory and data.
 - [craft.co](https://craft.co/) - Company information and competitive intelligence.
 - [Drevon](https://drevon.dev/) - Runs AI agents that do evidence-backed prospecting, account research, signal tracking, and inbound qualification by gathering public information (LinkedIn, Sales Nav, X/Twitter, company sites) through a native browser using your own logins. Connects to the rest of your GTM stack over MCP; works for individuals, teams, or self-hosted enterprise deployments.
+- [b2b-market-intel](https://github.com/truonggiang0111/b2b-market-intel-python) - Zero-dependency Python CLI for UK public tenders, ClinicalTrials.gov sponsors, Google News URL decoding, and optional APIFY_TOKEN market intelligence.
 - [Owler](https://www.owler.com/) - Competitive insights and company information.
 - [XRefer](https://www.xrefer.com/) - Find top rated verified local companies.
 - [Startup Tracker](https://startuptracker.io/home) - Discover and track startups from MVP to IPO.
